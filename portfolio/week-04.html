@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Satu meaning untuk lima person atau character.">
+<meta name="description" content="Latihan kelenturan register dan dekonstruksi jargon teknis (Kutukan Pengetahuan).">
 
-<title>Five-Language Translation Portfolio – Portfolio KIPP-2</title>
+<title>Portofolio Terjemahan Lima Bahasa – Portfolio KIPP-2</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -79,6 +79,35 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -152,7 +181,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alihkan bilah sisi" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../portfolio/week-04.html">Five-Language Translation Portfolio</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../portfolio/week-04.html">Portofolio Terjemahan Lima Bahasa</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alihkan bilah sisi" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -191,13 +220,13 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../portfolio/week-04.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Five-Language Translation Portfolio</span></a>
+ <span class="menu-text">Portofolio Terjemahan Lima Bahasa</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../portfolio/week-05.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Professional Discovery Interview</span></a>
+ <span class="menu-text">Wawancara Penemuan Kebutuhan &amp; Formula Pernyataan Masalah</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -281,6 +310,10 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#assessment-dosen" id="toc-assessment-dosen" class="nav-link" data-scroll-target="#assessment-dosen">Assessment dosen</a></li>
   </ul></li>
+  <li><a href="#tahap-1-detoks-jargon-dekonstruksi-konsep" id="toc-tahap-1-detoks-jargon-dekonstruksi-konsep" class="nav-link" data-scroll-target="#tahap-1-detoks-jargon-dekonstruksi-konsep">Tahap 1: Detoks Jargon (Dekonstruksi Konsep)</a></li>
+  <li><a href="#tahap-2-matriks-terjemahan-lima-bahasa" id="toc-tahap-2-matriks-terjemahan-lima-bahasa" class="nav-link" data-scroll-target="#tahap-2-matriks-terjemahan-lima-bahasa">Tahap 2: Matriks Terjemahan Lima Bahasa</a></li>
+  <li><a href="#tahap-3-refleksi-pembelajaran-intrapribadi" id="toc-tahap-3-refleksi-pembelajaran-intrapribadi" class="nav-link" data-scroll-target="#tahap-3-refleksi-pembelajaran-intrapribadi">Tahap 3: Refleksi Pembelajaran (Intrapribadi)</a></li>
+  <li><a href="#f.-rubrik-evaluasi-mandiri" id="toc-f.-rubrik-evaluasi-mandiri" class="nav-link" data-scroll-target="#f.-rubrik-evaluasi-mandiri">F. Rubrik Evaluasi Mandiri</a></li>
   </ul>
 </nav>
     </div>
@@ -289,16 +322,16 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Five-Language Translation Portfolio</h1>
+<h1 class="title">Portofolio Terjemahan Lima Bahasa</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">Fondasi</div>
-    <div class="quarto-category">Language</div>
+    <div class="quarto-category">Komunikasi</div>
+    <div class="quarto-category">Code-Switching</div>
   </div>
   </div>
 
 <div>
   <div class="description">
-    Satu meaning untuk lima person atau character.
+    Latihan kelenturan register dan dekonstruksi jargon teknis (Kutukan Pengetahuan).
   </div>
 </div>
 
@@ -452,6 +485,43 @@ ul.task-list li input[type="checkbox"] {
 <strong>Prioritas perbaikan:</strong> —<br>
 <strong>Keputusan:</strong> Belum dinilai / Perlu revisi / Tercapai</p>
 </section>
+<p>Nama Lengkap: Muhammad Rafi Fadillah NIM: 18225115 Program Studi: Sistem dan Teknologi Informasi Tanggal Pengisian: 29 September 2026</p>
+</section>
+<section id="tahap-1-detoks-jargon-dekonstruksi-konsep" class="level2">
+<h2 class="anchored" data-anchor-id="tahap-1-detoks-jargon-dekonstruksi-konsep">Tahap 1: Detoks Jargon (Dekonstruksi Konsep)</h2>
+<ul>
+<li><strong>Konsep Teknis yang Dipilih:</strong> IoT Smart Home Automation (Sistem Otomasi Rumah Pintar berbasis Internet of Things)</li>
+<li><strong>Definisi Teknis Awal:</strong> Integrasi mikrokontroler ESP32 dengan protokol komunikasi nirkabel HTTP/MQTT yang dihubungkan ke platform <em>cloud</em> MQTT broker via Blynk API, memungkinkan pengiriman payload data secara real-time untuk aktuasi pin GPIO relay modul kendali jarak jauh.</li>
+<li><strong>Daftar Jargon Teknis &amp; Artian Sederhananya:</strong>
+<ul>
+<li>Jargon 1: Mikrokontroler ESP32 <span class="math inline">\(\rightarrow\)</span> Arti Sederhana: Otak komputer kecil yang bisa terhubung ke internet.</li>
+<li>Jargon 2: Protokol MQTT <span class="math inline">\(\rightarrow\)</span> Arti Sederhana: Jalur pengiriman pesan kilat antar-perangkat.</li>
+<li>Jargon 3: Aktuasi Relay <span class="math inline">\(\rightarrow\)</span> Arti Sederhana: Perintah otomatis untuk menyalakan atau mematikan saklar listrik.</li>
+</ul></li>
+<li><strong>Kebenaran Inti (Marrow of the Message):</strong> Menghubungkan peralatan rumah tangga ke internet agar bisa dikontrol jarak jauh lewat HP demi kenyamanan dan efisiensi energi.</li>
+</ul>
+</section>
+<section id="tahap-2-matriks-terjemahan-lima-bahasa" class="level2">
+<h2 class="anchored" data-anchor-id="tahap-2-matriks-terjemahan-lima-bahasa">Tahap 2: Matriks Terjemahan Lima Bahasa</h2>
+<p><strong>1. Ragam Bahasa: Anak-Anak (Usia ~10 Tahun)</strong> * Draf Terjemahan: “Bayangkan lampu kamarmu punya sayap ajaib yang bisa mendengarkan perintah dari HP ibu dari jauh. Jadi, kalau kamu lupa mematikan lampu waktu mau berangkat sekolah, lampu itu bisa dimatikan lewat HP tanpa harus kamu balik badan ke kamar lagi!”</p>
+<p><strong>2. Ragam Bahasa: Sahabat (Beda Bidang / Program Studi)</strong> * Draf Terjemahan: “Jadi kemarin tuh gua bikin sistem buat nyalakan lampu rumah pakai ESP32 yang dikontrol lewat aplikasi HP (Blynk). Bayangin kayak bikin remote TV universal, tapi tombolnya ada di smartphone lu dan bisa diakses walaupun lu lagi nongkrong di luar.”</p>
+<p><strong>3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan)</strong> * Draf Terjemahan: “Implementasi sistem menggunakan mikrokontroler ESP32 nodeMCU dengan modul WiFi terintegrasi. Komunikasi data menggunakan protokol MQTT <em>publish-subscribe</em> ke <em>cloud server</em> Blynk untuk mengontrol pin GPIO digital yang terhubung ke modul relay 4-channel secara <em>low-latency</em>.”</p>
+<p><strong>4. Ragam Bahasa: Manajer atau Pengambil Keputusan (Aspek Bisnis)</strong> * Draf Terjemahan: “Penerapan sistem otomasi berbasis IoT ini memangkas konsumsi energi bangunan hingga 15% melalui penjadwalan otomatis dan kontrol terpusat. Investasi awal perangkat berbiaya rendah ini memberikan efisiensi operasional jangka panjang dengan manajemen risiko kegagalan manual yang minimal.”</p>
+<p><strong>5. Ragam Bahasa: Publik Umum (Masyarakat Luas)</strong> * Draf Terjemahan: “Teknologi rumah pintar ini membantu kita mengontrol perangkat listrik di rumah secara jarak jauh lewat ponsel. Selain bikin hidup jauh lebih praktis, sistem ini juga mencegah pemborosan listrik akibat lupa mematikan lampu atau perangkat elektronik saat bepergian.”</p>
+</section>
+<section id="tahap-3-refleksi-pembelajaran-intrapribadi" class="level2">
+<h2 class="anchored" data-anchor-id="tahap-3-refleksi-pembelajaran-intrapribadi">Tahap 3: Refleksi Pembelajaran (Intrapribadi)</h2>
+<ul>
+<li><strong>Ragam bahasa mana yang paling sulit Anda buat? Mengapa?</strong> Ragam anak-anak paling sulit karena harus mencari analogi fisik yang masuk akal di dunia mereka tanpa menggunakan istilah teknis sama sekali.</li>
+<li><strong>Bagaimana proses dekonstruksi jargon ini mengubah cara Anda memandang keilmuan Anda sendiri?</strong> Saya jadi sadar bahwa keahlian teknis tidak ada gunanya jika disampaikan dengan bahasa arogan yang membuat orang lain bingung. Esensi teknologi terletak pada seberapa besar ia bisa dipahami dan dimanfaatkan orang banyak.</li>
+<li><strong>Catatan Penggunaan AI Kopilot (Jika Ada):</strong> Prompt yang digunakan: “Bertindaklah sebagai anak berusia 10 tahun dan kritik apakah penjelasan saya tentang IoT ini membosankan atau terlalu rumit.” Umpan balik AI membantu menyederhanakan analogi saklar lampu jarak jauh agar lebih konkret.</li>
+</ul>
+</section>
+<section id="f.-rubrik-evaluasi-mandiri" class="level2">
+<h2 class="anchored" data-anchor-id="f.-rubrik-evaluasi-mandiri">F. Rubrik Evaluasi Mandiri</h2>
+<ul>
+<li>Skor Mandiri: 15 / 16 (Keutuhan Makna: 4, Kelenturan Register: 4, Kualitas Analogi: 4, Kedalaman Refleksi: 3)</li>
+</ul>
 
 
 </section>
@@ -864,8 +934,8 @@ ul.task-list li input[type="checkbox"] {
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../portfolio/week-05.html" class="pagination-link" aria-label="Professional Discovery Interview">
-        <span class="nav-page-text">Professional Discovery Interview</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../portfolio/week-05.html" class="pagination-link" aria-label="Wawancara Penemuan Kebutuhan &amp; Formula Pernyataan Masalah">
+        <span class="nav-page-text">Wawancara Penemuan Kebutuhan &amp; Formula Pernyataan Masalah</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
