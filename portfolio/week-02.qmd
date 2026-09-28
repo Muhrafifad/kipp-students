@@ -23,3 +23,44 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 :::
 
 {{< include ../includes/evidence-template.md >}}
+
+
+Nama Mahasiswa: Muhammad Rafi Fadillah
+Tanggal Pengerjaan: 29 September 2026
+
+## Bagian 1: Identifikasi Kasus (Bahan Mentah)
+
+**1. Peristiwa yang Dapat Diamati (Fakta Objektif)**  
+* Fakta Saya: Pada tanggal 15 September, saya mengirim pesan teks kepada pacar saya pada pukul 22.00, namun pesan tersebut baru dibalas keesokan harinya, yaitu setelah 2 jam kemudian tanpa ada kabar atau penjelasan sebelumnya selama rentang waktu tersebut.
+
+**2. Interpretasi Pertama (Asumsi Otomatis)**  
+* Interpretasi Pertama Saya: Dia sengaja mengabaikan saya, tidak peduli dengan komunikasi kami, dan mungkin sedang bersenang-senang dengan orang lain atau mengalihkan perhatiannya sepenuhnya dari saya.
+
+**3. Emosi & Sensasi Tubuh**  
+* Emosi yang Dirasakan: Kesal (skor 8/10), cemas (skor 7/10), dan kecewa(6/10).
+* Sensasi Tubuh yang Muncul: Dada terasa sesak, pikiran menjadi gelisah, dan fokus terganggu saat mengerjakan tugas akademik.
+
+
+## Bagian 2: Membedah Tiga Narasi
+
+**Versi A: Narasi Korban (Victim Narrative)**  
+* Isi Narasi Korban: Saya adalah pihak yang dirugikan dalam hubungan LDR ini. Semua kendali atas komunikasi ada di tangan dia, dan saya tidak berdaya selain merasa tersiksa menunggu kabar, lalu berasumsi buruk terhadap kesetiaannya.
+* Pilihan Tindakan Otomatis (Reaktif): Mendiamkan pesan saat dia akhirnya membalas (balas singkat/read doang), mengirim pesan sindiran pasif-agresif, atau marah-marah tanpa mendengarkan alasannya dulu.
+
+**Versi B: Narasi Analitis (Analytical Narrative)**  
+* Apa fakta yang benar-benar telah terbukti?: Pesan saya dikirim pada pukul 22.00 di tanggal 15 September dan mengalami keterlambatan balasan (padahal itu malam hari, dan dia sedang keluar).
+* Apa penjelasan lain (alternatif asumsi) yang masuk akal namun belum saya periksa?: Bisa jadi dia sedang menghadapi kesibukan mendadak, kelelahan fisik, atau ada urusan keluarga/akademik penting yang menyita perhatiannya sehingga ponselnya tidak dipegang.
+* Faktor apa dalam situasi ini yang berada di bawah kendali saya langsung?: Reaksi emosional saya sendiri, cara saya mengelola ekspektasi waktu luang dia, dan bagaimana cara saya menyampaikan perasaan kesal secara asertif alih-alih menuduh.
+
+**Versi C: Narasi Pertumbuhan (Growth Narrative)**  
+* Isi Narasi Pertumbuhan: Rasa kesal dan cemas saya adalah hal yang wajar dalam hubungan jarak jauh, namun melompat ke asumsi negatif justru merusak kedamaian batin dan hubungan itu sendiri. Saya perlu belajar memisahkan fakta keterlambatan dengan cerita batin yang penuh prasangka.
+* Pelajaran yang Dapat Diambil: Komunikasi LDR membutuhkan batasan ekspektasi waktu yang jelas dan kepercayaan (*trust*), serta kebiasaan untuk langsung mengonfirmasi fakta secara terbuka daripada membiarkan asumsi mengontrol emosi.
+
+
+## Bagian 3: Merancang Respons (Action & Support)
+
+**1. Pilihan Respons Terbaik**  
+* Langkah nyata yang saya pilih: Mengajak dia berbicara secara tenang dan jujur lewat panggilan suara (*voice call*), menyampaikan perasaan saya tanpa nada menuduh, serta menanyakan kendala atau kesibukan yang dia hadapi di hari tersebut secara baik-baik.
+
+**2. Dukungan yang Diperlukan**  
+* Nama rekan/pendamping: Diri sendiri dan teman terdekat untuk menenangkan pikiran.
