@@ -21,5 +21,55 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 ::: {.callout-tip title="Lihat contoh pengisian"}
 [Buka contoh fiktif Minggu 1](../examples/week-01.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
-
+    
 {{< include ../includes/evidence-template.md >}}
+
+Nama Mahasiswa: Muhammad Rafi Fadillah
+Tanggal Pengerjaan: 21 September 2026
+
+## Bagian A: Peta 5 Domain Kehidupan
+
+| Domain Kehidupan | Peran yang Saya Ambil | Siapa yang Saya Jumpai | Tanggung Jawab Utama Komunikasi |
+| :--- | :--- | :--- | :--- |
+| 1. Diri Sendiri | Evaluator Target Pribadi | Diri sendiri | Mengevaluasi dan mengatur jadwal sehari saya, seperti belajar, olahraga. me time, dan ibadah. |
+| 2. Keluarga / Sahabat | Anak | Ibu | Memberikan kabar rutin, mengobrol mengenai sedang struggle di matkul apa ataupun kegiatan apa saja yang sayua lakukan, dan menjaga komunikasi agar beliau tidak khawatir. |
+| 3. Profesional / Akademik | Mahasiswa STI | Dosen, Asisten, Teman kelas | Berdiskusi teknis terkait tugas dan materi. |
+| 4. Komunitas / Kelompok | Panitia Organisasi (HR) | Teman Panitia| Mengevaluasi kinerja staf dan berdiskusi terkait penilaian staff. |
+| 5. Dunia / Publik | Pemain Game | Pemain randoms di internet | Melakukan komunikasi seperti pemberian info terkait musuh, dan menjaga tim agar tidak ada masalah. |
+
+
+## Bagian B: Analisis Kontras Dua Peran Utama
+
+Pilihan: 
+Peran A = Panitia HR (Domain Komunitas / Kelompok)
+Peran B = Anak (Domain Keluarga)
+
+| Unsur Komunikasi | Peran A: Panitia HR | Peran B: Anak |
+| :--- | :--- | :--- |
+| 1. Tujuan Tugas & Relasi | Mengevaluasi kinerja staf secara objektif agar program kerja berjalan maksimal. | Menjaga ikatan batin yang kuat dan memberikan ketenangan pikiran kepada orang tua. |
+| 2. Repertoar Utama | Asertif, analitis, dan memberikan kritik yang membangun (constructive feedback). | Penuh rasa hormat, terbuka, mendengarkan, dan menenangkan. |
+| 3. Pilihan Bahasa & Nada | Bahasa formal, objektif, berorientasi pada fakta/kinerja, dengan nada tegas. | Bahasa santai namun sopan, nada suara lebih lembut dan penuh keakraban. |
+| 4. Respons yang Harus Dibaca | Membaca apakah staf merespons evaluasi secara defensif atau terbuka untuk berkembang. | Membaca kekhawatiran, kelelahan, atau suasana hati Ibu dari nada bicaranya. |
+| 5. Tindakan yang Diharapkan | Staf menyadari kekurangannya dan memperbaiki performa kerjanya. | Komunikasi dua arah terjalin baik, Ibu merasa dihargai dan tidak cemas. |
+| 6. Relasi yang Harus Dirawat | Relasi fungsional dan profesional yang berfokus pada target organisasi. | Relasi darah yang bersifat emosional dan seumur hidup. |
+
+
+## Bagian C: Eksplorasi Kepribadian dan Sasaran Pertumbuhan
+
+**Nilai Utama**  
+Jawaban: Empati dan tanggung jawab. Saya ingin bisa memahami sudut pandang lawan bicara, namun tetap dapat memegang komitmen dan menyampaikan sesuatu dengan jelas tanpa menyebabkan kebingungan.
+
+**Kekuatan Komunikasi**  
+Jawaban: Terbiasa berpikir analitis dan logis, sehingga saya bisa menyederhanakan informasi yang kompleks atau memberikan evaluasi kinerja yang terstruktur agar mudah dipahami orang lain tanpa terkesan menyerang personal.
+
+**Pola Hambatan Otomatis**  
+Jawaban: Ketika sedang berada di bawah tekanan (seperti kelelahan mengurus acara angkatan atau tenggat waktu tugas kuliah), saya cenderung menjadi terlalu fokus pada efisiensi. Saya sering merespons percakapan dengan sangat singka karena ingin cepat-cepat mengakhiri obrolan.
+
+**Ketegangan Peran & Kepribadian**  
+Jawaban: Saya biasanya menganalisis masalah secara objektif, tetapi peran saya sebagai anak menuntut saya untuk sabar, hadir secara penuh, dan mendengarkan keluh kesah Ibu tanpa terburu-buru memberikan solusi logis atau memotong pembicaraannya.
+
+**Sasaran Pertumbuhan Perilaku Terukur**  
+Sasaran Saya: Ketika berinteraksi atau ditelepon oleh Ibu (terutama saat saya sedang sibuk atau lelah), saya akan menyingkirkan laptop/pekerjaan saya selama 5 menit pertama, tidak memotong ceritanya, dan fokus untuk menjawab perasaannya, bukan langsung memberikan argumen penyelesaian masalah.
+
+**Umpan Balik Jujur**  
+Jawaban: Ibu.
