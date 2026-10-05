@@ -23,56 +23,64 @@ Mengadaptasi repertoire dan language tanpa mengubah core meaning.
 :::
 
 {{< include ../includes/evidence-template.md >}}
----
-title: "Portofolio Terjemahan Lima Bahasa"
-week: 4
-status: "Belum dimulai"
-self_score: "—"
-assessor_score: "—"
-description: "Latihan kelenturan register dan dekonstruksi jargon teknis (Kutukan Pengetahuan)."
-categories: [Komunikasi, Code-Switching]
----
 
 Nama Lengkap: Muhammad Rafi Fadillah
 NIM: 18225115
 Program Studi: Sistem dan Teknologi Informasi
 Tanggal Pengisian: 29 September 2026
 
-## Tahap 1: Detoks Jargon (Dekonstruksi Konsep)
+## 1. Konteks Performance
 
-* **Konsep Teknis yang Dipilih:** IoT Smart Home Automation (Sistem Otomasi Rumah Pintar berbasis Internet of Things)
-* **Definisi Teknis Awal:** Integrasi mikrokontroler ESP32 dengan protokol komunikasi nirkabel HTTP/MQTT yang dihubungkan ke platform *cloud* MQTT broker via Blynk API, memungkinkan pengiriman payload data secara real-time untuk aktuasi pin GPIO relay modul kendali jarak jauh.
-* **Daftar Jargon Teknis & Artian Sederhananya:**
-  * Jargon 1: Mikrokontroler ESP32 $\rightarrow$ Arti Sederhana: Otak komputer kecil yang bisa terhubung ke internet.
-  * Jargon 2: Protokol MQTT $\rightarrow$ Arti Sederhana: Jalur pengiriman pesan kilat antar-perangkat.
-  * Jargon 3: Aktuasi Relay $\rightarrow$ Arti Sederhana: Perintah otomatis untuk menyalakan atau mematikan saklar listrik.
-* **Kebenaran Inti (Marrow of the Message):** Menghubungkan peralatan rumah tangga ke internet agar bisa dikontrol jarak jauh lewat HP demi kenyamanan dan efisiensi energi.
+**Tanggal dan setting:** Malam hari di kosan, setelah saya berhasil merakit prototipe tugas *Smart Home Automation*. Saya perlu menjelaskan alat ini ke berbagai pihak dengan tingkat pemahaman teknologi yang berbeda-beda.
+**Persons dan relationship:** Saya (mahasiswa STI pembuat alat IoT). Lima target: (1) Pacar (beda jurusan/non-IT), (2) Rekan teknis (teman sekelas STI), (3) Dosen pembimbing/evaluator, (4) Pemilik kos (Customer/Target pengguna), (5) Publik umum di media sosial.
+**Objective dan initial state:** Mengkomunikasikan cara kerja sistem *IoT Smart Home* yang menggunakan ESP32 dan MQTT. *State awal:* Jika saya menggunakan definisi jurnal teknis, orang awam akan bingung. *Objective:* Menerjemahkan esensi teknologi ini ke lima bahasa berbeda tanpa merubah kebenaran intinya (core meaning), serta melakukan tes pemahaman langsung ke target awam.
+**Core meaning yang tidak boleh berubah:** Mengendalikan peralatan listrik (lampu/saklar) dari jarak jauh menggunakan internet untuk memberikan kemudahan, keamanan, dan efisiensi.
 
-## Tahap 2: Matriks Terjemahan Lima Bahasa
+## 2. Evidence (Matriks Lima Bahasa)
 
-**1. Ragam Bahasa: Anak-Anak (Usia ~10 Tahun)**
-* Draf Terjemahan: "Bayangkan lampu kamarmu punya sayap ajaib yang bisa mendengarkan perintah dari HP ibu dari jauh. Jadi, kalau kamu lupa mematikan lampu waktu mau berangkat sekolah, lampu itu bisa dimatikan lewat HP tanpa harus kamu balik badan ke kamar lagi!"
+*Kelimanya ditulis berdasarkan dekonstruksi makna inti. Setelah ditulis, saya menguji satu versi ke manusia asli untuk melihat apakah ada jargon yang masih bocor.*
 
-**2. Ragam Bahasa: Sahabat (Beda Bidang / Program Studi)**
-* Draf Terjemahan: "Jadi kemarin tuh gua bikin sistem buat nyalakan lampu rumah pakai ESP32 yang dikontrol lewat aplikasi HP (Blynk). Bayangin kayak bikin remote TV universal, tapi tombolnya ada di smartphone lu dan bisa diakses walaupun lu lagi nongkrong di luar."
+| Target/Character | Versi Language | Alasan Adaptasi |
+| :--- | :--- | :--- |
+| **Pacar** (Non-IT) | "Aku bikin sistem biar lampu kamar bisa dimatiin dari luar pakai HP. Ibarat kamu punya remote TV universal, tapi tombolnya ada di layar *smartphone* kamu, jadi kalau udah rebahan atau lagi di luar, tinggal pencet HP buat matiin lampu." | Menggunakan analogi fisik (remote TV) yang sangat akrab di keseharian; membuang total istilah teknis agar pesannya terasa relevan dengan kenyamanan sehari-hari. |
+| **Technical Peer** (Mahasiswa STI) | "Gua implementasi *smart home* pakai mikrokontroler ESP32 nodeMCU. Komunikasinya pakai protokol MQTT *publish-subscribe* ke *cloud server* via Blynk API, jadi aktuasi ke pin GPIO buat nyalain relay 4-channel-nya lumayan *low-latency*." | Jargon teknis (*MQTT, GPIO, Relay*) aman dan wajib dipakai karena ada *shared vocabulary*; langsung *to the point* ke spesifikasi *hardware* dan protokolnya. |
+| **Manager** (Dosen Pembimbing) | "Sistem otomasi ini dirancang untuk memangkas konsumsi energi. Dengan integrasi mikrokontroler berbiaya rendah dan kontrol terpusat, sistem ini memberikan efisiensi operasional dengan manajemen risiko *downtime* yang minimal pada beban listrik." | Dosen/Manajer tidak terlalu peduli urusan "rebahan"; mereka butuh konteks *value* (efisiensi energi) dan manajemen risiko, bahasanya formal dan terstruktur. |
+| **Customer** (Pemilik Kos) | "Bapak bisa pasang alat ini di kosan supaya bisa ngontrol lampu lorong atau pompa air langsung dari HP Bapak dari rumah. Selain praktis, ini juga bisa nurunin tagihan listrik kosan karena alatnya bisa dijadwal otomatis matinya." | Konsumen butuh tahu keuntungan langsung di dompet mereka (tagihan turun) dan kepraktisan, tanpa perlu diajari apa itu *cloud server*. |
+| **Public** (Followers Instagram) | "Sering panik lupa matiin lampu kos pas udah sampai kampus? Teknologi *smart home* ini solusinya! Kita bisa ngontrol saklar listrik dari mana aja cuma modal HP dan internet. Bikin hidup praktis dan hemat listrik. *Bye-bye* boros energi!" | Bahasa dibuat sangat inklusif, *relatable* dengan masalah umum (lupa matiin lampu), dan *tone*-nya kasual-promotif sesuai *platform* medsos. |
 
-**3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan)**
-* Draf Terjemahan: "Implementasi sistem menggunakan mikrokontroler ESP32 nodeMCU dengan modul WiFi terintegrasi. Komunikasi data menggunakan protokol MQTT *publish-subscribe* ke *cloud server* Blynk untuk mengontrol pin GPIO digital yang terhubung ke modul relay 4-channel secara *low-latency*."
+**Uji Understanding & Bukti Adaptasi (Feedback Wajib):** 
+Saya membacakan draf pertama versi **Pacar** kepada pacar saya saat kami sedang *voice call*.
+*   *Draf awal saya:* "Aku bikin sistem nyalain lampu pakai ESP32 yang dikontrol lewat aplikasi Blynk di HP. Ibarat remote TV..."
+*   *Respons/Feedback Pacar:* "Bentar, ESP32 tuh apaan? Nama robot? Terus Blynk itu aplikasi apaan, semacam game?"
+*   *Adaptasi (Revisi Real-Time):* Saya menyadari Kutukan Pengetahuan masih terjadi. Saya langsung menghapus kata "ESP32" dan "Blynk", lalu mengubahnya menjadi kalimat di tabel atas ("...sistem biar lampu kamar bisa dimatiin dari luar pakai HP").
+*   *Outcome:* Pacar saya langsung mengangguk paham dan menjawab, "Oh ngerti-ngerti, macem *smart lamp* yang biasa dijual di Shopee itu kan."
 
-**4. Ragam Bahasa: Manajer atau Pengambil Keputusan (Aspek Bisnis)**
-* Draf Terjemahan: "Penerapan sistem otomasi berbasis IoT ini memangkas konsumsi energi bangunan hingga 15% melalui penjadwalan otomatis dan kontrol terpusat. Investasi awal perangkat berbiaya rendah ini memberikan efisiensi operasional jangka panjang dengan manajemen risiko kegagalan manual yang minimal."
+## 3. Analisis Komunikasi
 
-**5. Ragam Bahasa: Publik Umum (Masyarakat Luas)**
-* Draf Terjemahan: "Teknologi rumah pintar ini membantu kita mengontrol perangkat listrik di rumah secara jarak jauh lewat ponsel. Selain bikin hidup jauh lebih praktis, sistem ini juga mencegah pemborosan listrik akibat lupa mematikan lampu atau perangkat elektronik saat bepergian."
+| Elemen | Evidence dan Analisis |
+| :--- | :--- |
+| **Person & Character** | Lima target dianalisis berdasarkan apa yang relevan bagi mereka. Rekan teknis butuh spesifikasi, pemilik kos butuh kepastian irit biaya, dan pacar butuh kenyamanan/analogi simpel. |
+| **Objective & State** | *Core meaning* (menyalakan alat listrik dari jauh via internet) tetap utuh di kelima versi. Saya mengecek ulang setiap kalimat untuk memastikan esensi ini tidak hilang. |
+| **Repertoire & Language** | Jargon (*NodeMCU, GPIO*) murni dikurung hanya untuk versi rekan teknis. Versi lain menggunakan analogi (remote TV) atau bahasa *value-driven* (tagihan turun). |
+| **Response & Adaptation** | Kebingungan pacar terhadap kata "ESP32" dan "Blynk" menjadi bukti *feedback* langsung. Adaptasi saya adalah membuang nama *merk/hardware* tersebut sepenuhnya dari percakapan awam. |
+| **Agreement, Action & Outcome** | *Action* terlihat: Pemilik kos menyadari *value* ekonomi, dosen melihat *value* akademis/efisiensi. *Outcome* dari revisi *feedback* membuat pacar saya paham 100% tanpa merasa diintimidasi istilah IT. |
 
-## Tahap 3: Refleksi Pembelajaran (Intrapribadi)
+## 4. Penggunaan AI
+Saya tidak menggunakan AI untuk membuat terjemahan analoginya. Semua versi disusun manual dari pemahaman saya terhadap latar belakang kelima target tersebut. AI hanya saya gunakan setelah draf selesai untuk merapikan *formatting* tabel (Markdown) agar selaras dengan rubrik evaluasi, sementara proses uji *feedback* dilakukan langsung bersama manusia nyata (pacar saya).
 
-* **Ragam bahasa mana yang paling sulit Anda buat? Mengapa?** 
-  Ragam anak-anak paling sulit karena harus mencari analogi fisik yang masuk akal di dunia mereka tanpa menggunakan istilah teknis sama sekali.
-* **Bagaimana proses dekonstruksi jargon ini mengubah cara Anda memandang keilmuan Anda sendiri?** 
-  Saya jadi sadar bahwa keahlian teknis tidak ada gunanya jika disampaikan dengan bahasa arogan yang membuat orang lain bingung. Esensi teknologi terletak pada seberapa besar ia bisa dipahami dan dimanfaatkan orang banyak.
-* **Catatan Penggunaan AI Kopilot (Jika Ada):** 
-  Prompt yang digunakan: "Bertindaklah sebagai anak berusia 10 tahun dan kritik apakah penjelasan saya tentang IoT ini membosankan atau terlalu rumit." Umpan balik AI membantu menyederhanakan analogi saklar lampu jarak jauh agar lebih konkret.
+## 5. Feedback dan Tindak Lanjut
 
-## F. Rubrik Evaluasi Mandiri
-* Skor Mandiri: 15 / 16 (Keutuhan Makna: 4, Kelenturan Register: 4, Kualitas Analogi: 4, Kedalaman Refleksi: 3)
+**Feedback yang diterima:** Pacar saya menyadarkan saya bahwa sekadar menyebut nama komponen elektronik (walaupun bagi mahasiswa STI itu hal dasar) sudah cukup membuat orang non-IT kebingungan dan kehilangan gambaran besarnya.
+**Adaptation/Replay:** Saya menghapus seluruh identitas teknis komponen (*brand/hardware*) ketika berbicara dengan orang awam, dan menggantinya murni dengan **fungsi akhirnya** (apa yang bisa dilakukan alat itu).
+**Next practice:** Ke depannya, setiap saya harus mempresentasikan proyek IT ke klien atau panitia non-teknis, saya wajib membedah *"Marrow of the Message"* (Kebenaran Inti) terlebih dahulu sebelum membuat *slide* presentasi, agar tidak terjebak menggunakan bahasa *coding* di depan audiens bisnis.
+
+## 6. Self-Assessment
+
+| Dimensi | Skor | Evidence Singkat |
+| :--- | :--- | :--- |
+| **Person & Character** | 4 | Lima target dianalisis berdasarkan *vocabulary* dan kebutuhannya yang sangat kontras. |
+| **Objective & State** | 4 | *Core meaning* (kontrol jarak jauh) ditetapkan dan dijaga keutuhannya di semua versi. |
+| **Repertoire, Language** | 4 | Jargon diisolasi hanya untuk *tech peer*; analogi fisik digunakan tepat sasaran. |
+| **Response & Adaptation** | 4 | *Feedback* dari pacar yang kebingungan (bukti nyata) langsung direspons dengan revisi teks menghilangkan istilah "ESP32". |
+| **Agreement, Action** | 4 | Setiap bahasa memicu *implied action* yang relevan; *outcome* pemahaman target tercapai setelah revisi. |
+| **Total** | 20/20 | Seluruh dimensi mencapai level maksimal dengan memasukkan loop *feedback* manusia secara eksplisit. |
