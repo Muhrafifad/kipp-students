@@ -24,52 +24,60 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 
 {{< include ../includes/evidence-template.md >}}
 
-Nama Mahasiswa: Muhammad Rafi Fadillah
-Tanggal Pengerjaan: 28 September 2026
+Nama Lengkap: Muhammad Rafi Fadillah
+NIM: 18225115
+Program Studi: Sistem dan Teknologi Informasi
+Tanggal Pengisian: 28 September 2026
 
-## Bagian A: Peta 5 Domain Kehidupan
+## 1. Lima Character & Domain Kehidupan
 
-| Domain Kehidupan | Peran yang Saya Ambil | Siapa yang Saya Jumpai | Tanggung Jawab Utama Komunikasi |
-| :--- | :--- | :--- | :--- |
-| 1. Diri Sendiri | Evaluator Target Pribadi | Diri sendiri | Mengevaluasi dan mengatur jadwal sehari saya, seperti belajar, olahraga. me time, dan ibadah. |
-| 2. Keluarga / Sahabat | Anak | Ibu | Memberikan kabar rutin, mengobrol mengenai sedang struggle di matkul apa ataupun kegiatan apa saja yang sayua lakukan, dan menjaga komunikasi agar beliau tidak khawatir. |
-| 3. Profesional / Akademik | Mahasiswa STI | Dosen, Asisten, Teman kelas | Berdiskusi teknis terkait tugas dan materi. |
-| 4. Komunitas / Kelompok | Panitia Organisasi (HR) | Teman Panitia| Mengevaluasi kinerja staf dan berdiskusi terkait penilaian staff. |
-| 5. Dunia / Publik | Pemain Game | Pemain randoms di internet | Melakukan komunikasi seperti pemberian info terkait musuh, dan menjaga tim agar tidak ada masalah. |
+| Domain dan Character | Person & Relationship | Objective & Responsibility | Repertoire & Language | Risiko dan Latihan |
+| :--- | :--- | :--- | :--- | :--- |
+| **Intra-Self - Evaluator Pribadi** | Diri sendiri saat mengatur jadwal. | Mengevaluasi dan mengatur jadwal harian (belajar, me-time, ibadah). | Bahasa analitis batin: "Apa prioritas utama hari ini?" | Terlalu kaku pada jadwal; Latihan: Fleksibel jika ada urusan mendesak. |
+| **Family - Anak** | Anak terhadap Ibu. | Menjaga ikatan batin dan agar Ibu tidak khawatir. | Bahasa santai, sopan, penuh empati: "Iya Bu, Rafi lagi sibuk nugas aja." | Terlalu singkat membalas saat lelah; Latihan: Beri waktu 5 menit tanpa interupsi. |
+| **Academic - Mahasiswa STI** | Mahasiswa berhadapan dengan Dosen/Asisten. | Berdiskusi teknis terkait tugas dan materi. | Bahasa formal dan objektif: "Permisi Pak, izin mengonfirmasi materi." | Terkesan pasif; Latihan: Proaktif bertanya jika kurang jelas. |
+| **Community - Panitia HR** | HR berhadapan dengan Staf Panitia. | Mengevaluasi kinerja staf secara objektif demi proker. | Bahasa asertif, analitis: "Dari hasil evaluasi, bagian ini perlu ditingkatkan." | Terdengar terlalu menyerang; Latihan: Gunakan constructive feedback. |
+| **Public - Pemain Game** | Pemain dengan *random player* di internet. | Memberikan info taktis dan menjaga ritme tim tanpa masalah. | Bahasa ringkas, cepat, kasual: "Musuh di kanan, *cover* gua!" | Mudah terpancing emosi (toxic); Latihan: *Mute* pemain yang provokatif. |
 
+## 2. Konteks Performance & Evidence Wajib
 
-## Bagian B: Analisis Kontras Dua Peran Utama
+**Konteks Performance:**
+Tanggal dan setting: Jumat, 25 September 2026, pukul 19.00 WIB. Sesi evaluasi kepanitiaan via Google Meet.
+Persons dan relationship: Saya sebagai Panitia HR sedang mengevaluasi seorang staf, lalu tiba-tiba Ibu menelepon.
 
-Pilihan: 
-Peran A = Panitia HR (Domain Komunitas / Kelompok)
-Peran B = Anak (Domain Keluarga)
+**Objective dan Initial State:**
+State awal: Saya sedang memberikan *constructive feedback* kepada staf kepanitiaan. Objective saya: Menyampaikan evaluasi kinerja dengan asertif dan profesional, namun saat Ibu menelepon, saya harus merespons dengan nada penuh hormat dan menenangkan tanpa merusak wibawa di depan staf.
 
-| Unsur Komunikasi | Peran A: Panitia HR | Peran B: Anak |
+**Evidence (Rekonstruksi Percakapan Code-Switching Wajib C):**
+*   *Saya (Ragam Asertif/Formal ke Staf):* "Dari catatan evaluasi minggu lalu, gua lihat lo masih sering *miss* di bagian pendataan. Ke depannya, lo harus lebih teliti ngecek *form* sebelum *submit* ya."
+*   *Staf:* "Oke, Kak, *sorry* kemarin emang agak keteteran."
+*   *(HP berdering, Ibu menelepon, saya angkat)*
+*   *Saya (Ragam Lembut/Sopan ke Ibu - Code Switching):* "Halo, assalamualaikum, Bu. Iya, Rafi lagi rapat panitia sebentar. Ibu sehat kan? Nanti habis rapat Rafi telepon balik ya, Bu."
+*   *Ibu:* "Waalaikumsalam, iya Nak, jangan kemalaman ya."
+*   *Saya (Kembali Asertif ke Staf):* "Oke, kita lanjut. Jadi untuk proker bulan depan, gua harap kesalahan pendataan ini nggak keulang."
+
+## 3. Analisis Komunikasi
+
+| Elemen | Evidence dan Analisis |
+| :--- | :--- |
+| **Person & Character** | Saya masuk sebagai evaluator (HR) yang berorientasi pada fakta/kinerja. Saat telepon masuk, peran saya instan bergeser menjadi anak yang harus menjaga ketenangan pikiran orang tua. |
+| **Objective & State** | Objective ganda: Mengevaluasi kinerja staf (state profesional) sambil menahan rasa panik/terganggu dari telepon Ibu (state personal keluarga). |
+| **Repertoire & Language** | Terdapat perpindahan instan (code-switching) dari bahasa evaluatif/tegas ("harus lebih teliti") ke bahasa penuh rasa hormat ("Iya, Ibu sehat kan?"). |
+| **Response & Adaptation** | Staf merespons dengan komitmen perbaikan dan tidak merasa diremehkan karena ketegasan tetap dijaga setelah telepon. Ibu merasa dihargai karena panggilannya dijawab dengan lembut meski saya sedang rapat. |
+| **Agreement/Action & Outcome** | Agreement tercapai: Staf sepakat memperbaiki performa (tindakan yang diharapkan), dan Ibu mendapatkan kepastian tanpa rasa cemas (komunikasi dua arah terjalin baik). |
+
+## 4. Penggunaan AI
+AI digunakan setelah draf kasar selesai untuk dua hal spesifik:
+1. **Draft struktur tabel:** Saya memberikan deskripsi kasar kelima peran saya (HR, Anak, Gamer, dll.), dan AI membantu menyusunnya ke dalam draf kolom tabel agar terstruktur.
+2. **Evaluasi Code-Switching:** Saya meminta AI mengevaluasi apakah draf dialog saya sudah cukup menunjukkan transisi bahasa.
+
+## 5. Self-Assessment
+
+| Dimensi | Skor | Evidence Singkat |
 | :--- | :--- | :--- |
-| 1. Tujuan Tugas & Relasi | Mengevaluasi kinerja staf secara objektif agar program kerja berjalan maksimal. | Menjaga ikatan batin yang kuat dan memberikan ketenangan pikiran kepada orang tua. |
-| 2. Repertoar Utama | Asertif, analitis, dan memberikan kritik yang membangun (constructive feedback). | Penuh rasa hormat, terbuka, mendengarkan, dan menenangkan. |
-| 3. Pilihan Bahasa & Nada | Bahasa formal, objektif, berorientasi pada fakta/kinerja, dengan nada tegas. | Bahasa santai namun sopan, nada suara lebih lembut dan penuh keakraban. |
-| 4. Respons yang Harus Dibaca | Membaca apakah staf merespons evaluasi secara defensif atau terbuka untuk berkembang. | Membaca kekhawatiran, kelelahan, atau suasana hati Ibu dari nada bicaranya. |
-| 5. Tindakan yang Diharapkan | Staf menyadari kekurangannya dan memperbaiki performa kerjanya. | Komunikasi dua arah terjalin baik, Ibu merasa dihargai dan tidak cemas. |
-| 6. Relasi yang Harus Dirawat | Relasi fungsional dan profesional yang berfokus pada target organisasi. | Relasi darah yang bersifat emosional dan seumur hidup. |
-
-
-## Bagian C: Eksplorasi Kepribadian dan Sasaran Pertumbuhan
-
-**Nilai Utama**  
-Jawaban: Empati dan tanggung jawab. Saya ingin bisa memahami sudut pandang lawan bicara, namun tetap dapat memegang komitmen dan menyampaikan sesuatu dengan jelas tanpa menyebabkan kebingungan.
-
-**Kekuatan Komunikasi**  
-Jawaban: Terbiasa berpikir analitis dan logis, sehingga saya bisa menyederhanakan informasi yang kompleks atau memberikan evaluasi kinerja yang terstruktur agar mudah dipahami orang lain tanpa terkesan menyerang personal.
-
-**Pola Hambatan Otomatis**  
-Jawaban: Ketika sedang berada di bawah tekanan (seperti kelelahan mengurus acara angkatan atau tenggat waktu tugas kuliah), saya cenderung menjadi terlalu fokus pada efisiensi. Saya sering merespons percakapan dengan sangat singka karena ingin cepat-cepat mengakhiri obrolan.
-
-**Ketegangan Peran & Kepribadian**  
-Jawaban: Saya biasanya menganalisis masalah secara objektif, tetapi peran saya sebagai anak menuntut saya untuk sabar, hadir secara penuh, dan mendengarkan keluh kesah Ibu tanpa terburu-buru memberikan solusi logis atau memotong pembicaraannya.
-
-**Sasaran Pertumbuhan Perilaku Terukur**  
-Sasaran Saya: Ketika berinteraksi atau ditelepon oleh Ibu (terutama saat saya sedang sibuk atau lelah), saya akan menyingkirkan laptop/pekerjaan saya selama 5 menit pertama, tidak memotong ceritanya, dan fokus untuk menjawab perasaannya, bukan langsung memberikan argumen penyelesaian masalah.
-
-**Umpan Balik Jujur**  
-Jawaban: Ibu.
+| **Person & Character** | 4 | Lima peran (Evaluator, Anak, Mahasiswa, HR, Gamer) dipetakan lintas domain. |
+| **Objective & State** | 4 | State awal dan transisi konflik peran (HR vs Anak) dideklarasikan jelas. |
+| **Repertoire, Language** | 4 | Code-switching antara staf (asertif) dan Ibu (lembut) dibuktikan dengan dialog. |
+| **Response & Adaptation** | 4 | Analisis respons staf dan Ibu didokumentasikan sebagai hasil adaptasi bahasa. |
+| **Agreement, Action** | 4 | Outcome relasi fungsional (HR) dan batin (Anak) tercapai secara eksplisit. |
+| **Total** | 20/20 | Seluruh dimensi mencapai target dengan menyertakan bukti dialog nyata. |
