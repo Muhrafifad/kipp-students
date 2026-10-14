@@ -1,0 +1,236 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 1 — Kasus 1: Memimpin Diri dan Terus Belajar"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama | Muhammad Rafi Fadillah (dikonfirmasi dalam percakapan, bukan verifikasi identitas formal) |
+| NIM | 18225115 |
+| Kelas | K-01 |
+| Tanggal sesi | 14 Oktober 2026 |
+| Sesi dan kasus | Sesi 1, Kasus 1: Memimpin Diri dan Terus Belajar |
+| Target utama | Diri mahasiswa |
+| Komunikan pembanding | Fajar, K1-06; karakter simulasi fiktif |
+| Versi | Bank 2.0, paket individual 2.0 |
+| Modalitas | Percakapan teks; bukan pengukuran keterampilan oral/prosodi |
+| Konteks | Pengalaman PSTI dan tantangan konsistensi dilaporkan mahasiswa; uji ulang dan Fajar bersifat hipotetis |
+| Kelengkapan transkrip | **Parsial**: bagian C memuat giliran penting sebagai kutipan verbatim dan urutan semua giliran substantif, tetapi tidak mereproduksi seluruh isi panjang setiap pesan AI dan mahasiswa. Kutipan tidak dikarang; bagian yang tidak disalin ditandai, bukan diisi ulang. |
+| Nama file wajib | `hasil_1_18225115.qmd` |
+
+# B) Kasus dan Tujuan
+
+## Brief dan hasil yang diharapkan
+
+Brief: “Pilih satu kemampuan yang ingin Anda kembangkan agar lebih berguna dalam kuliah, kerja atau kehidupan. Kita akan memeriksa cara Anda memimpin diri ketika menghadapi hambatan belajar.” Target utama ialah diri mahasiswa. Fajar berfungsi sebagai cermin perbedaan preferensi, bukan penentu profil pribadi mahasiswa.
+
+Mahasiswa memilih **public speaking**, terutama menyampaikan ide terstruktur dan menjawab pertanyaan spontan. Latar pengalaman yang dilaporkan: sempat *blank* dalam sesi tanya jawab presentasi tugas besar PSTI semester 2. Tujuan satu bulan: latihan 3 kali/minggu selama 4 minggu, target 12 latihan, baseline dan rekaman akhir, penilaian relevansi jawaban, kejelasan inti–alasan–contoh serta keterlaksanaan jadwal. Strategi adaptif: sesi 15 menit bila memungkinkan dan sesi minimum 5 menit saat jadwal padat, dengan pencatatan alasan dan jadwal pengganti.
+
+## Profil awal diri: laporan mahasiswa versus inferensi
+
+| Unsur | Laporan/dugaan awal | Bukti | Kepastian |
+|---|---|---|---|
+| Strength | Memahami materi, kemauan memperbaiki diri, pernah mencoba latihan cermin dan time blocking | U002 | Laporan diri |
+| Weakness | Kesulitan merespons spontan; procrastination dan konsistensi | U002 | Laporan diri |
+| Opportunity | Presentasi dan diskusi kampus; umpan balik teman; aspirasi berbisnis | U002, U013 | Laporan diri |
+| Threat | Beban tugas, distraksi, lelah, jadwal terlewat | U002, U013 | Laporan diri |
+| Attitude | Menganggap disiplin penting dan ingin bertanggung jawab | U002–U003 | Laporan diri |
+| Knowledge | Membedakan memahami materi dari mengomunikasikannya; mengusulkan struktur inti–alasan–contoh | U002–U003 | Laporan diri |
+| Skill | Menyusun langkah dan evaluasi; kualitas berbicara aktual belum didemonstrasikan secara oral | U003 | Sebagian diamati dalam teks |
+| Preferensi, MBTI | Menyukai refleksi dan penjelasan mendalam, berdasarkan refleksi sendiri; tidak menyebut hasil MBTI | U013 | Bukan diagnosis |
+| Peran/kultur | Mahasiswa dan calon pebisnis; kebutuhan presentasi dalam konteks akademik | U002 | Laporan diri |
+
+## Sasaran dan TAIDA operasional
+
+| Tahap | Kondisi awal dan target | Stimulus dan indikator |
+|---|---|---|
+| Target | Memimpin diri dalam latihan dan membangun kemampuan menjawab spontan | Rekaman awal/akhir, log latihan, peninjauan konsistensi |
+| Attention | Pengalaman *blank* menjadi pemicu perhatian | Mengaitkan latihan dengan pengalaman PSTI |
+| Interest | Melihat latihan kecil sebagai pilihan yang masuk akal | Simulasi pertanyaan 5 menit, bukan janji hasil instan |
+| Desire | Meningkatkan kemampuan presentasi dan disiplin | Rencana realistis 3 kali/minggu, fleksibilitas terukur |
+| Action | Belum ada bukti pelaksanaan nyata dalam sesi ini | Pencatatan sesi, evaluasi rekaman, tindakan setelah chat |
+
+Status awal Fajar sebelum pengungkapan profil: keberatan terhadap teori panjang dan keterbatasan waktu, sebagaimana pembukaan peran. Mahasiswa belum mengidentifikasi tipe MBTI Fajar sebelum simulasi, sehingga tidak ada dugaan MBTI awal yang dapat diklaim.
+
+# C) Skrip Percakapan
+
+**Catatan integritas transkrip:** ID berikut mengurutkan giliran mahasiswa dan AI yang relevan dari percakapan aktual. Bagian dalam tanda kutip merupakan teks asli yang disalin verbatim; bagian berawalan *[Tidak disalin lengkap]* adalah ringkasan indeks, **bukan** kutipan atau teks buatan yang disamarkan sebagai transkrip. Ini merupakan transkrip **parsial**, bukan salinan utuh. Sesuai aturan paket, keterbatasan tersebut tidak disembunyikan. ID U001 mengacu pada balasan mahasiswa saat identifikasi, bukan pesan pengunggahan ZIP. Konfirmasi akhir dicatat U014.
+
+### Tahap A — Identifikasi
+
+**AI001:** Pertanyaan identitas, nama, NIM, kelas, tanggal dan modalitas telah diberikan. *[Tidak disalin lengkap]*
+
+**U001:** “iya, dan saya dari kelas K-01”
+
+### Tahap B — Kasus, tujuan, dan rencana
+
+**AI002:** “Kemampuan apa yang ingin Anda kembangkan, mengapa kemampuan tersebut penting bagi Anda, dan apa hambatan terbesar yang selama ini membuat Anda sulit mengembangkannya?”
+
+**U002:** “Kemampuan yang ingin saya kembangkan adalah **public speaking**, terutama dalam menyampaikan gagasan secara terstruktur, percaya diri, dan mampu merespons pertanyaan secara spontan.” Mahasiswa mengaitkan tujuan dengan aspirasi berbisnis, pengalaman *blank* saat tugas besar PSTI semester 2, procrastination, manajemen waktu, latihan cermin dan time blocking. *[Sisa pesan tidak disalin lengkap]*
+
+**AI003:** “Perubahan konkret apa yang ingin kamu lihat dari dirimu saat itu, dan langkah awal apa yang akan kamu lakukan untuk mencapainya?”
+
+**U003:** “Untuk mencapai perubahan tersebut, saya berencana meluangkan waktu selama 15 menit sebanyak 3 kali dalam seminggu untuk berlatih public speaking.” Mahasiswa mengusulkan simulasi tanya jawab spontan, struktur inti–alasan–contoh, time blocking, catatan pelaksanaan dan rekaman awal/akhir bulan. *[Sisa pesan tidak disalin lengkap]*
+
+### Tahap C — Dialog diri dan simulasi Fajar
+
+**AI004:** Skenario lelah setelah kuliah, latihan pukul 20.00, keinginan menunda. Ditanya dialog dengan diri sendiri. *[Tidak disalin lengkap]*
+
+**U004:** “Gimana kalau gua mulai dulu selama 5 menit? Gua coba jawab satu atau dua pertanyaan spontan tanpa persiapan, kemudian lihat kondisi gua. Kalau ternyata masih sanggup, gua lanjutkan sampai 15 menit sesuai jadwal.” *[Sisa pesan tidak disalin lengkap]*
+
+**AI005:** Skenario ragu apakah latihan 5 menit efektif; diminta respons dan indikator. *[Tidak disalin lengkap]*
+
+**U005:** “Apakah gua berhasil memahami pertanyaannya? Apakah jawaban gua punya inti, alasan, dan contoh yang jelas? Apakah gua bisa menyampaikan pemikiran tanpa terlalu lama kehilangan arah?” *[Sisa pesan tidak disalin lengkap]*
+
+**AI006:** Diminta menjadi penerima pesan sendiri: perasaan, pesan berpengaruh dan kecukupan untuk bertindak. *[Tidak disalin lengkap]*
+
+**U006:** “Namun, gua juga sadar bahwa merasa lebih tenang dan memiliki niat untuk mencoba belum otomatis membuktikan bahwa komunikasi dengan diri sendiri ini berhasil.” *[Sisa pesan tidak disalin lengkap]*
+
+**AI007 (Fajar):** “Bisa langsung ditunjukkan manfaatnya? Gua nggak punya banyak waktu.” *[Pembuka respons simulasi lain tidak disalin lengkap]*
+
+**U007:** “Tapi gua penasaran, kemampuan apa yang sebenarnya lagi lu pelajari, dan bagian mana yang paling bikin lu susah konsisten?” Mahasiswa menawarkan latihan singkat, menyatakan tidak perlu percaya teorinya sebelum menguji manfaat dan menanyakan hasil yang dianggap bernilai. *[Sisa pesan tidak disalin lengkap]*
+
+**AI008 (Fajar):** “Kalau kita cuma punya 5 menit, **lu bakal ngajak gua ngapain secara konkret? Terus gimana cara kita tahu latihannya berhasil atau nggak?**” *[Sisa pesan tidak disalin lengkap]*
+
+**U008:** “Jadi, di menit pertama, lu pilih satu ide yang pernah lu sampaikan waktu diskusi kelompok.” Mahasiswa mengusulkan percobaan satu menit, tiga indikator (inti, alasan, contoh), umpan balik dan percobaan ulang serta perbandingan hasil. *[Sisa pesan tidak disalin lengkap]*
+
+**AI009 (Fajar):** “Kalau gua mau latihan sendiri minggu depan, gimana caranya supaya tetap bisa mengecek perkembangan tanpa bikin prosesnya ribet?” *[Sisa pesan tidak disalin lengkap]*
+
+**U009:** “Gimana kalau setiap selesai latihan, lu rekam penjelasan lu selama satu menit pakai HP?” Mahasiswa menyarankan evaluasi mandiri, catatan satu keberhasilan dan satu perbaikan, serta pemeriksaan teman sesekali demi mengurangi bias evaluasi diri. *[Sisa pesan tidak disalin lengkap]*
+
+**AI010 (Fajar):** “Gua biasanya punya waktu luang Selasa malam sekitar jam 20.00.” Meminta kesepakatan latihan yang jelas dan fleksibel. *[Sisa pesan tidak disalin lengkap]*
+
+**U010:** “Nah, kalau Selasa ternyata ada kegiatan mendadak, menurut gua nggak masalah kalau jadwalnya digeser. Yang penting, lu tentuin waktu penggantinya secara spesifik, misalnya Rabu jam 20.00 kalau memang lu luang, bukan cuma bilang 'nanti kalau sempat'.” *[Sisa pesan tidak disalin lengkap]*
+
+**AI011 (Fajar):** “Oke, gua setuju. Selasa jam 20.00 realistis buat gua. Gua bakal pasang pengingat sendiri.” Fajar menyetujui evaluasi mandiri dan waktu pengganti. *[Sisa pesan tidak disalin lengkap]*
+
+### Tahap D — Evaluasi sementara
+
+**AI012:** Meminta penilaian perubahan Attitude, Knowledge, Skill Fajar dengan bukti, batas dan satu perbaikan pendekatan. *[Tidak disalin lengkap]*
+
+**U011:** “Namun, saya belum bisa menyimpulkan bahwa keterampilan presentasi maupun konsistensinya sudah meningkat, karena sampai akhir percakapan Fajar baru menyatakan komitmen dan belum mendemonstrasikan pelaksanaan latihannya.” Mahasiswa menilai perubahan sikap skeptis menjadi terbuka, bertambahnya pemahaman indikator, kesiapan bertindak, serta perlunya mengenali preferensi komunikan. *[Sisa pesan tidak disalin lengkap]*
+
+### Tahap E — Uji ulang
+
+**AI013:** Skenario minggu pertama 3 sesi berhasil dan minggu kedua 2 sesi terlewat, dengan 20 menit tersedia; diminta dialog diri dan langkah konkret. *[Tidak disalin lengkap]*
+
+**U012:** “Gua nggak bisa mengubah dua sesi yang udah terlewat, tapi gua masih bisa menentukan tindakan gua malam ini.” Mengusulkan 15 menit latihan dan 5 menit evaluasi; mengakui satu sesi tidak membuktikan pemulihan konsistensi. *[Sisa pesan tidak disalin lengkap]*
+
+**AI014:** Skenario rekaman masih berputar-putar dan beban tugas kuliah tinggi; ditanya apakah perlu mengubah frekuensi atau durasi. *[Tidak disalin lengkap]*
+
+**U013:** “Karena itu, gua memilih untuk tetap menjadikan tiga kali latihan dalam seminggu sebagai target utama, tetapi dengan durasi yang lebih fleksibel.” Mengusulkan durasi 5–15 menit, indikator rekaman, fokus memperjelas inti dan evaluasi setelah seminggu. *[Sisa pesan tidak disalin lengkap]*
+
+### Tahap F — Refleksi
+
+**AI015:** Meminta refleksi ASK, SWOT, Trust/Care dan lesson learned. *[Tidak disalin lengkap]*
+
+**U014:** Mahasiswa mengirim ulang secara utuh jawaban uji ulang sebelumnya yang diawali “Kalau melihat hasil latihan malam ini, gua memang agak kecewa”. **Catatan:** pengulangan benar-benar terjadi, bukan respons baru untuk ASK/SWOT; tidak diberi skor refleksi terpisah.
+
+**AI016:** Asisten menunjukkan bahwa jawaban mengulang Pertanyaan 12 dan meminta refleksi akhir yang mencakup ASK, SWOT, Trust/Care dan pelajaran. *[Tidak disalin lengkap]*
+
+**U015:** “Pelajaran terpenting yang saya peroleh adalah bahwa komunikasi yang baik, baik kepada diri sendiri maupun orang lain, bukan hanya tentang memberikan pesan yang positif, melainkan memahami kondisi penerima pesan, mengevaluasi respons, dan berani memperbaiki pendekatan ketika diperlukan.” Refleksi menguraikan ASK diri, SWOT, trust/care dalam simulasi Fajar, keterbatasan inferensi dan rencana 3 latihan per minggu. *[Sisa pesan tidak disalin lengkap]*
+
+### Tahap G — Konfirmasi
+
+**AI017:** Ringkasan hasil Sesi 1 diberikan, dengan pilihan sesuai atau koreksi dan rencana file QMD. *[Tidak disalin lengkap]*
+
+**U016:** “Saya mengonfirmasi ringkasan Sesi 1 sudah sesuai. Buat laporan hasil_1_18225115.qmd sesuai ketentuan paket, dengan transkrip aktual, rubrik penilaian, dan catatan batas bukti.”
+
+**Keterbatasan penyajian:** Laporan menggunakan kutipan persis yang dapat dipastikan dalam konteks percakapan, tetapi ringkasan tak bertanda kutip serta penanda pemotongan tidak boleh diperlakukan sebagai transkrip verbatim lengkap. Kelengkapan transkrip merupakan syarat yang belum sepenuhnya terpenuhi pada berkas ini.
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan, perubahan SWOT dan ASK
+
+| Unsur | Awal | Akhir simulasi | Bukti | Batas inferensi |
+|---|---|---|---|---|
+| Tujuan pribadi | Ingin menjawab pertanyaan spontan dengan baik | Ada rencana latihan fleksibel dan evaluasi | U002, U003, U013, U015 | Peningkatan kemampuan oral belum diuji |
+| Strength | Pemahaman materi dan niat belajar | Bertambah kemampuan memformulasikan indikator dan rencana adaptif | U002, U003, U013 | Demonstrasi strategi tertulis |
+| Weakness | Blank dan procrastination | Fokus perbaikan inti jawaban dan strategi mengatasi jadwal terlewat | U012–U015 | Hambatan nyata belum terbukti teratasi |
+| Opportunity | Presentasi dan diskusi kampus | Rekaman mandiri dan masukan sejawat | U009, U015 | Rencana, belum dieksekusi |
+| Threat | Tugas menumpuk, kelelahan | Menetapkan durasi minimum, pencatatan dan jadwal pengganti | U010, U013 | Perlu observasi beberapa minggu |
+| Attitude | Cenderung mengaitkan ketidaklancaran dengan kedisiplinan | Melihat kegagalan sebagai informasi untuk adaptasi | U004–U006, U015 | Refleksi diri dalam konteks simulasi |
+| Knowledge | Paham materi ≠ mampu menjelaskannya | Menggunakan indikator struktur, rekaman, dan umpan balik | U003, U009, U015 | Pemahaman yang dinyatakan, bukan tes formal |
+| Skill | Belum stabil menjawab spontan | Menampilkan desain latihan dan adaptasi komunikasi tertulis | U007–U010, U012–U013 | Bukan bukti performa berbicara di dunia nyata |
+
+## Stimulus, respons dan profil pembanding
+
+| Episode | Stimulus mahasiswa | Respons tokoh | Interpretasi dan adaptasi |
+|---|---|---|---|
+| AI007→U007→AI008 | Menghargai waktu Fajar, menggali kebutuhannya, menawarkan latihan 5 menit | Fajar mau mempertimbangkan percobaan singkat | Attitude mulai terbuka; hambatan Skill dan Knowledge belum selesai |
+| AI008→U008→AI009 | Struktur uji satu ide, evaluasi tiga indikator, pengulangan | Fajar tertarik namun khawatir lupa saat latihan berikutnya | Knowledge meningkat; perlu dukungan evaluasi mandiri |
+| AI009→U009→AI010 | Rekaman HP dan catatan satu perbaikan; umpan balik sesekali | Fajar menerima, meminta kesepakatan waktu | Perhatian bergeser ke Action dan dukungan realistis |
+| AI010→U010→AI011 | Jadwal Selasa 20.00, pengingat, jadwal pengganti, indikator log | Fajar menyatakan setuju dan akan memasang pengingat | Action berupa **kesepakatan simulasi**, belum latihan yang terlaksana |
+
+**Profil diungkap setelah simulasi untuk evaluasi:** Fajar (K1-06) adalah pelaksana pragmatis yang menghargai manfaat langsung, tidak menyukai teori panjang, cepat mencoba tetapi memerlukan checklist serta demonstrasi untuk kesinambungan. Profil bank memuat preferensi MBTI fiktif ESTP, **bukan diagnosis terhadap mahasiswa atau orang nyata**. Respons selama simulasi konsisten dengan preferensi itu: meminta manfaat konkret, pengukuran, dan sistem sederhana untuk mandiri. Mahasiswa tidak membuat klaim tipe MBTI awal; perkiraan awal hanya berdasar keberatan yang diungkapkan Fajar. Tidak sah mengklaim mahasiswa berhasil “menebak ESTP”.
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode | Perilaku/ungkapan relevan | Respons yang terlihat | Estimasi kualitatif dan batas |
+|---|---|---|---|
+| Awal AI007 | Fajar mengatakan waktu terbatas dan tidak mau teori panjang | Sikap awal berhati-hati | Rasa dipahami: rendah/belum jelas; kepercayaan: rendah/belum jelas; keterbukaan: terbatas — berdasarkan pernyataannya, bukan skala psikometri |
+| U007→AI008 | Mahasiswa tidak memaksakan metode; meminta kebutuhan dan izin untuk percobaan kecil | Fajar menjelaskan keterampilan spesifik dan hambatan | Rasa dipahami: meningkat ke sedang; keterbukaan: meningkat |
+| U009→AI010 | Menghormati otonomi dengan evaluasi mandiri, tidak menuntut mengirim rekaman | Fajar mengatakan metode praktis dan meminta jadwal yang jelas | Kepercayaan fungsional: sedang/meningkat; kemampuan aktual tetap belum dibuktikan |
+| U010→AI011 | Memberi pilihan jadwal pengganti, tidak memaksa sesi sempurna | Fajar menyetujui langkah pertama | Kesediaan membuka informasi/bertindak: tinggi **dalam simulasi**; bukan bukti kepercayaan jangka panjang |
+
+Tidak ada bukti untuk menilai ketulusan batin. Kepedulian dinilai dari perilaku yang dapat ditunjukkan: menghargai waktu, mendengarkan, menyediakan alternatif, menjaga pilihan dan dukungan yang tidak membuat tokoh bergantung.
+
+## Uji ulang dan refleksi mahasiswa
+
+U012 menunjukkan dialog diri yang tidak langsung melabeli dua sesi terlewat sebagai kegagalan pribadi. Langkahnya adalah latihan kembali dan meninjau hambatan. U013 menunjukkan penyesuaian metode menjadi sesi 5–15 menit dengan tujuan tetap, terutama melatih inti jawaban terlebih dahulu. **Kritik:** alokasi 15 menit latihan + 5 menit evaluasi belum menyisakan waktu jelas untuk menjadwalkan ulang dan mengidentifikasi penyebab; ini celah eksekusi rencana, bukan bukti mahasiswa gagal. Latihan yang digambarkan di uji ulang bersifat hipotetis, tidak terjadi secara nyata di percakapan.
+
+U014 mengulang respons sebelumnya ketika diminta refleksi; AI016 meminta perbaikan, dan U015 kemudian memberi refleksi lengkap. Mahasiswa secara eksplisit membedakan rencana dan eksekusi, serta menjelaskan perlunya menyesuaikan cara mengajak Fajar yang lebih memilih praktik ringkas. Ia mengidentifikasi kelebihan, kelemahan, peluang dan ancaman secara subjektif. Perubahan sikap dan pemahaman dapat dilihat pada kualitas refleksi tertulis, sedangkan perubahan kemampuan oral belum dibuktikan.
+
+## Penilaian enam dimensi — usulan AI, bukan nilai dosen
+
+Skala 1–4 menurut rubrik proses dalam paket. Keenam dimensi berbobot sama; skor didasarkan pada teks yang teramati, dengan kehati-hatian pada status simulasi.
+
+| Dimensi | Usulan skor | Giliran/kutipan bukti | Pertimbangan |
+|---|---:|---|---|
+| Tujuan dan konteks | 4 | U002: “Kemampuan yang ingin saya kembangkan adalah **public speaking**”; U003: “15 menit sebanyak 3 kali dalam seminggu” | Tujuan, pengalaman awal, hambatan, ukuran perubahan dan horizon jelas |
+| Persepsi dan validasi profil/status | 4 | U007: “kemampuan apa yang sebenarnya lagi lu pelajari”; U011: “belum bisa menyimpulkan bahwa keterampilan presentasi ... sudah meningkat” | Bertanya sebelum merancang stimulus, memisahkan perubahan ASK, berhati-hati atas klaim |
+| Pemilihan dan urutan repertoar | 4 | U008: “di menit pertama, lu pilih satu ide”; U009: “rekam penjelasan lu selama satu menit” | Repertoar meningkat dari eksplorasi, demonstrasi singkat, checklist mandiri, sampai kesepakatan |
+| Eksekusi jelas, peduli, konsisten | 3 | U010: “tentuin waktu penggantinya secara spesifik”; U007: “gua nggak mau ngajak lu bahas teori panjang-panjang” | Komunikasi menghormati waktu dan pilihan; relatif panjang pada beberapa giliran untuk tokoh yang menolak teori panjang; konsistensi nyata belum teruji |
+| Evaluasi dan adaptasi | 4 | U013: “durasi yang lebih fleksibel”; U006: “niat untuk mencoba belum otomatis membuktikan” | Evaluasi kualitas dan kepatuhan dibedakan; adaptasi terhadap hambatan dan batas inferensi jelas |
+| Refleksi dan lesson learned | 4 | U015: “memahami kondisi penerima pesan, mengevaluasi respons, dan berani memperbaiki pendekatan” | ASK, SWOT, Trust/Care, kritik diri, dan tindak lanjut dipaparkan; catatan pengulangan U014 dipertahankan |
+| **Total** | **23/24** | | **Usulan nilai sesi: 95,83/100** |
+
+**Catatan moderasi:** Skor di atas adalah estimasi AI atas **bukti yang tampak dalam percakapan**, bukan nilai yang disahkan dosen. Tidak boleh diperlakukan sebagai bukti peningkatan public speaking. Skor dapat berubah setelah dosen meninjau transkrip dan indikator rubrik resmi. Selain itu, bagian C dalam file ini parsial, yang harus diperhitungkan dalam verifikasi administrasi sebelum penilaian resmi.
+
+## Tindak lanjut dan batas bukti
+
+Rencana: 3 kali latihan setiap pekan selama empat minggu (target 12), 15 menit per sesi bila memungkinkan; alternatif 5 menit dengan catatan alasan dan jadwal pengganti spesifik. Gunakan pertanyaan spontan, struktur inti–alasan–contoh, rekam baseline dan akhir bulan, catat sesi terlaksana, satu kekuatan dan satu perbaikan; sesekali validasi dengan pendengar. Evaluasi mingguan membedakan pelaksanaan latihan dan perubahan kualitas jawaban. Tidak ada bukti rekaman ataupun pelaksanaan latihan nyata dalam sesi teks ini. Ucapan tokoh Fajar adalah produk simulasi, bukan kesaksian pihak ketiga. Tidak tersedia data suara, bahasa tubuh, prosodi maupun kemampuan spontan dalam presentasi sesungguhnya.
+
+## Catatan asumsi dan ketidakpastian
+
+1. Konfirmasi nama/NIM adalah pernyataan mahasiswa, bukan pemeriksaan identitas administrasi.
+2. Contoh PSTI, pola procrastination dan pengalaman semester sebelumnya adalah laporan diri yang tidak diverifikasi independen.
+3. Rekaman dan latihan di skenario minggu kedua bukan aktivitas nyata.
+4. Preferensi relasional Fajar dan tipe MBTI ESTP berasal dari profil **fiktif** paket; bukan diagnosis atau label mahasiswa.
+5. Estimasi rendah–sedang–tinggi bersifat interpretasi kualitatif dari respons simulator, bukan pengukuran psikometrik.
+6. Catatan per giliran di bagian C berisi kutipan nyata dan pemotongan eksplisit: **transkrip tidak lengkap**. Jangan menganggap ringkasan sebagai pengganti kutipan.
+7. Nilai 95,83 adalah **usulan AI** dan bergantung pada moderasi dosen; tidak mengandaikan keberhasilan praktik nyata.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Status nilai |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Belum tersedia |
+| Sesi 1 | 18% | Usulan AI 95,83; menunggu moderasi |
+| Sesi 2a | 18% | Belum tersedia |
+| Sesi 2b | 18% | Belum tersedia |
+| Sesi 3a | 18% | Belum tersedia |
+| Sesi 3b | 18% | Belum tersedia |
+| **Total** | **100%** | **Belum dihitung** |
+
+Rumus ketika seluruh komponen tersedia: `UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)`. BT berarti belum dapat ditetapkan, bukan nol; bobot tidak dinormalisasi ulang. Kontribusi Kasus 1 sebesar 18%; Kasus 2 dan Kasus 3 masing-masing 36%. Nilai makalah memakai nilai resmi dosen, bukan rubrik sesi ini.
+
+**Status pengumpulan:** File dibuat untuk diunduh; **belum** diunggah ke portal. Mahasiswa bertanggung jawab atas pemeriksaan, penyempurnaan transkrip lengkap jika disyaratkan, dan pengunggahan.

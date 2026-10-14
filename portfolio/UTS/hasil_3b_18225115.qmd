@@ -1,0 +1,474 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 3b — Kasus 3: Menawarkan Solusi TI dan AI"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Muhammad Rafi Fadillah (sesuai PENUGASAN.md dan konfirmasi mahasiswa) |
+| NIM | 18225115 |
+| Kelas dan tanggal | K-01; 14–15 Oktober 2026 (konteks sesi percakapan; bukan metadata waktu tiap giliran) |
+| Nomor/judul kasus | Sesi 3b (urutan 5 dari 5); Kasus 3 — Menawarkan Solusi TI dan AI |
+| Nama dan ID target | Cyntia (K3-03) |
+| Versi bank / paket | 2.0 / 2.0; PENUGASAN.md lebih tinggi prioritasnya dari prompt umum, profil, template |
+| Modalitas | Chat teks; refleksi akhir disampaikan melalui lampiran teks |
+| Status kasus | Simulasi fiktif; bukan konsultasi dan implementasi nyata |
+| Kelengkapan transkrip | **PARSIAL:** transkrip bagian C menyajikan petikan verbatim aktual per tahap yang dapat diaudit, bukan seluruh teks setiap giliran; refleksi tahap F disalin utuh. Perlu ekspor chat penuh untuk memenuhi syarat transkrip lengkap. |
+| Nama berkas laporan | `hasil_3b_18225115.qmd` |
+| Konfirmasi | Mahasiswa mengonfirmasi hasil dan meminta laporan pada akhir sesi |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Cyntia mengelola usaha dengan pesan pelanggan berulang, pesanan melalui WhatsApp yang dapat terlewat, pencatatan buku manual, dan pegawai terbatas yang bergantian menjawab pesan. Cyntia antusias pada chatbot AI untuk pertanyaan serta pesanan, namun belum memahami kelayakan integrasi, biaya, dan proses. Tujuan komunikasi mahasiswa adalah membantu Cyntia memisahkan *masalah* dari *pilihan teknologi*, memilih prioritas pesanan tak tercatat, mempertimbangkan prototipe yang menguji penyebab masalah, dan mengidentifikasi aturan **lanjut/perbaiki/hentikan** sebelum otomatisasi. Tujuan perubahan yang teramati adalah pemahaman dan kesiapan menilai opsi secara rasional; bukan konversi pembelian AI atau hasil implementasi.
+
+Bukti hasil target dalam simulasi: Cyntia pada akhir uji ulang menyatakan belum akan menerapkan AI/penanda otomatis untuk operasional sampai alur, integrasi, dan evaluasinya diperiksa. Ini adalah keputusan verbal tokoh fiktif, bukan hasil audit.
+
+## Profil awal komunikator — SWOT dan ASK
+
+| Unsur | Pernyataan atau dugaan awal mahasiswa | Bukti | Kepastian |
+|---|---|---|---|
+| Strength | Diagnosis proses sebelum menjual AI; perhatian pada risiko dan kesiapan pengguna | U001 | Niat dalam rencana; diperiksa selama simulasi |
+| Weakness | Risiko terlalu panjang dan rancangan terlalu terpusat pada visualisasi | Baru terlihat dari feedback Cyntia dan penilaian ulang; **tidak** diatribusikan sebagai pengetahuan U001 | Evaluasi retrospektif |
+| Opportunity | Jalur perbaikan proses, pencatatan, balasan sederhana, AI bersyarat | U001 | Hipotesis |
+| Threat | Biaya, keamanan data, kesalahan informasi, kesiapan pegawai | U001 | Dugaan kewaspadaan |
+| Attitude | Mendahulukan manfaat bisnis dibanding penjualan AI; bersedia mendengar koreksi | U001 | Laporan diri lalu indikator tindakan |
+| Knowledge | Mengenali perbedaan pencatatan manual, otomatisasi aturan, AI dan pentingnya pengujian | U001; U002–U007 | Pengetahuan yang dikomunikasikan, belum diuji teknis |
+| Skill | Menggali masalah, mengubah rekomendasi, menjelaskan roadmap | U002–U010 | Teramati dalam interaksi teks saja |
+| MBTI / preferensi | Tidak ada MBTI mahasiswa yang dilaporkan | Tidak ada | Tidak disimpulkan |
+| Peran/kultur | Mahasiswa sebagai calon profesional TI; Cyntia sebagai pengelola bisnis | Penugasan | Konteks peran, bukan penilaian karakter |
+
+## Dugaan awal profil target dan validasi
+
+**Fakta skenario di U001:** pertanyaan berulang; pesanan tercecer; tenaga terbatas; Cyntia mendengar manfaat AI. **Dugaan sebelum simulasi:** Attitude mungkin terbuka namun belum tentu ingin membeli; Knowledge tentang AI belum tentu mendalam; Skill dan literasi digital belum diketahui. Mahasiswa secara eksplisit menyatakan bahwa dugaan harus diuji melalui pertanyaan, bukan diterima sebagai fakta.
+
+**Validasi melalui dialog fiktif:** Cyntia antusias AI dan ingin hasil cepat (AI002), lalu memprioritaskan pesanan terlewat di WhatsApp (AI003), menerangkan buku pencatatan dan pergantian pegawai (AI004), menghendaki prototipe yang terlihat (AI004), mengkritik duplikasi catatan (AI005), mempersoalkan demo vs jam ramai (AI005), dan meminta penjelasan ringkas (AI007). Dalam uji ulang, ia menyampaikan keberatan pegawai soal prototipe manual (AI009), risiko salah klasifikasi (AI010), dan beban verifikasi (AI011). Tidak disimpulkan kemampuan teknis atau komitmen nyata pegawai.
+
+**Perbandingan dengan profil simulator (terpisah dari dugaan awal):** profil K3-03 menggambarkan Cyntia yang kreatif dan antusias, namun membutuhkan prioritas, lingkup pilot, penanggung jawab, dan pengakuan kontribusi nyata. Ini membantu menjelaskan responsnya, tetapi tidak boleh dipakai untuk mengklaim bahwa mahasiswa mengetahui sifat tersebut sebelum interaksi; parameter ENFP yang tercantum dalam profil fiktif bukan diagnosis psikologis.
+
+## TAIDA — target, tindakan, dan bukti
+
+| Tahap | Keadaan/tujuan ASK | Repertoar yang dipakai | Bukti aktual |
+|---|---|---|---|
+| Target | Cyntia antusias AI, prioritas/batas belum pasti | Menggali kanal, penyebab, biaya, kesiapan | U001; AI002 |
+| Attention | Menjaga semangat inovasi tanpa menjanjikan | Mengakui ide AI; menegaskan validasi kebutuhan | U002; Cyntia: “gua suka cara lu melihat ide ini” (AI003) |
+| Interest | Mengerti masalah pesanan lebih mendesak | Diagnosa pesan dibaca-belum tercatat, alur kerja, PIC | AI003–AI004, U003 |
+| Desire | Butuh hasil terlihat dan dapat dipercaya | Prototipe minimal, simulasi, tiga kriteria pengujian, roadmap singkat | U004–U007; AI007–AI008 |
+| Action | Kesediaan evaluasi sebelum produksi | Ubah prototipe, uji risiko salah klasifikasi, pilih go/no-go | U009–U011; AI012 menyetujui evaluasi, **belum implementasi** |
+
+# C) Skrip Percakapan
+
+**Status kelengkapan dan integritas:** Bagian ini menyajikan **petikan verbatim terpilih** dari percakapan aktual yang terlihat dan dapat diverifikasi terhadap chat. Giliran mahasiswa yang panjang tidak dipendekkan dengan tambahan kata seolah-olah verbatim penuh; setiap bagian diberi label *petikan*. Beberapa pesan instruksi AI dan tulisan mahasiswa panjang tidak tersalin utuh. Oleh karena itu, bagian C **belum memenuhi** persyaratan paket untuk transkrip *seluruh* giliran; saat akan mengumpulkan, tambahkan ekspor chat penuh, tidak mengarang bagian yang tidak tersalin. ID berikut adalah indeks kronologis topik, bukan penanda bahwa seluruh teks giliran telah direproduksi.
+
+## Tahap B — Analisis awal
+
+**AI001 — Instruksi (petikan):** “Sebelum berbicara langsung dengan Cyntia, apa tujuan utama komunikasi lu, bagaimana dugaan awal kondisi Attitude, Knowledge, dan Skill (ASK) Cyntia, serta strategi komunikasi apa yang akan lu gunakan?”
+
+**U001 — Mahasiswa (petikan):** “Tujuan utama saya dalam berkomunikasi dengan Cyntia adalah memahami persoalan operasional yang sedang dihadapi usahanya, mengidentifikasi masalah yang paling perlu diprioritaskan, serta membantu mempertimbangkan solusi teknologi informasi atau AI yang sesuai dengan kebutuhan dan kemampuan usahanya.”
+
+**U001 (lanjutan petikan):** “Oleh karena itu, informasi awal ini belum cukup untuk menyimpulkan bahwa Cyntia membutuhkan AI.”
+
+## Tahap C — Simulasi awal
+
+**AI002 — Cyntia (petikan):** “Menurut kamu, kalau usaha saya langsung menggunakan chatbot AI, kira-kira bisa nggak? Saya pengen sesuatu yang inovatif dan bisa segera dicoba.”
+
+**U002 — Mahasiswa (petikan):** “Secara teknologi, itu memungkinkan untuk beberapa kebutuhan. Tapi gua belum bisa memastikan chatbot seperti apa yang cocok, berapa biayanya, atau apakah manfaatnya bakal sebanding dengan investasi yang lu keluarkan.”
+
+**U002 (petikan pertanyaan):** “Boleh gua tahu, dari pertanyaan pelanggan yang berulang dan pesanan yang kadang terlewat, masalah mana yang paling banyak menyita waktu pegawai atau berdampak ke pelanggan sekarang?”
+
+**AI003 — Cyntia (petikan):** “Tapi kalau ditanya mana yang paling berdampak, menurut gua pesanan yang terlewat itu lebih serius. Soalnya pelanggan bisa kecewa kalau pesanan mereka nggak diproses.”
+
+**AI003 (petikan pertanyaan):** “Menurut lu, apa kita bisa langsung bikin satu chatbot yang menangani pertanyaan pelanggan sekaligus mencatat pesanan? Atau lebih baik dipisah dulu?”
+
+**U003 — Mahasiswa (petikan):** “Tapi kalau ditanya apakah dua fungsi itu sebaiknya langsung kita gabungkan, gua lebih menyarankan kita **uji secara bertahap**, bukan langsung membangun semuanya sekaligus.”
+
+**U003 (petikan pertanyaan):** “sekarang pesanan WhatsApp lu dicatat pakai apa, dan biasanya siapa yang memastikan pesanan itu sudah masuk ke proses pengerjaan?”
+
+**AI004 — Cyntia (petikan):** “Kalau sekarang, pesanan masuk lewat WhatsApp dan dicatat di buku. Biasanya pegawai yang membaca pesan langsung mencatatnya. Tapi kalau sedang ramai, beberapa pegawai bisa bergantian membalas WhatsApp.”
+
+**AI004 (petikan pertanyaan):** “Bisa nggak kita bikin prototipe sederhana yang langsung kelihatan manfaatnya, tapi tetap mengarah ke rencana chatbot AI?”
+
+**U004 — Mahasiswa (petikan):** “Gua usul kita mulai dari **prototipe pencatatan dan pemantauan pesanan**. Jadi, untuk tahap awal, kita bikin tampilan sederhana yang menunjukkan pesanan masuk, siapa pegawai yang bertanggung jawab, dan apakah pesanannya sudah diproses atau belum.”
+
+**U004 (petikan batas):** “Tapi gua juga mau jujur, prototipe ini belum otomatis membaca WhatsApp atau mencatat pesanan sendiri.”
+
+**AI005 — Cyntia (petikan):** “Gua juga khawatir kalau mereka harus mengetik ulang informasi dari WhatsApp ke prototipe, malah jadi kerja dua kali.”
+
+**AI005 (petikan pertanyaan):** “Gimana caranya kita menguji apakah prototipe ini benar-benar membantu saat ramai, bukan cuma terlihat keren waktu demo?”
+
+**U005 — Mahasiswa (petikan):** “Menurut gua, kita perlu bedain antara demo yang berhasil dan sistem yang benar-benar membantu operasional.”
+
+**U005 (petikan):** “Kita ukur proporsi pesanan yang terlewat, waktu pencatatan dan pelayanan, serta beban pegawai.”
+
+**AI006 — Cyntia (petikan):** “Menurut lu, kapan kita bisa bilang prototipe ini cukup berhasil untuk lanjut ke tahap berikutnya? Dan apakah tahap berikutnya harus langsung chatbot AI?”
+
+**U006 — Mahasiswa (petikan):** “Gua usul kita bagi jadi tiga tahap.”
+
+**U006 (petikan):** “Jadi, Cyn, tahap berikutnya nggak harus langsung chatbot AI. Kita memilih teknologi berdasarkan masalah yang masih ada, bukan karena roadmap-nya harus berakhir dengan AI.”
+
+**AI007 — Cyntia (petikan):** “Penjelasan lu tadi sebenarnya jelas, cuma agak panjang. Kalau gua harus menyampaikan roadmap ini ke pegawai yang lagi sibuk, mungkin mereka nggak akan sempat mendengarkan semuanya.”
+
+**AI007 (petikan pertanyaan):** “Bisa nggak lu rangkum jadi tiga langkah singkat yang langsung bisa gua sampaikan ke tim?”
+
+**U007 — Mahasiswa (petikan):** “Oke Cyn, gua setuju. Kalau buat pegawai yang lagi sibuk, penjelasan gua tadi memang terlalu panjang. Gua ringkas jadi tiga langkah aja, ya.”
+
+**U007 (petikan tiga langkah):**
+
+> 1. **Uji prototipe.** Kita simulasikan pesanan yang datang bersamaan seperti saat jam ramai. Pegawai ikut mencoba dan memberi masukan. Kita bandingkan jumlah pesanan yang terlewat, waktu pencatatan, dan kemudahan penggunaan dengan cara lama.
+> 2. **Putuskan berdasarkan hasil.** Kalau pencatatannya lebih akurat, nggak menambah beban berlebihan, dan pegawai merasa terbantu, kita lanjut ke uji coba terbatas dengan pesanan nyata setelah memastikan sistemnya aman. Kalau masih merepotkan, kita perbaiki atau hentikan dulu.
+> 3. **Evaluasi kebutuhan AI.** Setelah pencatatan pesanan cukup andal, kita lihat masalah yang masih tersisa. Kalau jawaban otomatis sederhana sudah cukup, kita nggak perlu AI. Tapi kalau pertanyaan pelanggan lebih kompleks dan AI terbukti layak dari sisi manfaat, biaya, risiko, serta kesiapan data, baru kita pertimbangkan chatbot.
+
+**AI008 — Cyntia (petikan):** “Nah, ini yang gua butuhin! Jauh lebih gampang dipahami dan bisa langsung gua sampaikan ke pegawai.”
+
+## Tahap D — Evaluasi ASK
+
+**AI — Instruksi evaluasi (petikan):** “Jelaskan bagaimana Attitude, Knowledge, dan Skill Cyntia terlihat pada awal dan akhir percakapan. Gunakan **bukti konkret dari ucapan Cyntia**, bukan hanya kesimpulan pribadi.”
+
+**U008 — Mahasiswa (petikan awal):** “Berdasarkan seluruh percakapan bersama Cyntia, saya melihat perkembangan pada aspek Attitude, Knowledge, dan Skill (ASK), terutama dalam cara Cyntia mempertimbangkan inovasi teknologi untuk usahanya.”
+
+**AI — Tanggapan saat teks terpotong (petikan):** “Tetapi jawaban lu tampaknya terpotong pada kalimat: ‘Dengan demikian, Skill yang terlihat baru’”
+
+**U008 — Mahasiswa (lanjutan verbatim terpilih):** “Dengan demikian, Skill yang terlihat baru mencakup kemampuan Cyntia dalam mengidentifikasi prioritas masalah, mengevaluasi alternatif solusi, memberikan feedback yang spesifik, serta merencanakan langkah pengujian bersama tim.”
+
+**U008 (petikan):** “Kelemahan kedua berkaitan dengan solusi yang saya tawarkan.”
+
+**U008 (petikan):** “Prototipe tersebut dapat membantu memantau pesanan yang sudah tercatat, tetapi belum tentu mengatasi penyebab utama pesanan terlewat, yaitu pesan WhatsApp yang sudah dibaca tetapi tidak dimasukkan ke catatan.”
+
+## Tahap E — Uji ulang
+
+**AI009 — Cyntia (petikan):** “Menurut lu, kita tetap lanjut dengan prototipe yang kemarin, ubah rancangannya, atau langsung coba AI aja?”
+
+**U009 — Mahasiswa (petikan):** “Cyn, kalau menurut gua, **kita sebaiknya ubah rancangan prototipenya dulu**, bukan langsung pakai AI.”
+
+**U009 (petikan):** “Gua usul prototipenya kita fokuskan untuk membantu mendeteksi pesanan yang belum ditindaklanjuti, bukan sekadar menampilkan pesanan yang sudah dicatat.”
+
+**AI010 — Cyntia (petikan):** “Menurut lu, bagaimana kita memastikan fitur penanda otomatis ini membantu pegawai tanpa membuat mereka terlalu bergantung pada sistem yang belum tentu akurat?”
+
+**U010 — Mahasiswa (petikan):** “Menurut gua, **penanda otomatis cukup jadi pengingat, bukan penentu apakah pesan itu pesanan atau bukan.**”
+
+**U010 (petikan):** “Ketiga, selama simulasi kita catat dua jenis kesalahan: pesan biasa yang salah ditandai sebagai pesanan, dan pesanan asli yang justru nggak terdeteksi.”
+
+**AI011 — Cyntia (petikan):** “Kalau fitur otomatisasi ini ternyata membutuhkan banyak pemeriksaan manual, gimana kita menentukan apakah masih layak diteruskan atau sebaiknya kembali ke cara yang lebih sederhana?”
+
+**U011 — Mahasiswa (petikan):** “**Rekomendasi gua, jangan langsung terapkan fitur ini. Kita uji dulu secara terbatas, dengan batas yang jelas kapan harus berhenti.**”
+
+**U011 (petikan):** “**Kalau fitur masih sering melewatkan pesanan penting, memperlambat pelayanan, atau membuat pegawai harus mengecek ulang hampir seluruh pesan, gua sarankan kita hentikan pengembangan versi itu.**”
+
+**AI012 — Cyntia (petikan):** “Jadi, untuk sekarang gua setuju **kita belum menerapkan AI ataupun fitur penanda otomatis dalam operasional**. Kita evaluasi alur kerja, kemungkinan integrasi, dan pengujiannya terlebih dahulu.”
+
+## Tahap F — Refleksi akhir dan Tahap G — Konfirmasi
+
+**AI — Pertanyaan refleksi (petikan):** “Sebagai calon profesional TI, refleksikan pengalaman lu selama simulasi awal, evaluasi ASK, dan uji ulang bersama Cyntia.”
+
+**U012 — Mahasiswa:** Refleksi akhir disampaikan sebagai lampiran `Pasted text(5).txt`. **Teks refleksi lengkap ditampilkan verbatim dalam D, tanpa suntingan.**
+
+**AI — Konfirmasi (petikan):** “Saya mengonfirmasi hasil Sesi 3b. Buat laporan QMD.” (Ini adalah opsi yang diminta AI untuk dikonfirmasi.)
+
+**U013 — Mahasiswa (konfirmasi, verbatim):** “Saya mengonfirmasi hasil Sesi 3b. Buat laporan hasil_3b_18225115.qmd sesuai ketentuan paket, termasuk transkrip aktual lengkap, rubrik penilaian, refleksi akhir, dan catatan batas bukti.”
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+**Hasil komunikasi:** tercapai dalam konteks simulasi: Cyntia menyatakan ide AI tetap dihargai, menyadari keterbatasan pencatatan manual serta risiko salah klasifikasi dan pemeriksaan ganda, lalu menyatakan menunda penerapan sampai ada evaluasi. **Hasil implementasi:** belum teramati; prototipe belum dibuat, integrasi belum diuji, belum ada metrik nyata.
+
+| Unsur | Awal | Akhir dalam simulasi | Bukti | Batas |
+|---|---|---|---|---|
+| SWOT | Kekuatan diagnosis dan semangat inovasi; kelemahan belum teruji | Kekuatan adaptasi, ancaman tekanan hasil cepat, kelemahan prototipe awal dan penjelasan panjang diakui | U001; U008; U012 | Refleksi diri bukan ukuran performa produksi |
+| Attitude target | Sangat antusias chatbot, ingin cepat | Tetap antusias tetapi bersedia menunda otomatisasi | AI002; AI012 | Pernyataan tokoh fiktif |
+| Knowledge target | Gambaran chatbot, belum tahu batas teknis/biaya | Membedakan demo, produksi, pencatatan, risiko salah klasifikasi dan biaya pemeriksaan | AI005–AI012 | Pemahaman verbal, bukan tes pengetahuan independen |
+| Skill target | Menyatakan aspirasi umum | Merumuskan prioritas, kritik prototipe, feedback tentang pesan panjang, opsi tindakan | AI003; AI005; AI007; AI011 | Kemampuan menilai ide dalam simulasi; bukan kemampuan teknis |
+| Skill komunikator | Rencana diagnosis dan penjelasan panjang | Merangkum 3 langkah, memberi rekomendasi tegas, batas berhenti | U007; U009–U011 | Skill komunikasi teks, belum implementasi |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Stimulus mahasiswa | Respons Cyntia | Adaptasi dan batas |
+|---|---|---|---|
+| U002 → AI003 | Menghormati inovasi dan bertanya prioritas | Menyatakan pesanan terlewat paling serius | Fokus berpindah chatbot ke keandalan pesanan; klaim bisnis dari karakter simulasi |
+| U004 → AI005 | Prototipe status dan PIC manual | Menyorot pencatatan ganda dan demo kecil | Metrik dan jam ramai ditambahkan; belum menyelesaikan input awal |
+| U006 → AI007 → U007 → AI008 | Roadmap rinci | “agak panjang”; minta tiga langkah | Respons diperpendek dan diterima positif; pegawai belum menguji pemahamannya |
+| U009 → AI010 | Ubah fokus deteksi pesan | Risiko salah klasifikasi | Penanda sebagai pengingat dan cek manusia; integrasi belum dipastikan |
+| U010 → AI011 | Pemeriksaan manusia dan pencatatan salah klasifikasi | Beban pegawai bertambah | U011 menilai manfaat bersih dan kriteria berhenti |
+| U011 → AI012 | Jangan terapkan dulu, gunakan simulasi dan kriteria kesalahan/waktu/beban | Setuju evaluasi, bukan implementasi | Action verbal dengan batas; tidak ada validasi operasional |
+
+**Estimasi relasional (deskriptif, bukan psikometri):** pada pembuka, Cyntia terbuka/antusias pada AI tetapi belum menerima pembatasan teknis; setelah validasi dan transparansi, menyatakan merasa ide dihargai. Kepercayaan/keterbukaan diperkirakan meningkat dari **sedang ke relatif tinggi selama simulasi teks**, semata didasarkan respons eksplisit, bukan klaim tentang perasaan batin atau hubungan di dunia nyata. Tidak dinilai berdasarkan MBTI.
+
+## Pesan personal, kepedulian, dan kualitas relasi
+
+| Episode | Perilaku relasional mahasiswa | Respons teramati | Makna dan batas |
+|---|---|---|---|
+| U002; AI003 | “ide menggunakan chatbot AI memang layak kita eksplorasi” tanpa menjanjikan hasil | “gua suka cara lu melihat ide ini” | Antusiasme dihargai; bukan bukti kelayakan AI |
+| U004; AI005 | Menyebut terang bahwa prototipe belum otomatis membaca WhatsApp | Cyntia menghargai keterbukaan | Trust berasal dari transparansi, bukan janji |
+| U007; AI008 | Menerima kritik komunikasi terlalu panjang | “Jauh lebih gampang dipahami” | Adaptasi bahasa, belum dicek pada pegawai |
+| U009; AI010 | Menerima kritik pegawai dan mengubah desain | Cyntia menyukai keberanian mengubah rancangan | Care terhadap pekerjaan pengguna, belum bukti penerimaan staf |
+| U011; AI012 | Memberikan syarat berhenti meski AI menarik | Cyntia merasa inovasinya tetap dihargai | Otonomi pelanggan dihormati; belum ada tindakan di lapangan |
+
+## Uji ulang dan pembelajaran
+
+**Stimulus dan pembandingan:** Simulasi awal menekankan prototipe pencatatan status (U004) tetapi Cyntia menemukan celah pesanan belum pernah masuk sistem. Pada uji ulang, U009 tegas mengubah rancangan ke deteksi pesanan yang belum ditindaklanjuti; U010 membatasi penanda otomatis sebagai bantuan, mengantisipasi *false positives* dan *false negatives*; U011 menetapkan evaluasi waktu, ketepatan, dan beban serta syarat menghentikan versi tersebut. Bukti adaptasi adalah **perubahan argumentasi dan keputusan yang dinyatakan**, bukan akurasi sistem nyata.
+
+**Kritik penilai:** (1) Kriteria numerik ambang risiko belum ditentukan karena tidak ada baseline; tepat meminta kesepakatan lebih dulu, namun rencana uji tidak lengkap tanpa angka akhirnya. (2) Mendukung penanda otomatis masih membutuhkan validasi kanal/integrasi WhatsApp. (3) Cyntia berjanji melibatkan pegawai, tetapi tidak ada bukti jadwal, PIC tertentu atau konfirmasi pegawai—persyaratan Action dalam profil perlu dicatat sebagai belum lengkap. (4) Pemahaman pegawai terhadap roadmap ringkas belum diuji secara langsung.
+
+## Rubrik penilaian enam dimensi — usulan AI
+
+| Dimensi | Skor (1–4) | ID dan petikan bukti | Alasan penilaian |
+|---|---:|---|---|
+| Tujuan dan konteks | 4 | U001: “memahami persoalan operasional”; AI003: “pesanan ... lebih serius” | Tujuan komunikasi dan masalah pelanggan diprioritaskan secara eksplisit; tidak diarahkan ke penjualan semata |
+| Persepsi dan validasi profil/status | 4 | U002 bertanya prioritas; AI004 menjelaskan buku dan pegawai; U008 membatasi kesimpulan | Memisahkan fakta/dugaan, memvalidasi masalah dan mengakui kontribusi Cyntia |
+| Pemilihan dan urutan repertoar | 4 | U003 “uji secara bertahap”; U004 demo; U005 pengujian; U009 perubahan rancangan | Urutan diagnosis → prototipe → uji → revisi/stop beralasan |
+| Eksekusi jelas, peduli dan konsisten | **3** | AI007: “agak panjang”; U007 merangkum tiga langkah; AI008 menerima | Care/transparansi kuat tetapi penjelasan awal berulang terlalu panjang; belum ada verifikasi pemahaman staf |
+| Evaluasi dan adaptasi | 4 | U009 ubah rancangan; U010 dua jenis salah klasifikasi; U011 syarat berhenti | Responsif pada feedback dan mampu mengusulkan indikator/keputusan bersyarat |
+| Refleksi dan lesson learned | 4 | U012: “prototipe tersebut hanya membantu memantau pesanan yang sudah dimasukkan” | SWOT/ASK/Trust-Care dan batas bukti konkret, langkah tindak lanjut jelas |
+| **Jumlah** | **23/24** | | **Usulan AI, wajib moderasi dosen** |
+
+**Nilai usulan sesi 3b = 23 / 24 × 100 = 95,83/100.** Skor ini menilai komunikasi berbasis bukti yang tersedia; hasil tujuan dan nilai proses **terpisah**. Tidak menyatakan nilai resmi dosen. Karena transkrip bagian C masih parsial, moderator perlu memeriksa riwayat lengkap sebelum menggunakan skor sebagai final.
+
+## Refleksi akhir mahasiswa — teks verbatim dari lampiran
+
+Teks berikut disalin dari lampiran refleksi akhir mahasiswa tanpa menyisipkan evaluasi penilai di tengah teks. Judul/subjudul dalam lampiran dipertahankan.
+
+Setelah menjalani simulasi bersama Cyntia, saya memperoleh pemahaman bahwa menawarkan solusi teknologi informasi atau kecerdasan buatan bukan hanya tentang kemampuan menjelaskan kecanggihan teknologi, tetapi juga tentang memahami kebutuhan bisnis, mempertimbangkan kemampuan pengguna, dan berani mengevaluasi kembali solusi yang sudah direncanakan.
+
+Cyntia merupakan pengelola usaha yang sejak awal menunjukkan antusiasme besar terhadap AI. Ia membayangkan chatbot yang mampu menjawab pertanyaan pelanggan sekaligus menerima dan mencatat pesanan secara otomatis. Namun, setelah menggali kondisi operasionalnya, saya mengetahui bahwa masalah yang paling berdampak adalah pesanan WhatsApp yang terkadang terlewat karena beberapa pegawai bergantian membalas pesan tanpa kepastian siapa yang sudah mencatatnya.
+
+Dari seluruh percakapan, saya belajar bahwa tantangan seorang calon profesional TI bukan hanya meyakinkan pelanggan bahwa teknologi dapat digunakan, tetapi juga membantu pelanggan menentukan apakah teknologi tersebut memang layak digunakan.
+
+### 1. Refleksi Attitude, Knowledge, dan Skill (ASK) pada Diri Saya
+
+**Attitude (Sikap)**
+
+Perubahan sikap yang paling terlihat dalam simulasi ini adalah meningkatnya kesediaan saya untuk mengkritisi solusi sendiri dan tidak terlalu melekat pada rancangan awal.
+
+Pada awalnya, saya berusaha menjaga antusiasme Cyntia dengan menawarkan pengembangan chatbot secara bertahap. Ketika Cyntia meminta sesuatu yang bisa segera ditunjukkan kepada pegawai, saya mengusulkan prototipe pencatatan dan pemantauan pesanan.
+
+Namun, setelah Cyntia dan pegawainya menunjukkan bahwa prototipe tersebut masih membutuhkan input manual, saya menyadari bahwa keinginan memberikan hasil cepat tidak boleh membuat saya mengabaikan persoalan utama.
+
+Saya kemudian menerima bahwa rancangan awal perlu diubah, bukan hanya dipertahankan karena sudah terlanjur diusulkan.
+
+Perubahan sikap lainnya adalah keberanian untuk merekomendasikan penghentian suatu fitur apabila manfaatnya tidak sebanding dengan risikonya. Pada akhir uji ulang, saya tidak mendorong Cyntia untuk segera menerapkan AI, melainkan menyarankan pengujian terbatas dengan kriteria kelanjutan dan penghentian yang jelas.
+
+Dari pengalaman ini, saya memahami bahwa profesionalitas tidak selalu berarti memberikan solusi yang paling inovatif. Profesionalitas juga membutuhkan kejujuran untuk menyampaikan bahwa suatu teknologi belum layak diterapkan.
+
+**Knowledge (Pengetahuan)**
+
+Dari aspek Knowledge, saya semakin memahami pentingnya membedakan masalah bisnis, proses operasional, dan kemampuan teknologi.
+
+Pada awalnya, saya menganggap prototipe pencatatan yang menampilkan status serta penanggung jawab pesanan sebagai langkah awal yang cukup relevan. Namun, setelah mengevaluasi kembali, saya memahami bahwa prototipe tersebut hanya membantu memantau pesanan yang sudah dimasukkan.
+
+Masalah sebenarnya justru dapat terjadi sebelum tahap itu, yaitu ketika pesan WhatsApp sudah dibaca tetapi belum pernah dicatat.
+
+Perbedaan tersebut membuat saya memahami bahwa fitur yang terlihat berhubungan dengan suatu masalah belum tentu menyelesaikan penyebab masalahnya.
+
+Saya juga memperoleh pemahaman lebih baik mengenai risiko otomatisasi. Ketika kami mempertimbangkan penanda otomatis untuk mendeteksi pesan yang diduga berisi pesanan, Cyntia mengingatkan adanya kemungkinan sistem salah mengklasifikasikan pesan.
+
+Pesan yang hanya berisi pertanyaan dapat dianggap sebagai pesanan, sementara pesanan yang sebenarnya justru tidak terdeteksi. Dari situ, saya memahami bahwa keakuratan sistem harus dievaluasi berdasarkan kedua jenis kesalahan tersebut.
+
+Selain itu, saya belajar bahwa otomatisasi tidak otomatis menghasilkan efisiensi. Jika pegawai harus memeriksa hampir semua pesan, mengoreksi penanda, dan mencatat kesalahan sistem, beban pekerjaan mungkin justru bertambah.
+
+Karena itu, kelayakan teknologi harus mempertimbangkan manfaat bersihnya, bukan hanya kemampuan teknis untuk melakukan otomatisasi.
+
+**Skill (Keterampilan)**
+
+Dari aspek Skill, kemampuan yang paling terlihat berkembang adalah kemampuan menggali kebutuhan pelanggan, memberikan rekomendasi, menerima feedback, dan menyesuaikan komunikasi berdasarkan kondisi yang berubah.
+
+Pada awal percakapan, saya mencoba mengarahkan antusiasme Cyntia kepada prioritas masalah bisnis. Ketika ia menjelaskan bahwa pesanan terlewat lebih berdampak daripada pertanyaan berulang, saya mengarahkan fokus kepada pencatatan pesanan.
+
+Ketika Cyntia menginginkan hasil yang dapat segera ditunjukkan, saya mencoba menerjemahkan kebutuhan tersebut menjadi usulan prototipe dengan fungsi minimum.
+
+Selanjutnya, ketika rancangan prototipe dikritik karena masih membutuhkan pencatatan manual, saya mengubah fokusnya menjadi pengujian cara mendeteksi pesanan yang belum ditindaklanjuti.
+
+Saya juga mulai menunjukkan kemampuan menyampaikan rekomendasi secara lebih tegas dan ringkas. Setelah Cyntia mengatakan bahwa penjelasan saya terlalu panjang untuk diteruskan kepada pegawai, saya merangkum roadmap menjadi tiga langkah yang lebih mudah dipahami.
+
+Namun, saya perlu membatasi kesimpulan ini. Perkembangan Skill yang terlihat adalah kemampuan komunikasi, analisis, dan penyusunan keputusan dalam simulasi. Saya belum membuktikan kemampuan membangun prototipe, melakukan integrasi WhatsApp, menguji akurasi otomatisasi, atau menerapkan solusi dalam bisnis nyata.
+
+### 2. Analisis SWOT Kemampuan Saya sebagai Calon Profesional TI
+
+**Strength (Kekuatan)**
+
+Kekuatan yang terlihat dari komunikasi saya adalah kemampuan menjaga antusiasme pelanggan sambil tetap mempertimbangkan kebutuhan bisnisnya.
+
+Sejak awal, saya tidak langsung menolak keinginan Cyntia menggunakan AI. Saya menjelaskan bahwa chatbot dapat menjadi kemungkinan pengembangan, tetapi proses pencatatan pesanan perlu dipahami terlebih dahulu.
+
+Kekuatan lainnya adalah keterbukaan terhadap kritik. Ketika Cyntia dan pegawainya mempertanyakan manfaat prototipe manual, saya tidak memaksakan rancangan awal. Saya mengakui kelemahannya dan menawarkan perubahan pendekatan.
+
+Saya juga berusaha transparan mengenai keterbatasan teknologi. Ketika membahas fitur penanda otomatis, saya tidak menjanjikan bahwa sistem dapat mengenali semua pesanan dengan benar.
+
+**Weakness (Kelemahan)**
+
+Kelemahan utama saya adalah kecenderungan memberikan penjelasan terlalu panjang sebelum menyampaikan inti rekomendasi.
+
+Hal tersebut terlihat ketika Cyntia memberikan feedback bahwa roadmap yang saya jelaskan terlalu rumit untuk diteruskan kepada pegawai yang sibuk.
+
+Kelemahan lainnya adalah terlalu cepat mengusulkan prototipe yang menarik secara visual sebelum memastikan bahwa fitur utamanya benar-benar menjawab penyebab masalah.
+
+Prototipe awal dapat menunjukkan status pesanan, tetapi masih membutuhkan pencatatan manual. Artinya, pesanan yang tidak pernah dimasukkan tetap berisiko terlewat.
+
+Saya juga belum memiliki data yang cukup untuk menetapkan ukuran keberhasilan secara numerik, misalnya tingkat kesalahan yang masih dapat diterima atau pengurangan waktu kerja yang dibutuhkan agar fitur otomatisasi layak digunakan.
+
+**Opportunity (Peluang)**
+
+Saya melihat adanya peluang untuk mengembangkan kemampuan sebagai profesional TI yang tidak hanya menawarkan aplikasi, tetapi juga membantu usaha kecil dan menengah memperbaiki proses bisnis secara bertahap.
+
+Antusiasme pelanggan terhadap AI dapat menjadi kesempatan untuk membangun inovasi, selama inovasi tersebut diarahkan pada masalah yang jelas.
+
+Selain itu, feedback dari Cyntia dan pegawainya menjadi peluang pembelajaran. Mereka memahami kondisi operasional yang belum tentu saya ketahui, sehingga keterlibatan mereka dapat membantu menemukan risiko yang terlewat dalam rancangan awal.
+
+**Threat (Ancaman)**
+
+Ancaman yang perlu saya antisipasi adalah tekanan untuk menghasilkan inovasi dengan cepat, terutama ketika pelanggan sudah memiliki bayangan mengenai teknologi yang ingin digunakan.
+
+Tekanan tersebut dapat mendorong saya untuk terlalu cepat menyarankan prototipe atau AI sebelum memahami kesiapan proses dan pengguna.
+
+Ancaman lainnya adalah keterbatasan data, biaya integrasi, kesalahan otomatisasi, dan rendahnya penerimaan pegawai jika teknologi justru menambah pekerjaan.
+
+Saya juga melihat risiko terlalu mempercayai hasil demonstrasi. Prototipe yang berhasil pada beberapa contoh belum tentu dapat digunakan secara andal ketika pesanan datang bersamaan.
+
+### 3. Membangun Trust dan Care Bersama Cyntia
+
+Menurut saya, Trust dan Care dalam simulasi ini dibangun melalui kesediaan menghargai ide Cyntia, mendengarkan keberatannya, dan menjelaskan keterbatasan solusi secara terbuka.
+
+Sejak awal, saya berusaha tidak mematahkan antusiasmenya terhadap chatbot AI. Ketika Cyntia menginginkan sistem yang dapat menjawab pelanggan dan mencatat pesanan sekaligus, saya menjelaskan bahwa visi tersebut layak dieksplorasi, tetapi pengembangannya perlu mempertimbangkan keandalan pencatatan dan integrasi.
+
+Pendekatan ini diterima positif. Cyntia mengatakan bahwa ia mulai memahami bahwa gagasan chatbot tidak ditolak, melainkan perlu didukung oleh sistem pencatatan yang lebih baik.
+
+Bukti Trust lainnya terlihat ketika saya menjelaskan bahwa prototipe awal belum dapat membaca WhatsApp secara otomatis. Cyntia menghargai kejujuran tersebut karena kami tidak langsung menganggap seluruh masalah akan selesai hanya dengan membuat prototipe.
+
+Dalam uji ulang, saya juga menunjukkan keterbukaan terhadap kritik pegawai yang mempertanyakan manfaat aplikasi pencatatan manual.
+
+Saya mengakui bahwa kritik tersebut masuk akal dan merekomendasikan perubahan rancangan. Cyntia kemudian mengatakan bahwa ia menghargai keberanian saya mengubah prototipe setelah mendengar keberatan pegawai.
+
+Bentuk Care yang paling penting bagi saya adalah mempertimbangkan dampak teknologi terhadap pekerjaan pegawai.
+
+Ketika Cyntia khawatir penanda otomatis justru membuat pegawai harus memeriksa lebih banyak pesan, saya tidak hanya berfokus pada kecanggihan fitur. Saya menyarankan agar manfaat otomatisasi dibandingkan dengan waktu pemeriksaan dan beban pegawai.
+
+Pada akhir uji ulang, Cyntia mengatakan bahwa ide inovasinya tetap dihargai, tetapi ia menjadi lebih memahami kapan teknologi layak digunakan dan kapan tidak perlu dipaksakan.
+
+Menurut saya, pernyataan tersebut menunjukkan bahwa komunikasi kami membantu membangun rasa percaya dan penghargaan selama simulasi.
+
+Namun, Trust yang terlihat masih berupa respons positif dalam percakapan. Kepercayaan profesional yang lebih kuat tetap membutuhkan konsistensi tindakan dan bukti bahwa rekomendasi dapat dipertanggungjawabkan dalam praktik.
+
+### 4. Evaluasi dan Adaptasi Komunikasi
+
+Jika membandingkan simulasi awal dengan uji ulang, saya melihat perubahan yang cukup jelas dalam cara saya menyampaikan rekomendasi dan menentukan solusi.
+
+Pada simulasi awal, saya cenderung memberikan penjelasan yang panjang dan komprehensif. Saya mencoba membahas kebutuhan bisnis, prototipe, integrasi, risiko, serta roadmap pengembangan sekaligus.
+
+Walaupun substansinya relevan, Cyntia memberikan feedback bahwa penjelasan tersebut terlalu panjang untuk disampaikan kepada pegawainya.
+
+Saya kemudian mencoba merangkum roadmap menjadi tiga langkah: menguji prototipe, menentukan kelanjutan berdasarkan hasil, dan mengevaluasi kebutuhan AI.
+
+Cyntia merespons bahwa penjelasan tersebut lebih mudah dipahami dan dapat diteruskan kepada pegawainya.
+
+Dalam uji ulang, saya berusaha mempertahankan pendekatan yang lebih singkat dan langsung memberikan rekomendasi utama sebelum menjelaskan alasannya.
+
+Perubahan kedua berkaitan dengan rancangan solusi.
+
+Pada awalnya, saya mengusulkan prototipe pencatatan manual untuk menampilkan pesanan dan penanggung jawabnya. Namun, feedback dari pegawai menunjukkan bahwa prototipe tersebut belum tentu menyelesaikan masalah pesan WhatsApp yang sudah dibaca tetapi belum dicatat.
+
+Saya kemudian mengubah rekomendasi menjadi evaluasi prototipe yang berfokus pada deteksi pesanan yang belum ditindaklanjuti.
+
+Perubahan ini membuat arah solusi lebih dekat dengan masalah utama, meskipun kelayakan integrasi WhatsApp dan kemampuan teknisnya belum terbukti.
+
+Perubahan ketiga terjadi ketika Cyntia mempertanyakan risiko salah klasifikasi pesan.
+
+Saya menjelaskan bahwa fitur penanda otomatis tidak boleh menjadi keputusan akhir. Pegawai tetap perlu memastikan apakah pelanggan benar-benar memesan.
+
+Saya juga mengusulkan pengujian terhadap dua jenis kesalahan, yaitu pesan biasa yang salah dianggap pesanan dan pesanan asli yang tidak terdeteksi.
+
+Namun, Cyntia kembali memberikan kritik bahwa pemeriksaan manual yang terlalu banyak dapat membuat otomatisasi kehilangan manfaatnya.
+
+Masukan tersebut membuat saya menyadari bahwa menambahkan pengamanan juga memiliki konsekuensi berupa tambahan pekerjaan.
+
+Pada tahap akhir, saya memberikan rekomendasi yang lebih tegas: fitur otomatisasi tidak langsung diterapkan, tetapi diuji secara terbatas dengan membandingkan ketepatan deteksi, waktu pengerjaan, dan beban pegawai terhadap proses manual.
+
+Saya juga menjelaskan kondisi ketika pengembangan perlu dihentikan atau diubah, misalnya apabila fitur sering melewatkan pesanan penting, memperlambat pelayanan, atau mengharuskan pegawai memeriksa hampir seluruh pesan.
+
+Cyntia akhirnya menerima pendekatan tersebut dan menyatakan belum akan menerapkan AI atau fitur penanda otomatis dalam operasional sebelum evaluasi dilakukan.
+
+Menurut saya, perkembangan utama dalam komunikasi saya adalah dari sekadar menawarkan kemungkinan solusi menjadi lebih berani mengambil keputusan berdasarkan manfaat, risiko, dan batasan yang dapat dijelaskan kepada pelanggan.
+
+Namun, saya tetap menyadari bahwa adaptasi ini baru terbukti melalui respons komunikasi. Belum ada implementasi atau hasil pengujian yang menunjukkan bahwa rancangan revisi benar-benar lebih efektif.
+
+### 5. Lesson Learned dan Tindakan Konkret untuk Pelanggan Nyata
+
+Pelajaran terpenting yang saya dapatkan adalah bahwa inovasi teknologi tidak boleh dijadikan tujuan akhir tanpa mempertimbangkan apakah teknologi tersebut menyelesaikan masalah bisnis secara nyata.
+
+Dari Cyntia, saya belajar bahwa pelanggan yang antusias terhadap AI tidak harus langsung diarahkan untuk membeli atau menerapkan AI. Antusiasme tersebut justru perlu dijaga sambil dibantu agar berkembang menjadi keputusan yang lebih rasional.
+
+Saya juga memahami bahwa kegagalan suatu rancangan tidak selalu berarti proses komunikasi atau pengembangan menjadi sia-sia. Kritik terhadap prototipe manual membantu memperjelas masalah yang sebenarnya, yaitu pesan WhatsApp yang belum tercatat sejak awal.
+
+Ketika menghadapi pelanggan nyata, saya ingin menerapkan beberapa tindakan konkret.
+
+**Pertama, melakukan analisis kebutuhan sebelum menentukan teknologi.** Saya akan memetakan bagaimana pekerjaan dilakukan, di tahap mana kesalahan terjadi, serta apa dampaknya terhadap bisnis.
+
+**Kedua, membedakan kemampuan teknologi dan kesiapan operasional.** Saya akan memeriksa apakah sistem yang diusulkan benar-benar dapat terhubung dengan proses yang digunakan, apakah data tersedia dan akurat, serta apakah pegawai mampu menjalankannya.
+
+**Ketiga, melibatkan pengguna sejak tahap perancangan.** Saya akan meminta masukan dari pegawai yang menjalankan proses sehari-hari karena mereka dapat menemukan hambatan yang tidak terlihat dari sudut pandang pengembang.
+
+**Keempat, menetapkan kriteria keberhasilan sebelum pengujian.** Saya ingin memastikan ukuran yang digunakan sesuai dengan masalah utama, misalnya tingkat pesanan terlewat, waktu pelayanan, dan beban pegawai. Jika menggunakan fitur otomatisasi, saya juga akan mengevaluasi kesalahan klasifikasi dan kebutuhan pemeriksaan manual.
+
+**Kelima, menyampaikan rekomendasi secara ringkas dan bertahap.** Saya akan mendahulukan keputusan utama, alasan yang paling relevan, serta tindakan berikutnya. Penjelasan teknis yang lebih mendalam diberikan sesuai kebutuhan pelanggan.
+
+**Keenam, menetapkan kondisi untuk memperbaiki atau menghentikan solusi.** Jika pengujian menunjukkan bahwa teknologi menambah beban tanpa manfaat yang sebanding, saya tidak akan memaksakan penerapannya hanya karena pengembangan sudah dimulai.
+
+Untuk membedakan keberhasilan komunikasi dan keberhasilan implementasi, saya juga akan menggunakan bukti yang berbeda.
+
+Keberhasilan komunikasi dapat dilihat dari apakah pelanggan memahami masalah, mampu mempertimbangkan alternatif, serta menyetujui langkah evaluasi secara sadar.
+
+Sementara itu, keberhasilan implementasi perlu dibuktikan melalui pengujian nyata, konsistensi penggunaan, berkurangnya masalah operasional, serta manfaat yang sebanding dengan biaya dan risiko.
+
+### Kesimpulan
+
+Secara keseluruhan, simulasi bersama Cyntia membantu saya memahami bahwa menawarkan TI/AI membutuhkan keseimbangan antara inovasi, kemampuan berkomunikasi, dan tanggung jawab profesional.
+
+Saya belajar untuk tidak terlalu melekat pada solusi awal, lebih terbuka terhadap kritik pengguna, dan lebih berani menyampaikan rekomendasi untuk menunda atau menghentikan teknologi yang belum terbukti layak.
+
+Hasil yang sudah terlihat dalam simulasi adalah meningkatnya pemahaman Cyntia mengenai prioritas masalah, risiko otomatisasi, dan pentingnya pengujian berbasis manfaat. Cyntia juga menyatakan kesediaan melibatkan pegawai dalam evaluasi serta tidak langsung menerapkan fitur otomatisasi sebelum kelayakannya diperiksa.
+
+Namun, belum ada prototipe yang benar-benar dibuat atau diuji, belum ada pengukuran terhadap pesan pelanggan, dan belum terbukti bahwa solusi yang dirancang dapat mengurangi pesanan terlewat tanpa menambah beban pegawai.
+
+Bagi saya, keberhasilan sementara dalam sesi ini bukanlah terciptanya chatbot AI, melainkan tercapainya pemahaman bersama bahwa keputusan teknologi harus didasarkan pada masalah yang jelas, manfaat yang dapat diuji, serta kesiapan bisnis dan penggunanya.
+
+Pengalaman ini mengajarkan bahwa **menjadi profesional TI yang baik bukan hanya tentang mampu menghadirkan teknologi baru, tetapi juga tentang mengetahui kapan teknologi perlu digunakan, kapan harus diperbaiki, dan kapan sebaiknya tidak dipaksakan.**
+
+## Tindak lanjut dan batas bukti
+
+1. **Rencana, bukan pelaksanaan:** diskusikan bersama pegawai bagaimana pesan WhatsApp diterima, dibaca, dicatat, dan diserahterimakan; tetapkan penanggung jawab pengujian dan jadwal sesuai kondisi usaha.
+2. **Validasi prototipe hipotetis:** periksa terlebih dahulu fitur dan izin integrasi WhatsApp yang sah, keamanan privasi serta biaya; jangan berasumsi akses otomatis tersedia.
+3. **Simulasi tanpa data pelanggan asli:** bandingkan cara manual dengan bantuan penanda dalam kasus sederhana dan jam ramai; hitung salah-positif/salah-negatif, waktu total termasuk review, beban kerja, dan risiko pesanan tertinggal.
+4. **Ambang keputusan disepakati sebelum uji:** tetapkan toleransi kehilangan pesanan/false negative yang aman, batas waktu tambahan, dan kriteria penghentian bersama pemilik/pegawai berdasarkan baseline nyata. Tidak menetapkan angka fiktif.
+5. **Rencana kontingensi:** bila sistem tidak dapat diandalkan, tetap pakai alur manual yang jelas, bukan bergantung pada penanda otomatis. Uji coba operasional nyata hanya setelah izin, perlindungan data, dan fallback layak.
+
+**Batas bukti:** Percakapan fiktif dalam modalitas teks; tidak ada prosodi, bahasa tubuh, akses langsung ke sistem Cyntia, konfirmasi pegawai nyata, pengukuran baseline, pembangunan prototipe, pengujian integrasi, audit keamanan, atau data transaksi. Reaksi Cyntia hanya menunjukkan persepsi/komitmen verbal tokoh simulasi. Tidak ada bukti tingkat kesalahan turun, biaya turun, atau produktivitas naik. Profil simulator adalah parameter fiktif, bukan hasil diagnosis manusia. Transkrip di C masih kutipan terpilih dan perlu dilengkapi secara verbatim sebelum pengumpulan apabila persyaratan transkrip lengkap ditegakkan.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Belum tersedia nilai dosen |
+| Sesi 1 | 18% | Berkas laporan terpisah, angka perlu moderasi dosen |
+| Sesi 2a | 18% | Berkas laporan terpisah, angka perlu moderasi dosen |
+| Sesi 2b | 18% | Berkas laporan terpisah, angka perlu moderasi dosen |
+| Sesi 3a | 18% | Berkas laporan terpisah, angka perlu moderasi dosen |
+| Sesi 3b | 18% | **95,83 (usulan AI)** |
+| **Total** | **100%** | **Belum dihitung** |
+
+Rumus resmi: `Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)`, masing-masing komponen 0–100. Jangan mengisi skor yang tidak diperiksa, menganggap BT sebagai nol, atau menormalisasi ulang bobot. Pengumpulan ke portal dilakukan mahasiswa sendiri.
+
+## Catatan Asumsi
+
+- Tanggal dan kelas berdasarkan penugasan dan konteks chat, bukan cap waktu setiap pesan.
+- Identitas di penugasan adalah identitas administratif pada paket, bukan verifikasi eksternal.
+- Kutipan bagian C adalah petikan teks aktual; bagian yang tidak dimuat **tidak** direkonstruksi atau diklaim lengkap.
+- Refleksi mahasiswa adalah laporan diri; evaluasi/rubrik merupakan interpretasi AI.
+- Kesediaan Cyntia dan klaim pegawai dibatasi sebagai dialog simulasi.
+- Keputusan teknologi, integrasi, serta keberhasilan penerapan belum terbukti tanpa pengujian nyata.

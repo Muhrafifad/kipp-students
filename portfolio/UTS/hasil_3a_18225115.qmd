@@ -1,0 +1,351 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 3a — Kasus 3: Menawarkan Solusi TI dan AI"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Muhammad Rafi Fadillah (dikonfirmasi pada sesi sebelumnya; bukan verifikasi administrasi) |
+| NIM | 18225115 |
+| Kelas dan tanggal | K-01; 14 Oktober 2026 (tanggal konteks percakapan, bukan cap waktu per pesan) |
+| Nomor/judul kasus | Sesi 3a, urutan 4 dari 5; Kasus 3 — Menawarkan Solusi TI dan AI |
+| Komunikan | Ali (K3-01) |
+| Versi | Bank 2.0; paket individual 2.0; prioritas `PENUGASAN.md` |
+| Modalitas | Teks ChatGPT; evaluasi/refleksi akhir dikirim melalui berkas teks tempelan |
+| Kasus nyata/fiktif | Simulasi usaha dan respons Ali fiktif; tidak ada pemeriksaan operasional dunia nyata |
+| Kelengkapan transkrip | **PARSIAL.** Kutipan asli yang dapat dicocokkan dimuat, tetapi seluruh giliran percakapan tidak tersedia sebagai berkas ekspor verbatim; jangan menganggap bagian C lengkap. Refleksi akhir mahasiswa dimuat utuh. |
+| Nama keluaran | `hasil_3a_18225115.qmd` |
+
+# B) Kasus dan Tujuan
+
+## Kasus, tujuan tindakan, indikator keberhasilan
+
+Ali mengelola usaha dengan pesanan kadang terlewat, pertanyaan pelanggan berulang, tenaga terbatas, serta keraguan terhadap investasi TI/AI. Tujuan mahasiswa: menggali alur bisnis, hambatan, kesiapan pengguna, biaya dan risiko; membedakan AI dari perbaikan proses/TI sederhana; menghasilkan rekomendasi yang dipahami Ali dan dapat diuji tanpa janji hasil pasti. Keberhasilan komunikasi diukur dari bukti perubahan pemahaman ASK dan kesediaan mempertimbangkan uji coba **bukan** pembelian solusi. Indikator implementasi yang masih perlu dibuktikan: tingkat pesanan terlewat terhadap total pesanan, lama pelayanan, dan beban pegawai, dengan pembandingan hari ramai/sepi yang sepadan.
+
+## Profil awal komunikator (sebelum simulasi)
+
+| Unsur | Laporan awal/dugaan | Bukti dan kepastian |
+|---|---|---|
+| SWOT — Strength | Berorientasi kebutuhan dan transparansi teknologi | U01, niat yang dilaporkan |
+| SWOT — Weakness | Risiko menawarkan sarana digital sebelum memahami alur dan tanggung jawab pegawai | Diidentifikasi kemudian di U09/refleksi; bukan dugaan yang sudah terbukti saat U01 |
+| SWOT — Opportunity | Alternatif dari perbaikan prosedur sampai AI, kesempatan uji coba bertahap | U01, analisis pribadi |
+| SWOT — Threat | Biaya, ketidaksiapan pegawai, beban tambahan, klaim efisiensi tanpa data | U01, dugaan wajar berdasarkan kasus |
+| Attitude | Tidak harus menjual AI; ingin memberi pilihan yang rasional dan menghormati keputusan pelanggan | U01, pernyataan tujuan |
+| Knowledge | Paham perbedaan AI, otomatisasi sederhana, FAQ, dan perlunya pengukuran | U01, rencana awal |
+| Skill | Mampu menyusun pertanyaan diagnosis dan rekomendasi bersyarat dalam teks | U01–U08, dibuktikan sebatas performa teks |
+| MBTI/preferensi | Tidak dilaporkan; tidak didiagnosis | Tidak ada bukti |
+| Peran/kultur | Mahasiswa berperan sebagai calon penyedia solusi; Ali sebagai pemilik usaha | Skenario; tidak disimpulkan budaya pribadi |
+
+## Dugaan awal target dan validasi
+
+**Fakta awal skenario:** pesanan kadang tercecer; pertanyaan berulang; tenaga terbatas; Ali mendengar AI tetapi ragu. **Dugaan U01:** Attitude hati-hati, bukan anti-perubahan; Knowledge mungkin belum membedakan AI dari TI sederhana; Skill penggunaan aplikasi dan kemampuan pegawai belum diketahui. **Validasi bertahap:** Ali menyatakan pesanan umumnya melalui WhatsApp dan dicatat di buku; beberapa pegawai bergantian menjawab pesan saat ramai, sehingga tanggung jawab mencatat tidak jelas; pegawai belum semuanya terbiasa spreadsheet; anggaran terbatas; akhir pekan lebih ramai. Ali sendiri mengusulkan perbaikan proses WhatsApp dahulu. Detail tersebut adalah pernyataan tokoh simulasi, bukan data audit.
+
+## TAIDA
+
+| Tahap | Target ASK/status | Repertoar direncanakan/dilakukan | Bukti respons |
+|---|---|---|---|
+| Target | Ali mempertimbangkan TI/AI tetapi belum tahu kebutuhan | Diagnosis masalah, kesiapan, biaya, risiko | U01; AI01 |
+| Attention | Sikap hati-hati dan takut kerumitan | Validasi biaya dan beban pegawai; AI tidak wajib | Ali: “Saya juga nggak mau pakai AI cuma karena sedang ramai dibicarakan.” |
+| Interest | Memahami hambatan pesanan | Pertanyaan tentang kanal, pencatatan, jam sibuk dan PIC | Ali mengungkap WhatsApp, buku, dan ambiguitas tanggung jawab |
+| Desire | Menilai solusi yang sesuai | Uji coba sederhana, metrik dan hak menghentikan jika gagal | Ali lebih tertarik memperbaiki alur WhatsApp |
+| Action | Siap mempertimbangkan eksperimen | Satu aturan PIC per pesanan, serah terima, melibatkan pegawai | Ali bersedia membahas dengan pegawai dan mempertimbangkan uji coba; belum dijalankan |
+
+# C) Skrip Percakapan
+
+**Pernyataan kelengkapan:** berikut adalah *kutipan verbatim terpilih* dari giliran aktual yang terlihat di konteks, bukan transkrip lengkap. Penomoran U01–U11 dan AI01–AI12 bersifat indeks episode untuk analisis, bukan bukti bahwa semua isi pesan telah dimuat. Bagian yang tidak dikutip tidak boleh direkonstruksi sebagai ucapan. Refleksi akhir dimuat verbatim secara utuh di bagian D. Agar memenuhi syarat wajib transkrip lengkap, sisipkan ekspor penuh chat (dari identifikasi, simulasi, evaluasi, uji ulang, refleksi, hingga konfirmasi) sebelum pengumpulan.
+
+## Tahap B — Rencana
+
+**AI01 — Instruksi awal (kutipan):** “Sebelum berbicara langsung dengan Ali, jelaskan **tujuan utama komunikasi lu, dugaan kondisi awal Ali berdasarkan Attitude, Knowledge, dan Skill (ASK), serta strategi pendekatan yang akan lu gunakan.**”
+
+**U01 — Rencana mahasiswa (kutipan):** “Tujuan utama saya dalam berkomunikasi dengan Ali adalah memahami masalah operasional yang sedang dihadapi usahanya, kemudian membantu mempertimbangkan solusi teknologi informasi atau AI yang benar-benar sesuai dengan kebutuhan dan kemampuan usahanya.”
+
+## Tahap C — Simulasi awal
+
+**AI02 — Ali:** “Menurut Anda, kenapa usaha saya perlu menggunakan teknologi? Dan apakah memang harus AI?”
+
+**U02 — Mahasiswa:** “Dan untuk pertanyaan Bapak, apakah usaha ini harus menggunakan AI? Menurut saya, belum tentu, Pak.”
+
+**AI03 — Ali:** “Kalau kondisinya seperti ini, solusi paling sederhana apa yang Anda sarankan untuk dicoba terlebih dahulu? Dan bagaimana memastikan pegawai saya mau menggunakannya?”
+
+**U03 — Mahasiswa:** “Kita bisa mencoba tabel digital sederhana, misalnya menggunakan Google Sheets, untuk mencatat nama pelanggan, detail pesanan, dan status pengerjaannya.”
+
+**AI04 — Ali:** “Jadi, bagaimana caranya supaya percobaan ini benar-benar mempermudah pekerjaan, bukan cuma memindahkan masalah dari buku ke HP?”
+
+**U04 — Mahasiswa:** “Kalau pegawai harus membuka dua aplikasi, melakukan pencatatan tambahan, tetapi tetap berisiko lupa, berarti solusi yang saya usulkan belum tentu menyelesaikan masalah.”
+
+**AI05 — Ali:** “Bagaimana kalau kita perbaiki dulu cara kerja di WhatsApp tanpa menggunakan Google Sheets? Apakah itu masih bisa dianggap sebagai solusi teknologi yang bermanfaat?”
+
+**U05 — Mahasiswa:** “Jadi, saya setuju kita tunda dulu rencana Google Sheets dan coba memperbaiki alur kerja di WhatsApp.”
+
+**AI06 — Ali:** “Jadi, bagaimana cara menentukan apakah aturan baru ini benar-benar lebih baik daripada cara lama? Apa yang harus kita ukur, dan kapan saya sebaiknya memutuskan untuk melanjutkan atau menghentikan percobaannya?”
+
+**U06 — Mahasiswa:** “Karena itu, saya mengusulkan uji coba satu minggu dengan tiga ukuran sederhana saja, Pak.”
+
+**AI07 — Ali:** “Bagaimana cara memastikan hasil uji coba ini cukup bisa dipercaya sebelum saya memutuskan menerapkan aturan tersebut secara permanen?”
+
+**U07 — Mahasiswa:** “Misalnya, hari biasa sebelum percobaan dibandingkan dengan hari biasa selama percobaan, begitu juga akhir pekan dengan akhir pekan.”
+
+**AI08 — Ali:** “Kalau setelah beberapa minggu hasilnya membaik, apakah itu berarti usaha saya sudah tidak membutuhkan AI sama sekali? Sebaliknya, kalau hasilnya tidak membaik, apakah berarti saya harus mulai menggunakan AI?”
+
+**U08 — Mahasiswa:** “Menurut saya, dua-duanya belum tentu, Pak Ali.”
+
+**AI09 — Evaluasi:** “Berdasarkan seluruh percakapan bersama Ali, evaluasilah perubahan pada tiga aspek berikut:”
+
+**U09 — Evaluasi mahasiswa:** Evaluasi terlampir pada berkas `Pasted text(3).txt` dan mencakup ASK Ali, adaptasi usulan Sheets menjadi WhatsApp, dan batas bukti. **Teks U09 tidak disalin utuh di sini; status transkrip tetap parsial.**
+
+## Tahap E — Uji ulang
+
+**AI10 — Ali:** “Kalau menurut Anda, apakah saya sebaiknya tetap menjalankan uji coba sekarang, menundanya, atau mengganti pendekatannya? Saya butuh rekomendasi yang jelas.”
+
+**U10 — Mahasiswa:** “Kalau menurut saya, Pak Ali, kita sebaiknya tetap mengupayakan uji coba dalam waktu dekat, tetapi dengan aturan yang lebih sederhana daripada rencana awal.”
+
+**AI11 — Ali:** “Bagaimana cara membuat pembagian tanggung jawab yang jelas tanpa menciptakan ketergantungan pada satu pegawai tertentu?”
+
+**U11 — Mahasiswa:** “Tapi yang saya maksud dengan satu penanggung jawab adalah **satu orang yang bertanggung jawab untuk setiap pesanan**, bukan satu orang yang harus menangani seluruh pesanan.”
+
+**AI12 — Ali:** “Kalau pegawai ternyata masih sering lupa melakukan serah terima, apakah solusinya langsung menambah fitur atau aplikasi baru? Atau ada cara lain yang sebaiknya dicoba lebih dulu?”
+
+**U12 — Mahasiswa:** “Menurut saya jangan langsung menambah aplikasi dulu, Pak Ali. Kalau pegawai masih sering lupa melakukan serah terima, kita perlu tahu penyebabnya sebelum menentukan solusi.”
+
+**AI13 — Refleksi:** “Setelah melalui simulasi awal, evaluasi komunikasi, dan uji ulang bersama Ali, refleksikan pengalamanmu secara menyeluruh.”
+
+**U13 — Refleksi akhir:** Teks lengkap, tanpa diringkas, ada pada bagian D di bawah (bersumber `Pasted text(4).txt`).
+
+**AI14 — Konfirmasi ringkasan (inti):** Asisten meminta konfirmasi sebelum pembuatan QMD.
+
+**U14 — Konfirmasi aktual:** “Saya mengonfirmasi hasil Sesi 3a. Buat laporan hasil_3a_18225115.qmd sesuai ketentuan paket, termasuk transkrip aktual lengkap, rubrik penilaian, dan catatan batas bukti.”
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan ASK/SWOT
+
+| Unsur | Kondisi awal | Akhir dalam simulasi | Bukti dan batas |
+|---|---|---|---|
+| SWOT diri | Strength: orientasi kebutuhan; ancaman: biaya/kerumitan | Strength: terbuka koreksi; weakness: terlalu cepat menyarankan Sheets; threat: metrik belum terkalibrasi | U01, U13; laporan diri dan analisis, bukan audit |
+| Attitude Ali | Berhati-hati terhadap AI karena biaya, beban, kesiapan pegawai | Bersedia mempertimbangkan uji coba perbaikan proses sederhana | AI02–AI13; sikap simulasi, bukan adopsi |
+| Knowledge Ali | Belum yakin apakah AI wajib | Memahami opsi non-AI, efek beban kerja, rasio kesalahan, risiko data AI | AI05–AI13; pemahaman dialog, bukan ujian formal |
+| Skill Ali | Kemampuan operasional solusi baru belum diketahui | Mengidentifikasi alur, mengkritisi ide, merumuskan syarat dan kesiapan berunding dengan pegawai | Respons Ali; penerapan nyata belum diuji |
+| Skill mahasiswa | Rencana diagnosis dan tawaran alat | Merevisi solusi, membatasi prosedur ke satu aturan, mengusulkan evaluasi | U03, U05, U10–U12; performa tertulis, bukan implementasi |
+
+## Evaluasi stimulus–respons, diagnosis, dan adaptasi
+
+| Episode | Stimulus mahasiswa | Respons Ali | Perubahan dan adaptasi |
+|---|---|---|---|
+| AI02–U02 | AI tidak wajib, tanya alur pesanan | Ali menyebut WhatsApp/buku dan hambatan pegawai | Memvalidasi dugaan kehati-hatian; diagnosis lebih spesifik |
+| U03–AI04 | Menawarkan Sheets terbatas | Ali menyoroti langkah ganda dan PIC | Solusi alat belum cukup; beralih ke alur kerja |
+| AI05–U05 | Menerima usul Ali untuk memakai WhatsApp | Ali menerima aturan tanggung jawab namun menilai overhead | Fokus pada efisiensi bersih, bukan sekadar digitalisasi |
+| U06–AI07 | Tiga indikator dan uji coba | Ali menunjukkan risiko hari sibuk dan efek evaluasi | Gunakan denominator total pesanan serta hari sepadan |
+| AI08–U08 | AI bukan konsekuensi otomatis dari hasil | Ali memahami pilihan berjenjang | Menahan janji teknologi berlebihan |
+| AI10–U10 | Uji coba tetap mungkin jika prosedur disederhanakan | Ali bersedia membahas bersama pegawai | Keputusan bersyarat, tidak memaksakan |
+| AI11–U11 | PIC per pesanan dan serah terima | Ali memahami bukan satu PIC untuk semua pesanan | Klarifikasi ambigu, mengurangi single-point-of-failure |
+| AI12–U12 | Cari akar masalah lupa serah terima dulu | Ali lebih suka dengar masukan pegawai | Pertimbangkan fitur hanya bila perbaikan proses tak mencukupi |
+
+**Perbandingan dugaan dengan profil paket:** Profil Ali K3-01 dalam arsip digunakan sebagai parameter tokoh (orientasi efisiensi/risiko dan bukti), bukan diagnosis psikologi orang nyata. U01 telah mengantisipasi kehati-hatian terhadap biaya dan kerumitan; percakapan menambah fakta simulasi tentang ambiguitas PIC serta ritme hari ramai/sepi. Tidak ada diagnosis MBTI.
+
+## Pesan personal: Trust, Care, dan penghormatan pilihan
+
+| Episode | Pesan/care yang dapat diamati | Respons yang dilaporkan dalam simulasi | Batas inferensi |
+|---|---|---|---|
+| U02 | Tidak mewajibkan AI; mengakui biaya serta kesiapan pegawai | Ali menyukai pendekatan yang tidak menjual tren | Penerimaan percakapan, bukan kepercayaan jangka panjang |
+| U05 | Mengubah rekomendasi setelah Ali menolak penambahan langkah | Ali tertarik memperbaiki WhatsApp lebih dahulu | Menghargai pilihan, bukan menyimpulkan outcome bisnis |
+| U06–U08 | Transparan tentang kemungkinan gagal serta risiko AI | Ali mulai membahas ukuran manfaat dan faktor pembanding | Tidak ada data efisiensi atau finansial |
+| U10–U12 | Melibatkan pegawai, menyederhanakan dan mencari penyebab kegagalan | Ali bersedia membicarakan aturan serah terima | Kesiapan adalah komitmen dalam simulasi |
+
+Ketulusan tidak dibaca sebagai keadaan batin; indikator yang tersedia hanyalah perilaku komunikasi: mendengar, merevisi ide, tidak memaksakan pilihan, dan menyatakan batas informasi secara konsisten.
+
+## Uji ulang dan pelajaran dari feedback
+
+Pada simulasi awal, mahasiswa mengusulkan Google Sheets sebelum mengidentifikasi bahwa sebagian inti masalah adalah ambigu PIC. Ali mengkritik penambahan langkah, dan mahasiswa mengalihkan fokus pada WhatsApp/buku serta tanggung jawab atas tiap pesanan. Dalam uji ulang ketika pegawai keberatan, mahasiswa memberi **rekomendasi kondisional**: coba hanya satu aturan setelah kesepakatan pegawai; hentikan/perbaiki jika menambah beban. Saat risiko ketergantungan pegawai muncul, mahasiswa memperjelas kepemilikan **per pesanan** disertai serah terima. Saat ditanya kelalaian prosedur, ia memilih analisis akar masalah sebelum menambah teknologi. Ini adalah adaptasi yang tampak pada respons tertulis, **bukan bukti uji coba operasional sukses**.
+
+## Penilaian enam dimensi (usulan AI)
+
+| Dimensi | Skor 1–4/BT | ID bukti aktual | Alasan |
+|---|---:|---|---|
+| Tujuan dan konteks | 4 | U01, U02 | Tujuan berorientasi masalah dan pilihan klien, tidak memaksakan AI |
+| Persepsi dan validasi profil/status | 4 | U01, U03–U05, U07 | Memisahkan dugaan/fakta serta memvalidasi alur kerja dan kendala |
+| Pemilihan dan urutan repertoar | 4 | U02–U08, U10 | Bertahap: diagnosis, opsi sederhana, uji coba, kriteria keputusan |
+| Eksekusi jelas, peduli, konsisten | 3 | U03–U06, U10–U12 | Komunikatif dan transparan, namun awalnya usulan Sheets serta langkah pengendalian berpotensi menambah beban sebelum alur cukup dipahami |
+| Evaluasi dan adaptasi | 4 | U05, U07, U10–U12 | Berubah berdasarkan kritik Ali dan memperbaiki validitas perbandingan |
+| Refleksi dan lesson learned | 4 | U09, U13 | Memuat ASK, SWOT, Trust/Care, kelemahan, dan batas bukti |
+| **Jumlah** | **23/24** | | **Usulan nilai AI = 95,83/100; memerlukan moderasi dosen** |
+
+Skor ini penilaian proses komunikasi berdasarkan materi yang terlihat, bukan skor efektivitas TI atau nilai resmi mata kuliah. Penilaian perlu ditinjau kembali apabila bukti transkrip yang belum dimasukkan mengubah pembacaan performa.
+
+## Refleksi dan lesson learned mahasiswa — verbatim
+
+**Sumber:** `Pasted text(4).txt`, jawaban Pertanyaan 13. Seluruh isi di bawah direproduksi sebagaimana diberikan mahasiswa; tidak diklaim sebagai tulisan AI.
+
+Setelah menjalani simulasi komunikasi bersama Ali, saya memperoleh pemahaman yang lebih mendalam mengenai peran seorang calon profesional teknologi informasi dalam menawarkan solusi kepada pelanggan. Saya menyadari bahwa kemampuan memahami teknologi saja tidak cukup. Seorang profesional TI juga harus mampu memahami masalah bisnis, mendengarkan kebutuhan pengguna, mempertimbangkan keterbatasan operasional, dan menjelaskan solusi secara jujur tanpa memberikan janji yang belum dapat dibuktikan.
+
+Pada awal simulasi, Ali menghadapi dua masalah utama, yaitu pesanan yang terkadang terlewat dicatat dan banyaknya pertanyaan pelanggan yang berulang. Ali pernah mendengar bahwa AI dapat membantu bisnis, tetapi masih ragu karena khawatir terhadap biaya, kerumitan sistem, dan kemampuan pegawainya.
+
+Awalnya, saya mempertimbangkan solusi pencatatan digital sederhana menggunakan Google Sheets. Namun, seiring percakapan berlangsung, saya menyadari bahwa persoalan utama Ali tidak hanya terletak pada media pencatatan, melainkan juga pada ketidakjelasan tanggung jawab ketika beberapa pegawai menangani pesan WhatsApp secara bergantian.
+
+Pengalaman ini membuat saya belajar bahwa solusi teknologi yang terlihat baik secara konsep belum tentu sesuai dengan kondisi operasional pelanggan.
+
+**1. Refleksi Perubahan Attitude, Knowledge, dan Skill (ASK) pada Diri Saya**
+
+Dari aspek **Attitude**, saya belajar untuk lebih terbuka terhadap kemungkinan bahwa solusi awal yang saya tawarkan bukan pilihan terbaik. Pada awal percakapan, saya melihat pencatatan digital sebagai alternatif yang berpotensi membantu Ali mengelola pesanan. Namun, ketika Ali menjelaskan bahwa pegawainya belum terbiasa menggunakan Google Sheets dan perpindahan aplikasi dapat menambah langkah kerja, saya menyadari bahwa mempertahankan solusi tersebut hanya karena merupakan usulan saya bukanlah sikap profesional.
+
+Saya mulai memahami bahwa kepentingan pelanggan harus lebih diutamakan daripada keinginan saya agar suatu teknologi diterapkan. Hal ini terlihat ketika saya menerima usulan Ali untuk memperbaiki proses kerja menggunakan WhatsApp dan buku yang sudah dikenal pegawainya.
+
+Saya juga belajar bahwa memberikan rekomendasi secara tegas tidak berarti harus mengabaikan ketidakpastian. Dalam uji ulang, Ali meminta kepastian apakah uji coba sebaiknya dijalankan, ditunda, atau diubah. Saya mencoba memberikan rekomendasi yang jelas, yaitu menyederhanakan prosedur dan melakukan uji coba terbatas setelah alurnya disepakati pegawai, tanpa menjanjikan bahwa hasilnya pasti berhasil.
+
+Dari aspek **Knowledge**, pemahaman saya berkembang mengenai hubungan antara proses bisnis, kebutuhan pengguna, dan pemilihan teknologi. Awalnya, saya berfokus pada bagaimana pencatatan digital dapat membantu mengurangi pesanan yang terlewat. Namun, dari penjelasan Ali, saya mengetahui bahwa pada jam ramai beberapa pegawai dapat membalas WhatsApp secara bergantian, sehingga ada kemungkinan masing-masing mengira pesanan sudah dicatat oleh orang lain.
+
+Dari situ, saya memahami bahwa persoalan tersebut tidak cukup diselesaikan hanya dengan mengganti buku menjadi aplikasi. Perusahaan juga membutuhkan kejelasan proses dan tanggung jawab atas setiap pesanan.
+
+Saya juga memperoleh pemahaman mengenai pentingnya mengevaluasi manfaat solusi secara lebih menyeluruh. Berkurangnya jumlah pesanan bermasalah tidak otomatis berarti operasional menjadi lebih efisien apabila waktu pelayanan semakin lama atau pegawai merasa terbebani.
+
+Selain itu, saya belajar bahwa pengukuran harus mempertimbangkan kondisi yang sebanding. Ketika Ali menjelaskan bahwa akhir pekan lebih ramai daripada hari biasa, saya menyadari perlunya membandingkan tingkat kesalahan terhadap total pesanan dan mempertimbangkan variasi beban kerja.
+
+Pemahaman lainnya adalah bahwa keberhasilan atau kegagalan satu uji coba tidak otomatis menentukan kebutuhan AI. Teknologi tambahan baru layak dipertimbangkan apabila terdapat masalah yang jelas, manfaat yang masuk akal, biaya dan risiko yang dapat diterima, serta kesiapan pengguna untuk menerapkannya.
+
+Dari aspek **Skill**, saya merasa mulai mengembangkan kemampuan menggali kebutuhan pelanggan, menyampaikan alternatif solusi menggunakan bahasa sederhana, dan menyesuaikan rekomendasi berdasarkan informasi baru.
+
+Dalam percakapan, saya mencoba menghubungkan manfaat teknologi dengan masalah yang benar-benar dirasakan Ali, seperti pesanan yang terlewat, keterlambatan pelayanan, dan beban pegawai. Saya juga mencoba menjelaskan indikator evaluasi serta membedakan situasi ketika perbaikan prosedur lebih tepat daripada menambah aplikasi baru.
+
+Kemampuan adaptasi saya terlihat ketika mengubah rekomendasi dari pencatatan Google Sheets menjadi perbaikan alur kerja WhatsApp. Dalam uji ulang, saya kembali menyederhanakan solusi menjadi satu aturan utama, yaitu setiap pesanan harus memiliki penanggung jawab pencatatan yang jelas.
+
+Namun, saya belum dapat menyimpulkan bahwa kemampuan saya merancang dan menerapkan solusi teknologi telah terbukti berhasil dalam praktik. Skill yang terlihat baru berupa kemampuan menganalisis, berkomunikasi, dan menyusun rekomendasi selama simulasi. Kemampuan implementasi, pengelolaan perubahan, serta evaluasi operasional masih perlu diuji secara nyata.
+
+**2. Analisis SWOT Kemampuan Saya sebagai Calon Profesional TI**
+
+Dari sisi **Strength (kekuatan)**, saya melihat bahwa saya mampu berusaha memahami kebutuhan pelanggan sebelum menetapkan solusi. Saya tidak langsung menyarankan AI ketika Ali menyampaikan masalah operasionalnya, tetapi mencoba menggali cara pencatatan pesanan, kebiasaan pegawai, dan kekhawatiran terhadap biaya.
+
+Kekuatan lain adalah kesediaan menerima kritik dan menyesuaikan pendekatan. Ketika Ali mempertanyakan Google Sheets, saya tidak memaksakan usulan tersebut. Saya menerima alternatif yang ia tawarkan dan membantu menyusunnya menjadi prosedur yang lebih konkret.
+
+Saya juga melihat kemampuan menjelaskan keterbatasan solusi sebagai kekuatan yang perlu dipertahankan. Selama simulasi, saya berusaha tidak menjanjikan bahwa AI atau prosedur baru pasti akan meningkatkan efisiensi.
+
+Dari sisi **Weakness (kelemahan)**, saya menyadari bahwa usulan awal saya masih terlalu cepat mengarah pada alat tertentu sebelum memahami seluruh alur kerja pelanggan. Saya menawarkan Google Sheets ketika belum mengetahui bahwa masalah pencatatan sering terjadi akibat ketidakjelasan tanggung jawab antarpegawai.
+
+Kelemahan lainnya adalah beberapa prosedur yang saya usulkan berpotensi terlalu banyak bagi usaha dengan tenaga kerja terbatas. Contohnya, pemberian penanda, pencatatan di buku, dan pemeriksaan ulang dapat membantu pengendalian pekerjaan, tetapi juga berpotensi menambah waktu pelayanan.
+
+Saya juga belum menetapkan ukuran keberhasilan yang benar-benar spesifik berdasarkan data awal usaha Ali. Hal ini menunjukkan bahwa kemampuan saya dalam menerjemahkan kebutuhan bisnis menjadi target evaluasi yang terukur masih perlu dikembangkan.
+
+Dari sisi **Opportunity (peluang)**, perkembangan TI dan AI memberikan banyak alternatif untuk membantu usaha meningkatkan proses operasional. Namun, peluang yang paling relevan bagi saya bukan sekadar menawarkan aplikasi baru, melainkan membantu pelaku usaha memahami masalah, memperbaiki alur kerja, dan memilih teknologi secara bertahap.
+
+Masukan langsung dari pemilik usaha dan pegawai juga menjadi peluang untuk memperbaiki kemampuan analisis kebutuhan pengguna. Dalam simulasi ini, justru informasi dari Ali membantu saya menemukan kelemahan solusi awal.
+
+Sementara itu, **Threat (ancaman)** yang perlu diantisipasi adalah risiko terlalu cepat menawarkan teknologi karena mengikuti tren AI, keterbatasan anggaran pelanggan, rendahnya kesiapan pengguna, dan kemungkinan perubahan prosedur justru memperlambat pekerjaan.
+
+Ancaman lainnya adalah membuat kesimpulan berlebihan dari hasil uji coba yang terbatas. Jika saya hanya melihat berkurangnya jumlah pesanan terlewat tanpa memperhatikan volume pesanan, waktu pelayanan, dan beban pegawai, saya berisiko memberikan rekomendasi yang menyesatkan.
+
+**3. Membangun Trust dan Care dalam Komunikasi Bersama Ali**
+
+Dari pengalaman ini, saya belajar bahwa Trust dan Care dapat dibangun dengan menunjukkan bahwa kebutuhan pelanggan benar-benar menjadi dasar pengambilan keputusan.
+
+Sejak awal, Ali khawatir harus mengeluarkan biaya untuk sistem baru yang justru menyulitkan pegawainya. Saya mencoba merespons kekhawatiran tersebut dengan menjelaskan bahwa AI bukan kewajiban dan bahwa solusi sederhana dapat dipertimbangkan terlebih dahulu.
+
+Saya juga tidak memosisikan Ali sebagai orang yang tidak memahami bisnisnya hanya karena belum memahami AI. Sebaliknya, saya berusaha menghargai pengalamannya menjalankan usaha sebagai sumber informasi penting.
+
+Hal ini terlihat ketika Ali mengusulkan agar proses WhatsApp diperbaiki terlebih dahulu daripada langsung menggunakan Google Sheets. Saya menerima usulan tersebut karena memang lebih dekat dengan kebiasaan kerja pegawainya.
+
+Bagi saya, tindakan tersebut merupakan bentuk Care karena saya tidak hanya mempertimbangkan apakah solusi secara teknis memungkinkan, tetapi juga apakah solusi tersebut realistis digunakan oleh orang-orang yang menjalankan usaha setiap hari.
+
+Kepercayaan juga dibangun melalui transparansi mengenai keterbatasan solusi. Saya menjelaskan bahwa pencatatan digital belum tentu mengurangi kesalahan jika tanggung jawab pencatatan masih tidak jelas. Saya juga menjelaskan bahwa AI dapat memberikan informasi yang keliru apabila data stok atau pesanan tidak akurat.
+
+Respons Ali menunjukkan penerimaan positif terhadap pendekatan ini. Ia mengatakan lebih tertarik mencoba perbaikan alur kerja di WhatsApp daripada langsung membeli sistem AI. Pada akhir simulasi awal, Ali juga mengucapkan terima kasih karena saya tidak langsung memaksanya membeli teknologi.
+
+Dalam uji ulang, Ali kembali menyatakan bahwa usulan kami cukup mempertimbangkan kondisi usahanya, bukan sekadar menawarkan sistem baru.
+
+Menurut saya, respons tersebut menjadi bukti bahwa pendekatan komunikasi yang menghargai keterbatasan pelanggan dapat membangun kepercayaan selama percakapan. Namun, saya tetap menyadari bahwa kepercayaan dalam hubungan profesional jangka panjang harus dibuktikan melalui konsistensi tindakan dan hasil kerja, bukan hanya respons positif dalam simulasi.
+
+**4. Evaluasi Solusi Awal dan Adaptasi Selama Simulasi**
+
+Perubahan strategi komunikasi saya berlangsung melalui beberapa tahap.
+
+Pada awalnya, saya menawarkan pencatatan pesanan menggunakan Google Sheets sebagai solusi yang lebih sederhana dibandingkan AI. Tujuannya adalah membuat pesanan lebih mudah dipantau.
+
+Namun, Ali menjelaskan bahwa sebagian pegawainya belum terbiasa menggunakan spreadsheet. Ia juga mempertanyakan apakah membuka WhatsApp lalu berpindah ke Google Sheets justru akan menambah pekerjaan.
+
+Masukan tersebut menunjukkan kelemahan usulan saya, yaitu terlalu cepat berfokus pada media pencatatan sebelum memahami seluruh proses dan kebiasaan pengguna.
+
+Setelah itu, Ali mengusulkan agar kelompok kerjanya memperbaiki alur pencatatan melalui WhatsApp yang sudah digunakan sehari-hari. Saya menerima alternatif tersebut dan membantu merancang aturan agar setiap pesanan mempunyai penanggung jawab yang jelas.
+
+Pada tahap berikutnya, Ali kembali mempertanyakan apakah memberikan penanda, mencatat di buku, dan memeriksa ulang justru menambah beban pegawai. Dari masukan tersebut, saya belajar bahwa sebuah solusi tidak cukup hanya mengurangi kesalahan, tetapi juga harus mempertimbangkan efisiensi waktu dan kemudahan penerapan.
+
+Saya kemudian mengarahkan evaluasi pada tiga indikator, yaitu tingkat pesanan bermasalah, waktu pelayanan, dan beban pegawai. Ketika Ali mempertanyakan perbedaan hari ramai dan sepi, saya menyesuaikan pendekatan agar perbandingannya lebih adil.
+
+Adaptasi berikutnya terjadi dalam uji ulang. Ali menyampaikan bahwa sebagian pegawai keberatan terhadap aturan yang dianggap menambah pekerjaan. Dalam situasi tersebut, saya merekomendasikan penyederhanaan prosedur menjadi satu aturan utama: setiap pesanan harus memiliki satu penanggung jawab pencatatan.
+
+Ketika Ali khawatir usaha menjadi bergantung pada satu pegawai, saya menjelaskan bahwa satu penanggung jawab berlaku untuk setiap pesanan, bukan berarti seluruh pesanan harus dikerjakan satu orang. Jika pegawai yang menangani pesanan tidak tersedia, tanggung jawab dapat dialihkan melalui konfirmasi serah terima yang jelas.
+
+Namun, Ali kembali mengingatkan bahwa serah terima yang terlalu rumit juga dapat menjadi masalah. Karena itu, saya mempertahankan prinsip bahwa prosedur harus sesederhana mungkin dan disesuaikan dengan kebiasaan kerja pegawai.
+
+Terakhir, ketika Ali menanyakan kemungkinan pegawai tetap lupa melakukan serah terima, saya tidak langsung menyarankan aplikasi tambahan atau menyalahkan pegawai. Saya mengusulkan agar penyebabnya diperiksa terlebih dahulu, misalnya apakah terjadi karena ketidakjelasan tanggung jawab, kondisi jam ramai, atau kesulitan memantau status pesanan.
+
+Barulah jika masalah tetap terjadi setelah proses yang realistis diperbaiki, fitur sederhana yang sudah tersedia dapat dipertimbangkan dan diuji berdasarkan manfaatnya.
+
+Dari seluruh proses tersebut, saya menyadari bahwa solusi yang baik perlu terus dievaluasi dan disesuaikan. Saya tidak boleh terlalu melekat pada rekomendasi awal, tetapi juga tidak boleh mengubah solusi secara sembarangan tanpa alasan yang jelas.
+
+**5. Lesson Learned dan Tindakan Konkret untuk Menghadapi Pelanggan Nyata**
+
+Pelajaran terpenting yang saya dapatkan adalah bahwa seorang profesional TI tidak seharusnya memulai komunikasi dengan pertanyaan, 'Teknologi apa yang ingin saya tawarkan?', melainkan 'Masalah apa yang sebenarnya ingin diselesaikan pelanggan?'
+
+Dalam simulasi bersama Ali, saya belajar bahwa kecanggihan teknologi tidak otomatis menentukan nilai suatu solusi. Perbaikan sederhana terhadap pembagian tanggung jawab pencatatan pesanan mungkin lebih sesuai dengan kebutuhan usaha Ali daripada penggunaan AI yang belum jelas manfaatnya.
+
+Saya juga belajar bahwa pelanggan memiliki pengetahuan penting tentang kondisi operasionalnya sendiri. Karena itu, proses komunikasi sebaiknya menjadi kerja sama untuk menemukan solusi, bukan hubungan satu arah antara pihak yang dianggap ahli teknologi dan pihak yang menerima penawaran.
+
+Ketika menghadapi pelanggan nyata, saya ingin menerapkan langkah yang lebih sistematis.
+
+Pertama, saya akan memetakan alur bisnis yang sedang digunakan sebelum mengusulkan teknologi. Saya ingin mengetahui bagaimana pekerjaan dimulai, siapa yang bertanggung jawab, di mana hambatan muncul, dan apa dampaknya terhadap pelanggan.
+
+Kedua, saya akan melibatkan pengguna yang nantinya menjalankan solusi, bukan hanya pemilik atau pengambil keputusan. Dalam kasus Ali, masukan pegawai sangat penting untuk memastikan prosedur pencatatan tetap bisa dijalankan saat ramai.
+
+Ketiga, saya akan memulai dari alternatif paling sederhana yang berpotensi menyelesaikan masalah. Teknologi yang lebih kompleks, termasuk AI, baru akan dipertimbangkan jika kemampuan tambahannya benar-benar diperlukan dan sebanding dengan biaya serta risikonya.
+
+Keempat, saya akan menyepakati indikator keberhasilan sejak awal. Indikator tersebut tidak hanya mengukur hasil utama, seperti berkurangnya pesanan yang terlewat, tetapi juga dampak terhadap waktu pelayanan dan beban kerja.
+
+Kelima, saya akan membuat keputusan bertahap berdasarkan hasil evaluasi. Jika pendekatan awal tidak efektif, saya akan mencari penyebabnya sebelum menambahkan fitur atau mengganti teknologi.
+
+**Kesimpulan**
+
+Secara keseluruhan, simulasi bersama Ali membantu saya memahami bahwa menawarkan solusi TI/AI bukan sekadar kegiatan menjelaskan manfaat teknologi, tetapi merupakan proses komunikasi untuk memahami kebutuhan, membangun kepercayaan, dan membantu pelanggan mengambil keputusan yang rasional.
+
+Perubahan yang paling terlihat dalam simulasi adalah meningkatnya pemahaman Ali mengenai pilihan teknologi, pentingnya evaluasi, serta risiko penerapan AI. Ali juga menunjukkan kesediaan membicarakan prosedur baru bersama pegawai dan mempertimbangkan uji coba terbatas.
+
+Namun, saya tidak dapat menganggap komunikasi ini sebagai bukti keberhasilan implementasi. Belum ada uji coba yang benar-benar dijalankan, belum tersedia hasil pengukuran, dan belum terbukti bahwa prosedur baru mampu mengurangi pesanan yang terlewat tanpa memperlambat pelayanan.
+
+Bagi saya, keberhasilan sementara yang dapat disimpulkan adalah bahwa komunikasi telah membantu menghasilkan pemahaman bersama dan arah tindakan yang lebih realistis.
+
+Pengalaman ini mengajarkan bahwa **profesionalisme dalam menawarkan teknologi bukan berarti selalu memiliki solusi paling canggih, melainkan mampu memilih, menjelaskan, dan mengevaluasi solusi yang paling sesuai dengan masalah serta kemampuan pelanggan.**
+
+## Tindak lanjut dan batas bukti
+
+- **Rencana, belum pelaksanaan:** diskusi Ali bersama pegawai yang menangani WhatsApp; sepakati satu penanggung jawab **per pesanan** dan cara serah terima ringkas; tentukan siapa mengecek serta kondisi ketika tidak ada pegawai tersedia.
+- **Pengamatan:** catat jumlah pesanan dan kasus terlewat/terlambat per hari, waktu pelayanan, dan beban pegawai; bandingkan jenis hari dan volume sepadan. Mulai uji terbatas hanya apabila prosedur disetujui pelaksana.
+- **Keputusan:** lanjut, revisi, atau hentikan berdasar tren manfaat versus biaya operasional. Tidak ada ambang angka faktual karena baseline belum tersedia.
+- **Batas bukti:** Ali dan pegawainya adalah tokoh simulasi; kesediaan mencoba bukan adopsi. Tidak ada data nyata tentang biaya, penghematan, tingkat kesalahan, atau keberlanjutan. Modalitas teks tidak menguji prosodi, gestur, atau kapasitas implementasi teknis. Kutipan bagian C **parsial**; lengkapi ekspor chat sebelum mengumpulkan dokumen sebagai transkrip lengkap.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Status nilai |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | BT — nilai dosen belum tersedia |
+| Sesi 1 | 18% | Usulan AI 95,83; belum moderasi |
+| Sesi 2a | 18% | Usulan AI 95,83; belum moderasi |
+| Sesi 2b | 18% | Usulan AI 95,83; belum moderasi |
+| Sesi 3a | 18% | Usulan AI 95,83; belum moderasi |
+| Sesi 3b | 18% | BT — belum dilaksanakan |
+| **Total** | **100%** | **Belum dihitung** |
+
+Rumus: **Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**, seluruh komponen skala 0–100. BT bukan nol dan bobot tidak dinormalisasi. Kasus 1 berkontribusi 18%, Kasus 2 36%, dan Kasus 3 36%; rata-rata kasus tidak ditambahkan sebagai komponen baru. Rubrik makalah belum tersedia dalam paket; nilai makalah harus berasal dari dosen. Semua skor AI menunggu moderasi dosen.
+
+## Catatan Asumsi dan sumber
+
+- Identitas dan kelas dari konfirmasi percakapan sebelumnya; tanggal memakai konteks 14 Oktober 2026, bukan cap waktu tiap pesan.
+- Alur usaha dan preferensi Ali berasal dari simulasi, bukan observasi atau wawancara nyata.
+- Kegiatan uji coba, pengukuran, dan interaksi pegawai baru berupa rencana; tidak ada klaim dampak atau ROI.
+- Indeks giliran U/AI dipakai agar bukti dapat dilacak, tidak menggantikan transkrip lengkap.
+- Penilaian numerik merupakan usulan AI. Rubrik tidak diterapkan pada makalah; nilai akhir belum dihitung.
+- Sumber primer: `PENUGASAN.md`, `prompt_umum.md`, `profil_komunikan.md`, `template_laporan.qmd` dalam `kasus_3a_18225115.zip`; percakapan aktual Sesi 3a; teks refleksi mahasiswa `Pasted text(4).txt`.
