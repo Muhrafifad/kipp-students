@@ -11,15 +11,7 @@ format:
     number-sections: true
     theme: cosmo
     code-fold: true
-  pdf:
-    toc: true
-    number-sections: true
-    documentclass: article
-    geometry: margin=2.7cm
-    fontsize: 11pt
-    colorlinks: true
 bibliography: []
----
 
 # Abstrak {.unnumbered}
 
