@@ -12,6 +12,7 @@ format:
     theme: cosmo
     code-fold: true
 bibliography: []
+---
 
 # Abstrak {.unnumbered}
 
