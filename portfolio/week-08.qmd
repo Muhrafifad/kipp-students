@@ -1,8 +1,9 @@
+
 ---
 title: "UTS Performance Evidence Package — Week 08"
 week: 8
 status: "Evidence dikompilasi — menunggu verifikasi dan moderasi dosen"
-self_score: "Usulan AI: 95,83/100 untuk tiap sesi; bukan nilai resmi"
+self_score: "Usulan AI: 95,83/100 per sesi; bukan nilai resmi"
 assessor_score: "Belum ditetapkan"
 description: "Integrated performance Target–Attention–Interest, lima sesi dan makalah pra-UTS."
 categories: [Assessment, UTS]
@@ -16,8 +17,8 @@ categories: [Assessment, UTS]
 | NIM | 18225115 |
 | Kelas | K-01 |
 | Minggu | W08 |
-| Sumber | Lima laporan sesi hasil simulasi teks dan satu makalah pra-UTS |
-| Status | Evidence dikumpulkan untuk diperiksa; **nilai resmi belum ditetapkan** |
+| Sumber | Lima laporan sesi simulasi teks dan satu makalah pra-UTS |
+| Status | Evidence dikompilasi untuk diperiksa; nilai resmi belum ditetapkan |
 
 ## Kompetensi target
 
@@ -25,46 +26,61 @@ Mengintegrasikan *person recognition*, *state recognition*, *repertoire*, *langu
 
 ## Evidence wajib — berkas yang dilampirkan
 
-**Nama file evidence dipertahankan persis seperti unggahan asli (tanpa NIM pada file sesi).** Semua tautan di bawah menggunakan path relatif. Simpan `week-08.qmd` dan enam berkas yang disebut di tabel dalam direktori yang sama.** Tautan ini adalah indeks evidence; berkas tersebut tetap perlu ikut diunggah/disertakan pada sistem pengumpulan yang dipakai.
+Seluruh berkas evidence menggunakan nama file asli tanpa NIM. File `week-08.qmd` berada di folder `portfolio/`, sedangkan seluruh berkas pendukung berada di `portfolio/UTS/`.
+
+Tautan berikut menggunakan path relatif `UTS/` agar mengarah ke lokasi berkas sebenarnya.
 
 | Komponen | Berkas evidence | Isi evidence | Status pemeriksaan |
 |---|---|---|---|
-| Makalah pra-UTS (10%) | [paper(2).qmd](paper(2).qmd) | Makalah MBTI, komunikasi efektif, refleksi ENTJ, rujukan | Ada berkas; **nilai dosen belum ada** |
-| Sesi 1 (18%) | [hasil_1.qmd](hasil_1.qmd) | Tujuan public speaking, dialog diri dan Fajar, ASK/SWOT, simulasi, uji ulang, refleksi, rubrik | Ada; transkrip parsial |
-| Sesi 2a (18%) | [hasil_2a.qmd](hasil_2a.qmd) | Komunikasi dengan Cyntia K2-03, konflik tugas kelompok, TAIDA, feedback, uji ulang, refleksi, rubrik | Ada; transkrip parsial |
-| Sesi 2b (18%) | [hasil_2b.qmd](hasil_2b.qmd) | Komunikasi dengan Budi, evaluasi, perubahan strategi, Trust & Care, refleksi, rubrik | Ada; transkrip parsial |
-| Sesi 3a (18%) | [hasil_3a.qmd](hasil_3a.qmd) | Komunikasi dengan Ali K3-01, perbaikan pencatatan WhatsApp, ASK/SWOT, uji ulang dan refleksi | Ada; transkrip parsial |
-| Sesi 3b (18%) | [hasil_3b.qmd](hasil_3b.qmd) | Komunikasi dengan Cyntia K3-03, prototipe/AI, kritik duplikasi, risiko otomatisasi dan revisi | Ada; transkrip parsial |
+| Makalah pra-UTS (10%) | [paper.qmd](UTS/paper.qmd) | Makalah MBTI, komunikasi efektif, refleksi ENTJ, dan rujukan | Berkas tersedia; nilai dosen belum ada |
+| Sesi 1 (18%) | [hasil_1.qmd](UTS/hasil_1.qmd) | Tujuan public speaking, dialog diri dan Fajar, ASK/SWOT, simulasi, uji ulang, refleksi, rubrik | Berkas tersedia; transkrip parsial |
+| Sesi 2a (18%) | [hasil_2a.qmd](UTS/hasil_2a.qmd) | Komunikasi dengan Cyntia K2-03, konflik tugas kelompok, TAIDA, feedback, uji ulang, refleksi, rubrik | Berkas tersedia; transkrip parsial |
+| Sesi 2b (18%) | [hasil_2b.qmd](UTS/hasil_2b.qmd) | Komunikasi dengan Budi, evaluasi, perubahan strategi, Trust & Care, refleksi, rubrik | Berkas tersedia; transkrip parsial |
+| Sesi 3a (18%) | [hasil_3a.qmd](UTS/hasil_3a.qmd) | Komunikasi dengan Ali K3-01, pencatatan WhatsApp, ASK/SWOT, uji ulang, dan refleksi | Berkas tersedia; transkrip parsial |
+| Sesi 3b (18%) | [hasil_3b.qmd](UTS/hasil_3b.qmd) | Komunikasi dengan Cyntia K3-03, prototipe/AI, risiko otomatisasi, dan revisi | Berkas tersedia; transkrip parsial |
 
 ## Performance card dan initial state
 
 | Sesi | Target awal dan kondisi | Aksi komunikasi yang dibuktikan dalam laporan |
 |---|---|---|
-| 1 | Mengatasi kesulitan berbicara spontan dan konsistensi latihan; Fajar tokoh pembanding | Menetapkan latihan 3 kali per minggu, opsi minimum 5 menit, kriteria evaluasi respons |
-| 2a | Cyntia keberatan pembagian kerja dan tugas mendekati tenggat | Mendengar keberatan, memeriksa status pekerjaan, mencari pembagian tanggung jawab realistis |
+| 1 | Mengatasi kesulitan berbicara spontan dan konsistensi latihan; Fajar sebagai tokoh pembanding | Menetapkan latihan tiga kali per minggu, opsi minimum lima menit, dan kriteria evaluasi respons |
+| 2a | Cyntia keberatan terhadap pembagian kerja kelompok yang mendekati tenggat | Mendengarkan keberatan, memeriksa status pekerjaan, dan mencari pembagian tanggung jawab yang realistis |
 | 2b | Komunikasi profesional dalam masalah kerja kelompok | Menyesuaikan repertoar komunikasi dan menyimpulkan tindak lanjut berdasarkan feedback |
-| 3a | Ali mempertimbangkan TI/AI sementara pesanan WhatsApp kadang tidak tercatat | Mengubah usulan Google Sheets menjadi perbaikan alur, PIC per pesanan dan verifikasi serah terima |
-| 3b | Cyntia antusias chatbot AI sementara pesanan WhatsApp terlewat | Memprioritaskan akar masalah, mendesain uji prototipe, mengubah usulan setelah kritik pegawai |
+| 3a | Ali mempertimbangkan TI/AI sementara pesanan WhatsApp terkadang tidak tercatat | Mengubah usulan Google Sheets menjadi perbaikan alur, penanggung jawab per pesanan, dan verifikasi serah terima |
+| 3b | Cyntia antusias menggunakan chatbot AI sementara pesanan WhatsApp terlewat | Memprioritaskan akar masalah, merancang pengujian prototipe, dan mengubah usulan setelah kritik pegawai |
 
 ## Transkrip, observer sheet, dan keterlacakan
 
-Bagian **C) Skrip Percakapan** dalam setiap laporan memuat urutan percakapan dan kutipan verbatim terpilih. Bagian **D) Hasil, Evaluasi, dan Refleksi** memuat tabel penilaian enam dimensi dengan referensi evidence dari giliran percakapan (misalnya U/AI). Inilah *observer sheet* analitis yang tersedia pada saat kompilasi.
+Bagian **C) Skrip Percakapan** dalam setiap laporan memuat urutan percakapan dan kutipan verbatim terpilih.
 
-**Batas penting:** kelima laporan sendiri menyatakan bagian transkrip masih **parsial**. Kode giliran dan kutipan tidak menggantikan ekspor seluruh transkrip; karena itu kelengkapan evidence menurut aturan dosen belum dapat dinyatakan penuh. Jangan memperlakukan ringkasan sebagai transkrip verbatim.
+Bagian **D) Hasil, Evaluasi, dan Refleksi** memuat tabel penilaian enam dimensi dengan referensi evidence dari giliran percakapan, misalnya kode U/AI.
+
+Bagian tersebut menjadi dasar analisis komunikasi dan observer sheet yang tersedia dalam laporan sesi.
+
+**Batas bukti:** Kelima laporan masih menyatakan transkrip bersifat parsial. Kode giliran dan kutipan terpilih belum menggantikan ekspor transkrip lengkap. Oleh karena itu, kelengkapan evidence menurut ketentuan dosen belum dapat dinyatakan terpenuhi sepenuhnya.
 
 ## Feedback, replay, evidence improvement, reflection
 
-| Sesi | Feedback / temuan | Adaptasi pada uji ulang dan pembelajaran | Lokasi evidence |
+| Sesi | Feedback / temuan | Adaptasi dan pembelajaran | Lokasi evidence |
 |---|---|---|---|
-| 1 | Hambatan konsistensi latihan dan respons spontan | Menyederhanakan tindakan ke latihan minimum yang tetap dievaluasi; belum ada bukti peningkatan oral nyata | [Sesi 1: C dan D](hasil_1.qmd) |
-| 2a | Masalah keadilan pembagian tugas dan respons komunikan | Memvalidasi kendala dan menata langkah kelompok secara lebih jelas; hasil kelompok nyata belum terbukti | [Sesi 2a: C dan D](hasil_2a.qmd) |
-| 2b | Kebutuhan adaptasi komunikasi berdasarkan respons Budi | Mengubah pendekatan dan mendokumentasikan keterbatasan bukti pada refleksi akhir | [Sesi 2b: C dan D](hasil_2b.qmd) |
-| 3a | Ali khawatir spreadsheet dan pemeriksaan tambahan membebani pegawai | Memilih satu penanggung jawab per pesanan dan serah terima langsung; evaluasi akar sebab sebelum penambahan teknologi | [Sesi 3a: C dan D](hasil_3a.qmd) |
-| 3b | Cyntia dan pegawai mengkritik input manual, salah klasifikasi dan beban review | Merevisi prototipe; penanda hanya pengingat; tetapkan kriteria ketepatan, waktu dan beban untuk lanjut/hentikan | [Sesi 3b: C dan D](hasil_3b.qmd) |
+| 1 | Hambatan konsistensi latihan dan respons spontan | Menyederhanakan tindakan menjadi latihan minimum yang tetap dievaluasi; belum ada bukti peningkatan kemampuan berbicara secara nyata | [Sesi 1: C dan D](UTS/hasil_1.qmd) |
+| 2a | Masalah keadilan pembagian tugas dan respons komunikan | Memvalidasi kendala serta menata langkah kelompok secara lebih jelas; hasil nyata kelompok belum terbukti | [Sesi 2a: C dan D](UTS/hasil_2a.qmd) |
+| 2b | Kebutuhan adaptasi komunikasi berdasarkan respons Budi | Mengubah pendekatan dan mendokumentasikan keterbatasan bukti dalam refleksi akhir | [Sesi 2b: C dan D](UTS/hasil_2b.qmd) |
+| 3a | Ali khawatir penggunaan spreadsheet dan pemeriksaan tambahan membebani pegawai | Memilih satu penanggung jawab per pesanan, serah terima langsung, dan evaluasi akar penyebab sebelum menambah teknologi | [Sesi 3a: C dan D](UTS/hasil_3a.qmd) |
+| 3b | Cyntia dan pegawai mengkritik input manual, kesalahan klasifikasi, dan beban pemeriksaan | Merevisi prototipe; penanda hanya menjadi pengingat; menetapkan kriteria ketepatan, waktu, serta beban kerja untuk melanjutkan atau menghentikan pengujian | [Sesi 3b: C dan D](UTS/hasil_3b.qmd) |
 
 ## Penilaian mandiri berbasis rubrik (belum resmi)
 
-Setiap laporan memuat enam dimensi: (1) tujuan dan konteks, (2) persepsi dan validasi, (3) pemilihan/urutan repertoar, (4) eksekusi komunikasi, (5) evaluasi dan adaptasi, (6) refleksi dan *lesson learned*. Berikut **salinan status skor usulan AI dari berkas laporan**, bukan hasil sistem penilai atau keputusan dosen.
+Setiap laporan menggunakan enam dimensi penilaian:
+
+1. Tujuan dan konteks.
+2. Persepsi dan validasi profil/status.
+3. Pemilihan dan urutan repertoar.
+4. Eksekusi komunikasi yang jelas, peduli, dan konsisten.
+5. Evaluasi dan adaptasi.
+6. Refleksi dan *lesson learned*.
+
+Tabel berikut berisi salinan skor usulan AI dari laporan sesi, bukan hasil resmi dari sistem penilai ataupun dosen.
 
 | Sesi | Skor usulan AI | Setara /100 | Bobot UTS | Moderasi |
 |---|---:|---:|---:|---|
@@ -75,19 +91,59 @@ Setiap laporan memuat enam dimensi: (1) tujuan dan konteks, (2) persepsi dan val
 | 3b | 23/24 | 95,83 | 18% | Belum |
 | Makalah | — | Belum tersedia | 10% | Nilai resmi dosen diperlukan |
 
-**Nilai akhir UTS: Belum dihitung.** Berdasarkan ketentuan paket, nilai akhir = `0,10 × nilai makalah + 0,18 × (S1 + S2a + S2b + S3a + S3b)` setelah seluruh komponen sah. Status BT tidak dapat dianggap nol. Rata-rata Kasus 2 dan 3 hanya ringkasan, bukan komponen tambahan.
+**Nilai akhir UTS: Belum dihitung.**
+
+Berdasarkan bobot yang tercantum pada paket, rumus nilai akhir adalah:
+
+\[
+N_{\text{UTS}} =
+0{,}10N_{\text{makalah}} +
+0{,}18(N_1 + N_{2a} + N_{2b} + N_{3a} + N_{3b})
+\]
+
+Perhitungan resmi dilakukan setelah seluruh komponen memiliki evidence dan penilaian yang sah.
+
+Status BT tidak boleh dianggap sebagai nilai nol. Rata-rata Kasus 2 dan Kasus 3 merupakan ringkasan, bukan komponen tambahan.
 
 ## Refleksi integratif W08
 
-Kelima sesi memperlihatkan perkembangan rancangan komunikasi dari tujuan yang dirumuskan secara awal menuju respons yang disesuaikan setelah feedback. Dalam kasus TI/AI, khususnya, keputusan untuk tidak memaksakan fitur baru diambil karena ada risiko salah sasaran, kerja ganda, dan kesalahan otomatisasi. Bukti yang tersedia menunjukkan **kemampuan merancang dan merevisi komunikasi dalam simulasi teks**, bukan kemampuan implementasi yang sudah teruji.
+Kelima sesi memperlihatkan perkembangan dalam kemampuan merancang komunikasi, memahami kondisi komunikan, menanggapi feedback, dan menyesuaikan strategi.
 
-Prinsip lanjut: memeriksa akar masalah terlebih dahulu, melibatkan pengguna yang terdampak, mengungkap keterbatasan secara transparan, merumuskan indikator sebelum pengujian, dan berani menunda atau menghentikan solusi jika nilai tambah belum terbukti.
+Pada Kasus 1, pembelajaran berfokus pada komunikasi diri serta konsistensi latihan. Pada Kasus 2, perhatian diarahkan pada komunikasi interpersonal, pemahaman sudut pandang pihak lain, dan penyelesaian persoalan kerja kelompok.
+
+Pada Kasus 3, pembelajaran berkembang menuju komunikasi profesional dalam menawarkan solusi TI dan AI.
+
+Dalam komunikasi bersama Ali, saya belajar bahwa masalah bisnis tidak selalu harus diselesaikan dengan aplikasi baru. Perubahan alur kerja dan kejelasan tanggung jawab dapat menjadi alternatif yang lebih realistis.
+
+Dalam komunikasi bersama Cyntia, saya belajar bahwa antusiasme pelanggan terhadap inovasi perlu dihargai, tetapi keputusan teknologi harus mempertimbangkan kemampuan sistem, kesiapan pengguna, biaya, risiko, serta manfaat yang dapat diuji.
+
+Saya juga belajar untuk tidak terlalu melekat pada rancangan awal. Ketika ditemukan kelemahan berupa pencatatan ganda, kemungkinan salah klasifikasi, dan tambahan beban pemeriksaan, saya perlu bersedia memperbaiki atau menghentikan pendekatan tersebut.
+
+Dari seluruh sesi, prinsip yang ingin saya pertahankan adalah:
+
+- Memahami masalah dan kondisi komunikan sebelum menentukan pendekatan.
+- Mengonfirmasi persepsi awal dan menghindari asumsi yang tidak didukung bukti.
+- Menyesuaikan bahasa serta panjang penjelasan dengan kebutuhan komunikan.
+- Menunjukkan Trust & Care melalui kejujuran, empati, dan perhatian terhadap dampak keputusan.
+- Menggunakan feedback untuk mengevaluasi dan memperbaiki komunikasi.
+- Membedakan keberhasilan komunikasi dalam simulasi dari hasil nyata yang memerlukan pengujian lebih lanjut.
+
+Secara keseluruhan, evidence yang tersedia menunjukkan perkembangan kemampuan merancang, mengevaluasi, dan mengadaptasi komunikasi dalam simulasi teks. Evidence tersebut belum membuktikan perubahan perilaku nyata atau keberhasilan implementasi teknologi.
 
 ## Catatan asumsi dan batas bukti
 
-1. Kelima sesi merupakan **simulasi teks**, bukan bukti perubahan perilaku orang nyata, penerapan aplikasi, ataupun peningkatan operasional.
-2. Angka 23/24 dari setiap file adalah **usulan AI yang belum dimoderasi**; bukan nilai resmi.
-3. Makalah tersedia sebagai dokumen, tetapi **nilai makalah dari dosen belum ada**.
-4. Transkrip dalam kelima laporan **parsial**; untuk memenuhi ketentuan lengkap, tambahkan ekspor dialog utuh dan verifikasi kutipan.
-5. Dokumen ini adalah **indeks evidence dan refleksi terintegrasi**, bukan pengganti berkas sesi. Jika hanya `week-08.qmd` yang diunggah tanpa berkas di atas, tautan relatif tidak akan menemukan sumbernya.
-6. Format unggah dan deteksi otomatis pada portal belum dapat dipastikan dari dokumen W08 yang diberikan. Pemeriksaan oleh portal/dosen tetap diperlukan.
+1. Kelima sesi merupakan **simulasi teks**, bukan bukti perubahan perilaku komunikan nyata, penerapan aplikasi, ataupun peningkatan operasional.
+
+2. Skor 23/24 dari setiap laporan merupakan **usulan AI yang belum dimoderasi dosen**, bukan nilai resmi UTS.
+
+3. Makalah tersedia sebagai dokumen, tetapi nilai makalah resmi dari dosen belum tersedia.
+
+4. Bagian transkrip dalam lima laporan masih **parsial**. Kutipan terpilih dan kode giliran belum menggantikan transkrip lengkap.
+
+5. Dokumen Week 08 ini merupakan **indeks evidence dan refleksi terintegrasi**, bukan pengganti lima laporan sesi dan makalah.
+
+6. Semua file evidence dirujuk melalui folder `UTS/` berdasarkan struktur proyek yang ditunjukkan. Tautan hanya akan berfungsi pada website jika file tujuan ikut dirender dan dipublikasikan oleh Quarto.
+
+7. Keberhasilan render atau deployment GitHub Pages belum membuktikan bahwa sistem penilaian Telegram sudah membaca seluruh evidence.
+
+8. Kelengkapan evidence dan skor akhir tetap memerlukan pemeriksaan melalui mekanisme penilaian yang ditentukan dosen.
