@@ -1,0 +1,110 @@
+---
+title: "Multi-Person Negotiation Challenge"
+week: 11
+status: "Draft"
+self_score: "20/20"
+assessor_score: "—"
+description: "Stakeholder map, interests, options, trade-offs, dan agreement."
+categories: [Negotiation, Stakeholder]
+---
+
+## Kompetensi target
+
+Memfasilitasi beberapa person dengan objective, constraint, authority, dan state berbeda.
+
+## Evidence wajib
+
+- Stakeholder person map dan multi-state TAIDA.
+- Position–interest analysis, common ground, dan options.
+- Negotiation evidence, agreement/dissent, dan relationship review.
+
+::: {.callout-tip title="Lihat contoh pengisian"}
+[Buka contoh fiktif Minggu 11](../examples/week-11.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+:::
+
+{{< include ../includes/evidence-template.md >}}
+
+Nama Lengkap: Muhammad Rafi Fadillah
+NIM: 18225115
+Program Studi: Sistem dan Teknologi Informasi
+Tanggal Pengisian: 22 November 2026
+
+## 1. Konteks Performance
+
+**Tanggal dan setting:** Rabu, 4 November 2026, pukul 19.00–20.30 WIB, rapat koordinasi panitia Malam Keakraban (Makrab) himpunan via Google Meet. Rapat ini sudah dua kali buntu membahas lokasi.
+**Persons dan relationship:** Saya (Divisi HR, diminta Ketua Pelaksana menjadi fasilitator karena tidak memihak divisi mana pun), Kevin (Ketua Pelaksana, pemegang keputusan akhir), Salsa (Kadiv Acara), Rian (Logistik, rekan saya dari W05), Tasya (Bendahara), Fahri (Danus), dan Aldi (perwakilan angkatan 2025 sebagai calon peserta). Relasi antardivisi sedang tegang karena rapat sebelumnya berakhir saling sindir di grup.
+**Objective dan initial state:** *Initial state:* setiap orang mempertahankan *position* ("harus villa", "budget nggak cukup", "transport nggak sanggup"). *Objective:* Mengubah *position* menjadi *interest*, menyepakati kriteria bersama, menghasilkan beberapa opsi, dan sampai pada *agreement* atau *specific disagreement* dengan owner dan next step, tanpa *false consensus*.
+
+## 2. Evidence (Stakeholder Map, Opsi, dan Jalannya Negosiasi)
+
+**Stakeholder person map dan multi-state TAIDA:**
+
+| Person/Character | Position awal | Interest (hasil paraphrase) | Constraint | Authority | TAIDA state awal |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Kevin** (Ketua Pelaksana) | "Pokoknya minggu ini harus putus." | Acara jalan dan panitia tidak pecah | Tenggat DP lokasi 10 Nov | Tinggi (memutuskan) | Desire (ingin keputusan) |
+| **Salsa** (Acara) | "Harus villa, biar ada sesi malam." | Ada ruang aman untuk sesi malam dan api unggun | Rundown sudah disusun untuk 2 hari | Sedang | Action pada opsinya sendiri |
+| **Tasya** (Bendahara) | "Villa nggak masuk budget." | Biaya peserta terjangkau dan kas tidak minus | Iuran maks. ±Rp 150 rb/orang | Sedang (veto anggaran) | Attention |
+| **Rian** (Logistik) | "Transport ke Lembang nggak sanggup." | Pengangkutan aman dan tidak bergantung motor pribadi | Hanya 4 orang logistik | Sedang | Attention |
+| **Fahri** (Danus) | Diam / "ikut aja." | Target danus realistis | Danus baru Rp 1,2 juta | Rendah | Target (belum dilibatkan) |
+| **Aldi** (angkatan 2025) | Diam di awal | Banyak teman seangkatan bisa ikut | Sebagian tidak diizinkan menginap, sebagian keberatan biaya | Rendah, tetapi paling terdampak | Target (belum didengar) |
+
+**Kutipan kunci dari jalannya rapat (rekonstruksi dari catatan notulen):**
+*   **Salsa:** "Kalau nggak villa, ya mending nggak usah makrab sekalian."
+*   **Saya (paraphrase position → interest):** "Kalau aku tangkap, yang Salsa jaga sebenarnya adanya tempat yang aman buat sesi malam dan api unggun, bukan villanya itu sendiri. Bener?"
+*   **Salsa:** "Iya sih. Yang penting ada malamnya."
+*   **Tasya:** "Villa yang kemarin itu Rp 210 ribu per orang, belum transport."
+*   **Saya (menguji silence):** "Sebelum lanjut, Fahri dan Aldi belum bicara. Aldi, dari sisi angkatan 2025, kalau biayanya segitu kira-kira gimana?"
+*   **Aldi (setelah jeda):** "Jujur, Kak, di grup angkatan banyak yang bilang mungkin nggak ikut kalau di atas 150. Terus ada juga yang nggak dapat izin nginep dari orang tua."
+*   **Kevin:** "Oh, itu baru tahu gua."
+
+Momen ini mengubah arah rapat: diam Aldi sebelumnya ternyata bukan persetujuan, melainkan karena ia merasa tidak punya posisi untuk menyela kadiv.
+
+**Common ground yang disepakati (micro-agreement 1):**
+> "Makrab yang bisa diikuti minimal 80% angkatan 2025, iuran maksimal Rp 150 ribu, transport aman tanpa motor pribadi, dan tetap ada sesi malam."
+
+**Option space (dihasilkan sebelum dinilai, micro-agreement 2: "jangan menolak opsi sebelum lima opsi terkumpul"):**
+
+| Opsi | Biaya/orang | Sesi malam | Effort logistik | Inklusif (izin & biaya) |
+| :--- | :--- | :--- | :--- | :--- |
+| 1. Villa Lembang 2H1M | ±Rp 245 rb | Ya | Tinggi | Rendah |
+| 2. Villa 1 hari tanpa menginap | ±Rp 130 rb | Terbatas (sampai 21.00) | Tinggi | Sedang |
+| 3. Aula kampus + api unggun di lapangan | ±Rp 60 rb | Ya, tapi izin kampus sampai 22.00 | Rendah | Tinggi |
+| 4. Bumi perkemahan dekat kota, tenda sewa, bus sewa | ±Rp 140 rb | Ya | Sedang | Sedang–tinggi |
+| 5. Opsi 4 + bus pulang pukul 21.30 untuk yang tidak menginap + subsidi danus | ±Rp 140 rb (subsidi Rp 20 rb bagi yang butuh) | Ya | Sedang | Tinggi |
+
+**Agreement dan dissent:**
+- **Keputusan (Kevin, setelah semua divisi memberi pendapat):** Opsi 5.
+- **Specific disagreement:** Salsa tetap khawatir hujan membuat sesi malam di perkemahan gagal. Ia tidak menolak opsi 5, tetapi meminta catatan. *Safeguard:* Logistik memastikan ada pendopo beratap yang dapat dipakai bila hujan, dan Acara menyiapkan rundown versi hujan.
+- **Owner dan deadline:** Rian (survei lokasi & konfirmasi pendopo) Sabtu 7 Nov; Tasya (rincian iuran final) Minggu 8 Nov; Fahri (skema subsidi + target danus) Minggu 8 Nov; Aldi (survei izin menginap di angkatan via Google Form anonim) Minggu 8 Nov; Kevin (keputusan DP) Selasa 10 Nov; saya (notulen dan rekap *agreement* ke grup panitia) malam itu juga.
+- **Evidence tindak lanjut:** Rekap terkirim pukul 21.05; survei Aldi menunjukkan 41 dari 52 responden ikut, 9 di antaranya memilih pulang malam. DP bumi perkemahan dibayar 10 November.
+
+## 3. Analisis Komunikasi
+
+| Elemen | Evidence dan Analisis |
+| :--- | :--- |
+| **Person & Character** | Enam orang dipetakan sebagai *person* dengan interest dan constraint, bukan sebagai "kubu acara vs bendahara". Aldi, yang paling terdampak tetapi paling lemah posisinya, sengaja diberi ruang. |
+| **Objective & State** | Setiap orang berada di *base* berbeda (Kevin di Desire, Salsa di Action pada opsinya, Aldi dan Fahri masih Target). Saya tidak memakai satu pitch untuk semua; Aldi dan Fahri dilibatkan dulu sebelum opsi dinilai. |
+| **Repertoire & Language** | Paraphrase *position → interest*, *common ground* yang spesifik dan dapat diuji, aturan "lima opsi dulu sebelum menilai", tabel *trade-off*, dan pembacaan ulang keputusan. |
+| **Response & Adaptation** | Jawaban Aldi soal biaya dan izin menginap mengubah kriteria dan memunculkan opsi 5. Keberatan Salsa tidak dipaksa hilang, tetapi diubah menjadi *safeguard* versi hujan. |
+| **Agreement/Action** | Keputusan oleh pemegang authority (Kevin), *dissent* tercatat, owner dan deadline jelas, dan DP terbayar sebagai bukti action. |
+| **Relationship outcome** | Rapat selesai tanpa sindiran di grup. Salsa menulis di chat pribadi: "Makasih ya Raf, tadi aku nggak merasa dikalahin." Aldi kemudian lebih aktif di grup panitia. |
+
+## 4. Penggunaan AI
+Sebelum rapat, saya memakai AI (Claude) untuk menghasilkan variasi opsi lokasi dari daftar constraint yang sudah dianonimkan; dua dari lima opsi (opsi 2 dan 5) berawal dari ide AI, tetapi angka biaya saya ambil dari penawaran yang dikumpulkan Rian dan Tasya, bukan dari AI. AI tidak memainkan peran stakeholder yang hilang dan tidak dipakai sebagai pengganti suara angkatan 2025; suara itu dikumpulkan langsung lewat Aldi dan survei. Notulen tidak diunggah ke AI karena berisi nama dan percakapan internal panitia.
+
+## 5. Feedback dan Tindak Lanjut
+
+**Feedback yang diterima:** Kevin di akhir rapat: "Lain kali tanya angkatan 2025 dari awal, jangan kayak kita kemarin." Salsa merasa keberatannya tercatat, bukan dikalahkan.
+**Adaptation/Replay:** Pada rapat lanjutan 8 November, saya membuka rapat dengan putaran *round-robin* (setiap divisi dan perwakilan peserta bicara 1 menit) sebelum membahas apa pun. Response: rapat selesai 40 menit lebih cepat.
+**Next practice:** Mengecek *silence* secara eksplisit sebelum setiap keputusan, terutama pada orang yang paling terdampak tetapi paling kecil kekuasaannya.
+
+## 6. Self-Assessment
+
+| Dimensi | Skor | Evidence Singkat |
+| :--- | :--- | :--- |
+| **Person & Character** | 4 | Enam stakeholder dengan interest, constraint, authority, dan power dipetakan; suara yang hilang dimunculkan. |
+| **Objective & State** | 4 | Multi-state TAIDA dikenali dan ditangani berbeda per person. |
+| **Repertoire, Language** | 4 | Paraphrase, common ground spesifik, lima opsi, dan trade-off terlihat. |
+| **Response & Adaptation** | 4 | Informasi dari Aldi mengubah kriteria dan opsi; dissent menjadi safeguard. |
+| **Agreement, Action** | 4 | Keputusan oleh pemegang authority, owner/deadline, survei, dan DP sebagai bukti action. |
+| **Total** | 20/20 | Skor bergantung pada tersedianya notulen, rekap grup, dan hasil survei sebagai evidence. |

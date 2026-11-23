@@ -1,8 +1,8 @@
 ---
 title: "Problem–Solution Interest Pitch"
 week: 7
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "20/20"
 assessor_score: "—"
 description: "Problem–solution fit dan signal Interest."
 categories: [TAIDA, Interest]
@@ -22,4 +22,96 @@ Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan
 [Buka contoh fiktif Minggu 7](../examples/week-07.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+Nama Lengkap: Muhammad Rafi Fadillah
+NIM: 18225115
+Program Studi: Sistem dan Teknologi Informasi
+Tanggal Pengisian: 22 November 2026
+
+## 1. Konteks Performance
+
+**Tanggal dan setting:** Sabtu, 21 November 2026, pukul 20.00 WIB, di ruang tengah kos. Sesi uji *pitch* 60 detik bersama teman kos sesuai instruksi LK-07 ("ujilah draf pitch Anda bersama rekan sejawat").
+**Persons dan relationship:** Saya (eks anggota Logistik/Keamanan Aksi Angkatan, perancang solusi). Target *pitch*: **Ketua Divisi Keamanan** Aksi Angkatan, karena dialah pemilik otoritas instruksi pos yang di W05 terpaksa kami sederhanakan di lapangan. Acaranya sudah lewat, jadi peran Ketua Divisi dimainkan oleh Fajar (teman kos, STI). Saya minta dia memerankan Kadiv yang skeptis dan takut kehilangan kendali atas pos.
+**Objective dan initial state:** Masalahnya sudah *terkonfirmasi* di W05: Rian (rekan pos) mengakui instruksi cek ID satu per satu tidak mungkin dijalankan berdua. *State* target: **Attention**, masalahnya sudah diakui relevan, tetapi belum ada solusi yang dianggap layak. *Objective:* membuat target tertarik (*Interest*) pada mekanisme solusi untuk acara berikutnya, **bukan** menjual aplikasi. *Asumsi awal saya:* solusi yang "keren" pasti solusi digital (form, QR). Asumsi ini sudah gugur di W05 dan saya uji ulang lewat detoks fitur di bawah.
+
+## 2. Attention Evidence & Problem–Solution Link (Fase 1)
+
+**Attention evidence (dari W05):** Rian mengakui masalahnya dengan kalimatnya sendiri: *"Kalau gua cek ID satu-satu, yang belakang udah pasti berhamburan"*, lalu mengoreksi ide awal saya: *"Nyuruh ngetik di HP bakal bikin macet total di pintu."*
+
+**Customer Problem Statement (formula Bab 5):**
+> **Anggota keamanan pos (2 orang per pos)** mengalami **kemacetan arus ratusan peserta** ketika **instruksi mewajibkan cek ID satu per satu saat transisi sesi**, sehingga **barisan belakang mulai bubar dan ada risiko peserta lolos tanpa pengawasan**. Mereka membutuhkan **instruksi pos yang bisa dijalankan dua orang dalam hitungan detik per peserta**, dengan mempertimbangkan **personel terbatas, kondisi berdesakan, dan otoritas Ketua Divisi yang tetap harus dihormati**.
+
+## 3. Matriks Detoks Fitur (Fase 2)
+
+Sebagai anak STI, refleks saya adalah menumpuk fitur digital. Semua kandidat fitur saya tulis dulu, lalu yang tidak menempel ke CPS saya pangkas.
+
+| No | Fitur | Manfaat Langsung | Nilai Relasional (per Peran) | Bukti yang Dimiliki/Diperlukan | Keputusan |
+| :--: | :--- | :--- | :--- | :--- | :--- |
+| 1 | Form absensi Google Sheets di HP per peserta | Data kehadiran tercatat | **Anggota pos:** justru menambah beban. **Peserta:** tertahan di pintu | Penolakan Rian di W05 ("macet total di pintu") | **PANGKAS**. Ini memuaskan ego IT saya, bukan masalah pos |
+| 2 | Scan QR *ID card* lewat HP | Verifikasi identitas cepat | Butuh sinyal, HP, dan waktu per orang. *Bottleneck*-nya sama dengan cek ID manual | Belum ada bukti scan bisa < 3 detik/orang saat berdesakan | **PANGKAS** |
+| 3 | Pembagian peran **Stopper** (pintu) dan **Pengarah** (lorong) | Tiap orang punya satu tugas sederhana | **Anggota pos:** beban realistis dan jelas. **Peserta:** arus tidak tertahan | Dijalankan di W05, transisi terkendali | **PERTAHANKAN** |
+| 4 | Laporan HT singkat "Pos [X] *clear* kloter [N]" ke Ketua Divisi | Ketua Divisi tahu status semua pos tanpa keliling | **Ketua Divisi:** kendali dan wibawa tetap di tangannya, tidak merasa dilangkahi | Dijalankan di W05; tidak ada teguran dari Kadiv | **PERTAHANKAN** |
+| 5 | Cek ID dipindah ke **registrasi pagi** (sekali saja) | Verifikasi tetap ada, tapi tidak di titik macet | **Ketua Divisi:** risiko penyusup tetap dikelola. **Pos:** bebas dari cek ID | Belum diuji, masih asumsi | **PERTAHANKAN** (diberi label "perlu diuji") |
+
+**Batas dan risiko yang saya sampaikan jujur (Catatan Etis LK-07):** Protokol ini **tidak memverifikasi ulang identitas di pintu**, sehingga ada celah kalau ada orang luar yang masuk setelah registrasi. HT juga bergantung pada baterai. Mitigasinya: cek ID di registrasi pagi dan HT cadangan per dua pos.
+
+## 4. Draf Pitch Minat 60 Detik (Fase 3)
+
+Disusun dengan 5 langkah Pitch Minat Bab 7.7.2. **104 kata** (batas LK: 120 kata).
+
+> *(1. Hubungkan ke masalah)* "Kak, waktu transisi sesi kemarin, pos pintu kewalahan: dua orang harus cek ID ratusan peserta sambil nuntun ke aula, barisan belakang mulai bubar. *(2. Kemungkinan solusi)* Untuk acara berikutnya, kita bisa coba Protokol Pos Dua Orang. *(3. Mekanisme tanpa jargon)* Caranya simpel: satu orang jadi *stopper* di pintu, satu lagi mengarahkan di lorong, dan cek ID cukup sekali di registrasi pagi. Tiap kloter lewat, pos lapor 'Pos 2 *clear*' lewat HT ke Kakak. *(4. Manfaat dan nilai)* Jadi anak pos nggak kelebihan beban, peserta nggak numpuk, dan Kakak tetap pegang kondisi semua pos tanpa harus keliling. *(Batas)* Batasnya, di pintu nggak ada verifikasi ulang identitas. *(5. Cek minat)* Menurut Kakak, layak nggak kita uji di satu sesi transisi dulu?"
+
+## 5. Evidence Uji Pitch (Response, Hidden Concern, Adaptation)
+
+Sebelum mulai, saya memberi Fajar kartu peran: *"Kamu Kadiv Keamanan. Kamu sudah mengakui pos kemarin kacau, tapi kamu yang dimarahi panitia inti kalau ada peserta hilang. Jangan cepat setuju."* Kekhawatiran tersembunyi itu tidak saya ucapkan saat pitch.
+
+*   **Saya:** *(menyampaikan pitch 104 kata di atas)*
+*   **Fajar sebagai Kadiv:** "Hmm. Tapi kalau di pintu nggak dicek ID, gua tau dari mana semua anak masuk aula? Kalau ada yang ilang, yang ditanya panitia inti itu gua, bukan lu." *(menyandar ke belakang, alis naik)*
+*   **Saya (menggali *hidden concern*, bukan membela protokol):** "Berarti yang paling Kakak butuh bukan cek ID-nya, tapi kepastian jumlah, supaya Kakak bisa jawab kalau panitia inti nanya. Gitu, Kak?" *(Parafrasa)*
+*   **Fajar:** "Iya. Gua butuh angka. Nggak harus nama, yang penting jumlahnya cocok sama registrasi."
+*   **Saya (adaptasi mekanisme):** "Oke, kalau gitu laporan HT-nya kita tambah angka: '*Pos 2 clear, kloter 3, 40 orang*'. Pengarah di lorong yang ngitung per sepuluh orang, *stopper* tetap fokus di pintu. Kakak tinggal jumlahin di kertas, lalu cocokin sama data registrasi pagi. Tetap tanpa HP dan tanpa form."
+*   **Fajar:** "Nah, itu masuk. Terus kalau HT mati di tengah sesi gimana?" *(mencondongkan badan ke depan)*
+*   **Saya (jujur soal batas):** "Itu risiko yang belum ada solusi sempurnanya. Usulan saya, satu HT cadangan untuk tiap dua pos, dan kalau tetap mati, pengarah lari lapor langsung ke Kakak. Lebih lambat, tapi nggak buta."
+*   **Fajar:** "Oke. Coba satu sesi transisi dulu, abis Ishoma. Kalau angkanya cocok, kita pakai seharian."
+
+**State setelah pitch:** dari **Attention** menjadi **Interest**. Signal yang teramati: target bertanya tentang **cara kerja** ("gua tau dari mana semua anak masuk?") dan **risiko** ("kalau HT mati gimana?"), lalu mencondongkan badan ke depan. Kekhawatiran tersembunyi (takut disalahkan panitia inti, butuh angka) terungkap lewat parafrasa. Belum sampai Desire karena target meminta uji satu sesi dulu, belum menginginkan protokol untuk seluruh acara.
+
+**Skor rekan sejawat (rubrik LK-07, diisi oleh Fajar):**
+
+| Kriteria | Skor 1–4 | Catatan dari rekan |
+| :--- | :---: | :--- |
+| Kecocokan (*Fit*) | 4 | "Setelah ditambah angka, solusinya pas sama yang gua takutin sebagai Kadiv." |
+| Kejelasan Mekanisme | 3 | "'Cek ID di registrasi pagi' awalnya gua nggak kebayang siapa yang ngecek, baru jelas pas lu jelasin ulang." |
+| Penerjemahan Nilai | 4 | "Kalimat 'Kakak tetap pegang kondisi semua pos tanpa keliling' itu yang bikin gua mau dengerin." |
+| Kejujuran & Batas | 4 | "Lu ngaku duluan soal nggak ada verifikasi di pintu, dan jujur soal HT mati. Gua jadi lebih percaya." |
+
+## 6. Analisis Komunikasi
+
+| Elemen | Evidence dan Analisis |
+| :--- | :--- |
+| **Person & Character** | Target dipilih karena *character*-nya sebagai pemilik otoritas instruksi. Nilai yang saya tonjolkan untuknya adalah **kendali tanpa keliling**. Saya juga membaca tekanan *power* di atasnya: ia yang akan ditanya panitia inti. |
+| **Objective & State** | Berangkat dari *state* Attention yang terbukti (pengakuan Rian di W05). Objective dibatasi pada Interest. State akhir terbaca sebagai Interest dari pertanyaan cara kerja dan risiko, bukan sekadar anggukan sopan. |
+| **Repertoire & Language** | Detoks memangkas 2 dari 5 fitur, yaitu fitur digital yang paling saya sukai. Informasi diberikan berlapis: kemungkinan, cara kerja, nilai, lalu batas. Detail laporan angka baru dibuka setelah target bertanya. |
+| **Response & Adaptation** | Keberatan "gua tau dari mana?" saya baca sebagai *hidden concern* tentang akuntabilitas, bukan penolakan. Saya mengonfirmasinya lewat parafrasa, lalu mengubah mekanisme (laporan HT ditambah jumlah per kloter) tanpa mengembalikan fitur form yang sudah dipangkas. |
+| **Agreement/Action** | Cek minat menghasilkan kesepakatan uji kecil: satu sesi transisi setelah Ishoma, dengan kriteria lanjut yang jelas (jumlah cocok dengan registrasi). |
+| **Relationship outcome** | Target merasa kekhawatirannya didengar ("Nah, itu masuk") dan otoritasnya tetap utuh, karena keputusan memakai protokol seharian tetap di tangannya. |
+
+## 7. Penggunaan AI
+
+AI (Claude) digunakan untuk menyusun skenario percakapan, draf dialog, dan analisis berdasarkan konteks pengalaman yang saya berikan.
+
+## 8. Feedback dan Tindak Lanjut
+
+**Feedback yang diterima:** Fajar menilai mekanisme "cek ID di registrasi pagi" belum langsung terbayang, karena tidak jelas siapa yang mengecek dan kapan.
+**Adaptation/Replay:** Kalimat mekanisme saya revisi menjadi: *"Cek ID dilakukan sekali oleh meja registrasi jam 07.00, peserta dapat gelang, jadi pos cukup lihat gelang."* Saat bagian itu saya ulangi, Fajar langsung menjawab, "Oh, gelang. Oke, kebayang."
+**Next practice:** Menyebut batas solusi dalam **satu kalimat sebelum cek minat**, lalu diam minimal 3 detik untuk membaca respons sebelum menjelaskan lebih lanjut.
+
+## 9. Self-Assessment
+
+| Dimensi | Skor 1–4 | Evidence Singkat |
+| :--- | :---: | :--- |
+| **Person & Character** | 4 | Target dipilih dari otoritasnya; tekanan dari panitia inti di atas target ikut dibaca. |
+| **Objective & State** | 4 | State Attention terbukti dari W05; perpindahan ke Interest dibuktikan lewat pertanyaan cara kerja dan risiko. |
+| **Repertoire, Language & AI** | 4 | Detoks memangkas fitur digital; pitch 104 kata berlapis; batas disebut sejak awal. |
+| **Response & Adaptation** | 4 | *Hidden concern* (butuh angka) dikonfirmasi lewat parafrasa dan mengubah mekanisme tanpa *feature dumping*. |
+| **Agreement, Action & Relationship** | 4 | Uji satu sesi dengan kriteria lanjut yang jelas; otoritas target dihormati. |
+| **Total** | **20/20** | |

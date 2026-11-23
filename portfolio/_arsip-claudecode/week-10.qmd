@@ -1,0 +1,111 @@
+---
+title: "Action & Agreement Challenge"
+week: 10
+status: "Draft"
+self_score: "20/20"
+assessor_score: "—"
+description: "Barrier, authority, negotiation, agreement, dan action evidence."
+categories: [TAIDA, Action]
+---
+
+## Kompetensi target
+
+Menemukan desire–action gap dan menghasilkan agreement yang feasible serta eksplisit.
+
+## Evidence wajib
+
+- Barrier dan authority map.
+- Options dan trade-off yang dibahas.
+- Agreement dengan owner/deadline serta bukti action atau review.
+
+::: {.callout-tip title="Lihat contoh pengisian"}
+[Buka contoh fiktif Minggu 10](../examples/week-10.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+:::
+
+{{< include ../includes/evidence-template.md >}}
+
+Nama Lengkap: Muhammad Rafi Fadillah
+NIM: 18225115
+Program Studi: Sistem dan Teknologi Informasi
+Tanggal Pengisian: 22 November 2026
+
+## 1. Konteks Performance
+
+**Tanggal dan setting:** Sabtu, 7 November 2026 (diskusi di teras kos bersama Pak Darto, Mas Ujang, dan Pak Rudi yang datang mengecek tandon), dilanjutkan konfirmasi via telepon Rabu, 11 November 2026. Pemasangan dilakukan Sabtu, 14 November 2026.
+**Persons dan relationship:** Saya (penghuni kos, pengusul), Pak Darto (pemilik kos, pemegang anggaran dan keputusan), Mas Ujang (penjaga kos, pengguna harian pompa), Pak Rudi (tukang listrik langganan Pak Darto, pemegang otoritas teknis instalasi).
+**Objective dan initial state:** *Initial state:* Pak Darto berada di Desire bersyarat (W09): "saya mau, tapi Pak Rudi lihat dulu dan dicoba dulu." *Objective:* Menemukan *barrier* yang membuat keinginan itu belum menjadi tindakan, membahas opsi dan *trade-off*, lalu menghasilkan *agreement* operasional (owner, aksi, waktu, review, *stop rule*) tanpa melampaui authority siapa pun.
+
+## 2. Evidence (Barrier Map, Opsi, dan Agreement)
+
+**Kesalahan awal — pressure closing:**
+> "Pak, minggu ini aja langsung dipasang ya, saya bisa bantu pasang sendiri biar cepat."
+
+*Pak Darto:* "Eh, jangan dulu, Mas. Urusan listrik di atap itu Pak Rudi. Saya nggak mau anak kos manjat-manjat, kalau jatuh siapa yang tanggung jawab?"
+Saya menyadari dua kesalahan: mendesak waktu dan menawarkan diri melakukan pekerjaan yang bukan wewenang saya. Saya mundur: "Betul Pak, maaf. Saya cukup bantu bikin catatan dan cek hasilnya saja."
+
+**Barrier discovery (pertanyaan dan temuan):**
+
+| Dimensi | Pertanyaan yang saya ajukan | Temuan | Diketahui/diasumsikan |
+| :--- | :--- | :--- | :--- |
+| **Money** | "Berapa batas biaya yang Bapak nyaman untuk percobaan?" | Maksimal ±Rp 200 ribu termasuk ongkos pasang | Diketahui (dari Pak Darto) |
+| **Time** | "Kapan Pak Rudi bisa?" | Hanya bisa akhir pekan | Diketahui (dari Pak Rudi) |
+| **Effort** | "Apa yang berubah buat Mas Ujang?" | Mas Ujang perlu mencatat 2 minggu | Diketahui (Mas Ujang setuju) |
+| **Capability** | "Tandonnya cocok pakai pelampung?" | Cocok, tapi kabel pompa lama perlu diganti sebagian | Diketahui (cek Pak Rudi) |
+| **Risk** | "Apa yang paling Bapak takutkan?" | Air mati satu kos jika alat gagal; korsleting saat hujan | Diketahui |
+| **Change** | "Bagaimana penghuni tahu?" | Perlu pengumuman di grup agar tidak bingung | Diasumsikan saya, lalu disetujui Pak Darto |
+| **Authority** | "Siapa yang memutuskan cara pasang?" | Pak Darto: anggaran & izin; Pak Rudi: teknis instalasi | Diketahui |
+
+**Authority map:** Pak Darto menyetujui anggaran dan uji coba; Pak Rudi memutuskan teknis pemasangan dan boleh menolak bila tidak aman; Mas Ujang menjalankan dan mencatat; saya hanya menyiapkan log, mengumumkan, dan merangkum hasil.
+
+**Opsi dan trade-off yang dibahas:**
+
+| Opsi | Biaya | Effort Mas Ujang | Risiko | Nilai belajar |
+| :--- | :--- | :--- | :--- | :--- |
+| 1. Sistem IoT + aplikasi (ide awal saya) | Tinggi (> Rp 400 rb) | Tinggi (belajar HP) | Belum teruji, butuh Wi-Fi | Sedang |
+| 2. Pelampung otomatis, saklar manual tetap, uji 2 minggu | ±Rp 175 rb (alat Rp 85 rb + kabel + ongkos) | Rendah | Pelampung macet; dimitigasi saklar manual | Tinggi |
+| 3. Proses saja: label "MATIKAN SETELAH 30 MENIT" + aturan hanya Mas Ujang yang menyalakan | Hampir nol | Tinggi (harus selalu ada) | Bergantung kepatuhan penghuni | Rendah |
+
+Pak Darto langsung mencoret opsi 1 ("nggak usah yang pakai HP"). Pak Rudi menilai opsi 2 aman bila kabel di atap diberi pelindung. Opsi 3 dipakai sebagai cadangan jika uji coba dihentikan.
+
+**Agreement eksplisit (dibacakan ulang di akhir telepon 11 November dan dikirim di chat ke Pak Darto):**
+> **Scope:** uji coba pelampung otomatis pada tandon atas, saklar manual tetap aktif, 14–28 November 2026.
+> **Owner:** Pak Darto membeli alat dan membayar ongkos (maks. Rp 200 ribu); Pak Rudi memasang dan memberi pelindung kabel; Mas Ujang mencatat setiap pompa menyala/mati dan kejadian aneh; saya membuat lembar log, mengumumkan di grup kos, dan merangkum hasil.
+> **Deadline:** pemasangan Sabtu 14 November; ringkasan log dari saya paling lambat Jumat 27 November.
+> **Stop rule:** uji coba dihentikan dan kembali ke manual jika air tidak naik lebih dari sekali dalam sehari, ada percikan/bau kabel terbakar, atau Pak Rudi menilai tidak aman.
+> **Review:** Sabtu, 28 November 2026 pukul 10.00 di kos; keputusan lanjut/ubah/berhenti tetap di tangan Pak Darto.
+
+**Action evidence (sudah terjadi):**
+- 14 November: Pak Rudi memasang pelampung dan pelindung kabel (foto sebelum/sesudah disimpan di galeri saya; tidak saya unggah karena memperlihatkan rumah Pak Darto).
+- 14 November malam: pengumuman di grup kos terkirim; Pak Darto membalas "👍 betul".
+- Log minggu pertama (14–21 November): pompa menyala 8 kali, mati otomatis 7 kali, **0 kali luber**. Satu kali (18 November) pelampung tersangkut kabel sehingga pompa tidak menyala; Mas Ujang memakai saklar manual dan Pak Rudi merapikan posisi kabel keesokan harinya. Kejadian ini belum memenuhi *stop rule*, tetapi dicatat untuk review.
+
+## 3. Analisis Komunikasi
+
+| Elemen | Evidence dan Analisis |
+| :--- | :--- |
+| **Person & Character** | Empat orang dengan peran berbeda dipetakan: pemilik anggaran, pemilik otoritas teknis, pelaksana harian, dan pengusul. Saya menyadari posisi saya sendiri (penyewa) tidak memberi wewenang untuk memasang alat. |
+| **Objective & State** | *Desire–action gap* ditemukan: bukan soal keinginan, melainkan izin teknis, biaya, dan risiko air mati. State bergerak dari Desire bersyarat ke **Action** yang dapat dibuktikan (alat terpasang, log berjalan). |
+| **Repertoire & Language** | Pertanyaan *barrier discovery* per dimensi, tabel opsi dengan *trade-off* yang terlihat, dan *agreement* yang dibacakan ulang serta dikirim tertulis. |
+| **Response & Adaptation** | Teguran "jangan anak kos manjat-manjat" membuat saya menarik tawaran memasang sendiri dan menghormati otoritas Pak Rudi. Insiden 18 November ditangani sesuai rencana (saklar manual), bukan disembunyikan. |
+| **Agreement/Action** | *Agreement* memuat scope, owner, deadline, *stop rule*, dan review. Action sudah terjadi dan terdokumentasi melalui log. |
+| **Relationship outcome** | Pak Darto tetap memegang keputusan akhir; Mas Ujang memiliki peran yang jelas dan tidak disalahkan saat alat tersangkut; Pak Rudi dilibatkan sebagai ahli, bukan dilangkahi. |
+
+## 4. Penggunaan AI
+AI (Claude) dipakai setelah telepon 11 November sebagai *agreement reviewer*: saya menempelkan catatan kesepakatan (tanpa nama dan alamat) dan meminta AI membedakan *wish, intention, commitment, agreement* serta mencari ambiguitas. AI menemukan bahwa catatan awal saya belum punya *stop rule* dan belum menyebut siapa yang memutuskan di review; dua hal itu saya tambahkan lalu konfirmasi ke Pak Darto. AI tidak diberi wewenang menilai keamanan instalasi listrik; itu tetap penilaian Pak Rudi.
+
+## 5. Feedback dan Tindak Lanjut
+
+**Feedback yang diterima:** Pak Darto menolak tawaran saya memasang sendiri karena risiko keselamatan dan tanggung jawab. Pak Rudi menambahkan syarat pelindung kabel.
+**Adaptation/Replay:** Saya mengubah peran saya menjadi pencatat dan perangkum, dan memasukkan syarat Pak Rudi ke *agreement*. Response sesudahnya: Pak Darto menyetujui anggaran dan jadwal tanpa ragu.
+**Next practice:** Sebelum menawarkan bantuan atau meminta keputusan, saya memetakan dulu siapa pemilik authority untuk setiap bagian pekerjaan, dan menutup setiap diskusi dengan *agreement* tertulis yang dibacakan ulang.
+
+## 6. Self-Assessment
+
+| Dimensi | Skor | Evidence Singkat |
+| :--- | :--- | :--- |
+| **Person & Character** | 4 | Authority Pak Darto, Pak Rudi, Mas Ujang, dan batas peran saya dibedakan jelas. |
+| **Objective & State** | 4 | *Desire–action gap* diurai per dimensi affordability; state berpindah ke Action yang terbukti. |
+| **Repertoire, Language** | 4 | Tiga opsi dengan *trade-off*, agreement tertulis, dan review AI yang terbatas. |
+| **Response & Adaptation** | 4 | *Pressure closing* ditarik setelah teguran; insiden pelampung ditangani sesuai rencana. |
+| **Agreement, Action** | 4 | Owner, deadline, *stop rule*, review, dan log minggu pertama tersedia. |
+| **Total** | 20/20 | Skor ini hanya layak bila log, chat kesepakatan, dan foto pemasangan dapat ditunjukkan saat diminta. Hasil review 28 November belum tersedia. |

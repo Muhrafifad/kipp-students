@@ -1,0 +1,110 @@
+---
+title: "Public Contribution Challenge"
+week: 13
+status: "Draft"
+self_score: "19/20"
+assessor_score: "—"
+description: "Public artifact, evidence, context, response, dan reputation."
+categories: [Public, Contribution]
+---
+
+## Kompetensi target
+
+Mengomunikasikan core meaning kepada public secara sederhana, benar, dan bertanggung jawab.
+
+## Evidence wajib
+
+- Public character, target, objective, dan TAIDA map.
+- Public artifact serta sumber evidence.
+- Context-collapse/reputation check, response, dan correction bila diperlukan.
+
+::: {.callout-tip title="Lihat contoh pengisian"}
+[Buka contoh fiktif Minggu 13](../examples/week-13.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+:::
+
+{{< include ../includes/evidence-template.md >}}
+
+Nama Lengkap: Muhammad Rafi Fadillah
+NIM: 18225115
+Program Studi: Sistem dan Teknologi Informasi
+Tanggal Pengisian: 22 November 2026
+
+## 1. Konteks Performance
+
+**Tanggal dan setting:** Carousel Instagram (6 slide) diunggah di akun pribadi saya pada Selasa, 17 November 2026, pukul 19.00 WIB, lalu dibagikan ulang oleh Ibu ke grup WhatsApp keluarga besar. Respons dipantau sampai 21 November 2026.
+**Persons dan relationship:** Saya hadir sebagai mahasiswa Sistem dan Teknologi Informasi dalam *character* **citizen** (warga yang ikut menjaga keamanan digital keluarga dan lingkungannya), bukan sebagai ahli keamanan siber. Target public: followers saya (mayoritas teman kampus dan SMA) dan, melalui Ibu, keluarga besar yang banyak memakai WhatsApp tetapi jarang mengikuti berita teknologi.
+**Objective dan initial state:** Bulan ini dua kerabat saya menerima pesan WhatsApp berisi file "undangan" berakhiran `.apk`, dan satu sempat hampir membukanya. *Initial state:* public tahu "ada penipuan online", tetapi belum bisa mengenali ciri file berbahaya. *Objective:* *Understanding* dan satu *behavior change* sederhana, yaitu **tidak membuka file `.apk` yang dikirim lewat chat**, tanpa menakut-nakuti dan tanpa mengklaim lebih dari yang saya ketahui.
+
+## 2. Evidence (TAIDA Map, Artefak Publik, dan Response)
+
+**Core meaning (tidak boleh berubah):** File berakhiran `.apk` adalah file pemasang aplikasi Android. Jika dibuka dari chat, file itu bisa memasang aplikasi yang meminta izin membaca SMS, termasuk kode OTP, sehingga akun bank atau WhatsApp dapat diambil alih. Undangan, foto, atau surat asli tidak perlu dipasang sebagai aplikasi.
+
+**TAIDA map untuk public:**
+
+| State | Target public | Yang ingin dicapai artefak | Indikator |
+| :--- | :--- | :--- | :--- |
+| Target | Keluarga & followers pengguna Android/WhatsApp | Merasa pesan ini relevan untuk mereka | Dibagikan ke grup keluarga |
+| Attention | Pernah menerima file aneh di chat | "Oh, aku pernah dapat yang kayak gini." | Komentar/balasan pengalaman |
+| Interest | Ingin tahu kenapa berbahaya | Paham mekanisme izin SMS/OTP secara sederhana | Pertanyaan lanjutan |
+| Desire | Ingin akun tetap aman | Mau menerapkan satu kebiasaan | Pernyataan "nanti aku cek dulu" |
+| Primary action | Semua | **Jangan buka file `.apk` dari chat; tanyakan dulu ke pengirim lewat telepon** | Pertanyaan "file ini aman nggak?" |
+
+**Isi artefak (carousel 6 slide):**
+1. *Hook (person & situation):* "Dapat undangan nikah di WA, tapi filenya `.apk`? Tahan dulu jempolnya."
+2. *Tension:* "File `.apk` itu bukan undangan. Itu file untuk **memasang aplikasi** di HP Android."
+3. *Evidence & meaning (dengan analogi dan batas):* "Ibaratnya kamu dikasih 'kunci duplikat' rumah, lalu disuruh pasang sendiri. Aplikasi semacam ini bisa minta izin baca SMS, termasuk kode OTP. Tidak semua `.apk` jahat, tapi undangan asli tidak pernah perlu di-install."
+4. *Ciri yang bisa dicek:* nama file berakhiran `.apk`; dikirim nomor tak dikenal **atau** nomor kenalan yang tiba-tiba mengirim tanpa konteks; meminta "izinkan instal dari sumber tidak dikenal".
+5. *Primary action:* "Jangan buka. Telepon pengirimnya: 'Kamu kirim file ini?' Kalau ragu, hapus."
+6. *Kalau terlanjur:* slide tambahan setelah respons (lihat bagian koreksi).
+
+**Sumber evidence:** imbauan resmi dari layanan pelanggan bank dan pemberitaan media nasional tentang modus file `.apk` berkedok undangan/surat yang ramai dibahas sejak 2023 (tautan dicantumkan di *caption*). Saya **tidak** mencantumkan angka korban atau kerugian karena saya tidak menemukan sumber yang bisa saya verifikasi sendiri.
+
+**Context-collapse & reputation check sebelum unggah:**
+
+| Uji | Temuan | Perbaikan |
+| :--- | :--- | :--- |
+| **Jargon test** (dibacakan ke Ibu via telepon) | Ibu tidak paham "OTP" | Ditambah "kode OTP (kode rahasia 6 angka dari SMS)" |
+| **Distortion test** | Draf awal: "Semua file dari WA itu berbahaya" | Diganti menjadi khusus file `.apk`, dengan batas "tidak semua `.apk` jahat" |
+| **Screenshot test** | Slide 4 bila dipotong sendiri terbaca "nomor kenalan = penipu" | Ditambah frasa "tiba-tiba mengirim tanpa konteks" |
+| **Authority check** | Saya bukan petugas bank/ahli siber | *Character* dinyatakan sebagai mahasiswa yang berbagi, bukan otoritas resmi; arahkan ke kontak resmi bank |
+
+**Response (17–21 November):**
+- Di Instagram: 1.240 akun terjangkau, 37 kali dibagikan, 58 kali disimpan, 14 komentar (angka dari *Insights*). Reach ini saya anggap *input*, bukan *impact*.
+- Komentar teman SMA: "Kalau udah terlanjur install gimana, Raf? Om aku kemarin kayaknya kena."
+- Komentar teman kampus: "Slide 3 bagus, tapi 'kunci duplikat' agak bikin parno, padahal kan nggak semua."
+- Di grup keluarga: Tante membalas foto file `Surat_Tilang.apk` yang ia terima dan bertanya, "Ini termasuk ya, Fi?" Saya membalas: "Iya Tante, jangan dibuka, langsung hapus saja." **Ini bukti impact yang paling relevan**: primary action dijalankan oleh satu person nyata.
+
+**Koreksi setelah publikasi (18 November):**
+- Saya menambahkan slide 6 "Kalau terlanjur install": segera hubungi *call center* resmi bank lewat nomor di kartu/aplikasi resmi, minta blokir, ganti PIN/kata sandi dari perangkat lain, dan copot aplikasi asing. Saya menulis bahwa langkah teknis lanjutan sebaiknya mengikuti arahan bank, bukan saya.
+- Analogi "kunci duplikat" saya pertahankan, tetapi menambahkan pin komentar: "Analoginya untuk menjelaskan izin, bukan berarti semua aplikasi berbahaya. Aplikasi dari Play Store resmi tetap prosedur normal."
+
+## 3. Analisis Komunikasi
+
+| Elemen | Evidence dan Analisis |
+| :--- | :--- |
+| **Person & Character** | Public dipahami sebagai *persons* (Tante, Ibu, teman) dengan literasi digital berbeda. *Character* "citizen" dipilih agar sesuai dengan authority saya yang terbatas. |
+| **Objective & State** | Objective bukan *views*, melainkan satu *primary action*. Impact diukur dari tindakan Tante, bukan dari angka reach. |
+| **Repertoire & Language** | Struktur *public narrative* (situasi → tension → evidence → action), analogi dengan batas, satu ajakan yang jelas, serta istilah teknis yang diterjemahkan. |
+| **Response & Adaptation** | Pertanyaan "kalau terlanjur?" dijawab dengan slide baru; kritik "bikin parno" dijawab dengan klarifikasi batas analogi. Koreksi dilakukan di tempat yang sama dengan publikasi. |
+| **Agreement/Action** | Primary action terjadi pada minimal satu person nyata (Tante menghapus file). Belum ada data apakah followers lain mengubah perilaku. |
+| **Relationship outcome** | Keluarga mulai bertanya ke saya sebelum membuka file mencurigakan. Ini menambah tanggung jawab: saya harus jujur kapan perlu mengarahkan ke pihak resmi. |
+
+## 4. Penggunaan AI
+AI (Claude) dipakai sebagai *translator* dan pemeriksa: saya meminta AI menyederhanakan penjelasan izin SMS/OTP untuk pembaca awam dan menandai kalimat yang berpotensi *distortion*. AI mengusulkan kalimat "aplikasi ini **pasti** mencuri saldo"; saya tolak karena terlalu absolut. AI juga sempat menyebut angka kerugian nasional tanpa sumber; angka itu tidak saya pakai. Fakta inti saya periksa dari imbauan bank dan pemberitaan media. Foto file milik Tante tidak saya unggah ke AI ataupun ke Instagram.
+
+## 5. Feedback dan Tindak Lanjut
+
+**Feedback yang diterima:** "Kalau udah terlanjur install gimana?" dan "analoginya agak bikin parno" dari dua teman; pertanyaan Tante soal `Surat_Tilang.apk`.
+**Adaptation/Replay:** Slide 6 ditambahkan dan komentar klarifikasi di-*pin*. Respons sesudahnya: dua orang membalas "nah ini yang aku cari", dan tidak ada lagi komentar yang menyebut semua file WA berbahaya.
+**Next practice:** Menyiapkan bagian "kalau terlanjur/kalau sudah terjadi" sejak awal pada setiap artefak publik yang meminta orang menghindari sesuatu.
+
+## 6. Self-Assessment
+
+| Dimensi | Skor | Evidence Singkat |
+| :--- | :--- | :--- |
+| **Person & Character** | 4 | Public dipilah menjadi persons nyata; character "citizen" sesuai authority. |
+| **Objective & State** | 4 | TAIDA map public dengan satu primary action; reach dibedakan dari impact. |
+| **Repertoire, Language** | 4 | Narrative, analogi dengan batas, jargon/distortion/screenshot test, AI dipakai dengan koreksi. |
+| **Response & Adaptation** | 4 | Dua kritik publik langsung menghasilkan slide dan klarifikasi baru. |
+| **Agreement, Action** | 3 | Primary action terbukti pada satu person; perubahan perilaku public lebih luas belum terukur. |
+| **Total** | 19/20 | Artefak bertanggung jawab dan dikoreksi; bukti impact masih terbatas. |

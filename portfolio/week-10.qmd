@@ -1,8 +1,8 @@
 ---
 title: "Action & Agreement Challenge"
 week: 10
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "20/20"
 assessor_score: "—"
 description: "Barrier, authority, negotiation, agreement, dan action evidence."
 categories: [TAIDA, Action]
@@ -22,4 +22,137 @@ Menemukan desire–action gap dan menghasilkan agreement yang feasible serta eks
 [Buka contoh fiktif Minggu 10](../examples/week-10.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+Nama Lengkap: Muhammad Rafi Fadillah
+NIM: 18225115
+Program Studi: Sistem dan Teknologi Informasi
+Tanggal Pengisian: 22 November 2026
+
+## 1. Identitas Proyek & Konteks Performance
+
+Minggu ini saya membandingkan **dua tubes** yang saya pimpin. Keduanya menunjukkan cara saya menangani anggota yang tidak bergerak, tetapi dengan kualitas kesepakatan yang berbeda.
+
+| | **Kasus A: Tubes PRD** | **Kasus B: Tubes PSTI** |
+| :--- | :--- | :--- |
+| **Proyek** | Prototipe penyiram tanaman otomatis berbasis ESP32, sensor kelembapan tanah, dan pompa mini | Analisis dan rancangan sistem informasi peminjaman ruang himpunan |
+| **Waktu** | Semester 2, Maret–Mei 2026 (±6 minggu sampai demo) | Semester 1, November 2025 (±3 minggu sampai presentasi) |
+| **Anggota** | 7 orang: saya (satu-satunya yang paham IoT; *coding* dan *trial & error*), D1 dan D2 (membantu dokumen, porsi kecil), P1 dan P2 (awalnya tidak mengerjakan), X (tidak terlibat sama sekali) | 3 orang: saya (pengambil keputusan), A (aktif), B (awalnya tidak mengerjakan sama sekali) |
+
+**Character saya:** Inisiator tubes **tanpa otoritas formal**. Saya tidak bisa memberi nilai, menghukum, atau memaksa. Otoritas nilai ada di dosen dan asisten.
+
+**Objective dan initial state:**
+- *Desire* sebenarnya sudah ada di semua anggota: **ingin tubes selesai dan lulus**. Yang macet adalah **Action**. Inilah *desire–action gap* di kedua kasus.
+- *State awal saya (Kasus A):* kesal karena tiga orang diam, tapi saya tidak suka konflik. Pola ini sama dengan cara saya menghadapi kakak laki-laki saya di rumah: saat dia marah, saya memilih diam dan mendengarkan supaya tidak ribut.
+
+## 2. Barrier & Authority Map
+
+| Barrier (Bab 10) | Kasus A: PRD | Kasus B: PSTI |
+| :--- | :--- | :--- |
+| **Capability** | Hanya saya yang paham IoT; anggota lain tidak mengerti mikrokontroler dan *coding* | B merasa bagian analisis proses bisnis terlalu sulit |
+| **Effort/Motivation** | P1, P2, dan X tidak bergerak sama sekali di 2 minggu pertama | B tidak mengerjakan di minggu pertama |
+| **Money** | Part IoT ±Rp210.000 harus dibeli dan bisa ditanggung bersama | — |
+| **Time** | ±6 minggu; *trial & error* butuh waktu paling lama | ±3 minggu; presentasi tidak bisa diundur |
+| **Risk** | Kalau alat gagal saat demo, seluruh kelompok kena | Kalau satu bagian kosong, nilai kelompok turun |
+| **Authority** | Saya **tidak punya** wewenang memaksa; opsi lapor dosen merusak relasi | Saya memegang keputusan teknis, tetapi tetap tidak bisa memaksa |
+
+*Diketahui vs diasumsikan:* barrier capability dan money diketahui dari percakapan. Barrier motivasi P1, P2, dan X **diasumsikan**, karena saya tidak pernah menanyakannya langsung.
+
+## 3. Posisi vs Kepentingan (LK Bagian 1)
+
+| Pihak | Posisi (yang terlihat) | Kepentingan (alasan di baliknya) |
+| :--- | :--- | :--- |
+| **Saya** | "Semua harus kerja bagian masing-masing." | Tubes selesai tepat waktu dan alatnya benar-benar jalan saat demo; tidak ada konflik di kelompok. |
+| **P1 dan P2 (PRD)** | Diam, tidak mengambil bagian. | *(Dugaan saya)* Takut salah di bagian teknis yang tidak dipahami dan tidak tahu harus mulai dari mana. Terbukti sebagian: mereka langsung bergerak ketika diberi tugas non-teknis. |
+| **B (PSTI)** | Tidak mengerjakan. | Merasa bagian yang ada terlalu sulit untuk kemampuannya dan malu bertanya. |
+
+**Poin temu kepentingan:** Semua ingin tubes selesai. Hambatannya bukan niat, tetapi **kecocokan tugas dengan kemampuan**. Jadi kesepakatan harus dibangun dari tugas yang *bisa* dikerjakan orangnya, bukan dari pembagian rata.
+
+## 4. Options & Trade-off
+
+| Opsi | Kelebihan | Trade-off/Risiko | Keputusan |
+| :--- | :--- | :--- | :--- |
+| Menegur keras di grup | Cepat, jelas | Konflik terbuka, relasi rusak, belum tentu mereka bergerak | Tidak dipilih |
+| Lapor ke dosen/asisten | Ada otoritas | Merusak *trust* kelompok; terasa melampaui posisi saya sebagai sesama mahasiswa | Tidak dipilih |
+| Membagi rata semua bagian, termasuk *coding* | Terlihat adil | Bagian teknis pasti macet karena *capability* tidak ada | Tidak dipilih |
+| **Memberi tugas sesuai kemampuan** (PRD: membeli part; PSTI: memilih bagian yang dia rasa sanggup) | Mengubah "tidak bisa" menjadi kontribusi nyata | Porsi kontribusi tidak seimbang | **Dipilih** |
+| **Mengerjakan sendiri bagian yang kosong** (PRD) | Tubes pasti selesai | Beban saya berlipat; kontribusi tidak tercatat jujur; masalah tidak pernah dibicarakan | **Dipilih di PRD**, dan ini yang saya evaluasi di bawah |
+
+## 5. Evidence Kesepakatan dan Action
+
+**Kasus A (PRD), Senin, 6 April 2026, pesan di grup WA:**
+*   **Saya:** "P1, P2, gua minta tolong ya buat beli part ini sebelum Kamis, 9 April. List sama link contohnya gua taruh di bawah. Duitnya nanti kita bagi tujuh, struknya fotoin ke grup ya." *(Daftar: ESP32 DevKit, sensor kelembapan tanah kapasitif, relay 1 channel, pompa mini 5V + selang, kabel jumper, breadboard, adaptor 5V 2A)*
+*   **P1:** "Siap Raf, besok sore gua sama P2 ke toko komponen deket kampus."
+*   **Bukti action:** Rabu, 8 April, P1 mengirim foto struk Rp208.500 ke grup. Saat saya cek, **relay yang dibeli versi 12V**, bukan 5V. Di daftar saya hanya tertulis "relay 1 channel" tanpa tegangan.
+*   **Review dan repair:** Saya menahan diri untuk tidak mengeluh di grup dan mengirim pesan pribadi: *"Bro, relaynya ternyata 12V, salah gua sih nggak nulis voltasenya di list. Besok bisa tuker bareng nggak?"* P2 menjawab, *"Oh iya maaf Raf, besok siang gua tuker."* Kamis, 9 April, relay 5V sudah di tangan.
+
+**Kasus B (PSTI), Selasa, 11 November 2025, chat pribadi:**
+*   **Saya:** "B, bagian analisis proses bisnisnya emang agak ribet. Dari list ini mana yang menurut lu paling bisa lu kerjain? Bebas pilih, nanti sisanya gua sama A atur." *(List: analisis proses bisnis, diagram usulan, slide presentasi, daftar pustaka)*
+*   **B:** "Gua slide sama dapus aja ya Raf, analisisnya gua nggak pede."
+*   **Saya:** "Oke, *deal*. Slide 10–15 halaman sesuai outline yang gua kirim, kumpul Minggu, 23 November, jam 20.00 di grup. Kalau mentok, chat gua sebelum Jumat."
+*   **Bukti action:** Minggu, 23 November 2025, pukul 19.40, B mengirim draf 14 slide dan daftar pustaka 9 sumber ke grup. Saya hanya merevisi urutan dua slide.
+
+## 6. Audit Kesepakatan dengan Formula Presisi (LK Bagian 2)
+
+| No | SIAPA | APA | KAPAN | Prasyarat | DEFINISI SELESAI | Tindak Lanjut |
+| :-- | :--- | :--- | :--- | :--- | :--- | :--- |
+| A1 | P1, P2 | Membeli 7 part IoT | ✓ Kamis, 9 Apr | ✓ List + link dari saya | **✗ Spesifikasi tidak lengkap**, sehingga relay salah | ✓ Foto struk ke grup |
+| A2 | Saya | Mengerjakan *coding* dan bagian X | Sampai demo | — | Alat berjalan | **✗ Tidak pernah disepakati, saya ambil diam-diam** |
+| B1 | B | Slide 10–15 halaman + daftar pustaka | ✓ Minggu, 23 Nov 2025, 20.00 | ✓ Outline dari saya | ✓ Sesuai outline | ✓ Kirim ke grup, checkpoint "chat sebelum Jumat" |
+
+**Temuan audit:** Butir A1 gagal di **definisi selesai**, bukan di niat orangnya. Butir A2 adalah **intention saya sendiri**, bukan **agreement**, karena tidak ada yang tahu saya mengambil bagian X. Ini persis yang dibedakan Bab 10: *wish → intention → commitment → agreement → action*. Butir B1 adalah satu-satunya yang memenuhi semua elemen formula, termasuk checkpoint.
+
+## 7. Kontrol Lingkar Komitmen (LK Bagian 3)
+
+| Fase | Butir A1 (PRD, beli part) | Butir B1 (PSTI, slide) |
+| :--- | :--- | :--- |
+| **1. Janji** | Senin, 6 April 2026 | Selasa, 11 November 2025 |
+| **2. Checkpoint** | ✗ Tidak ada; kesalahan baru ketahuan setelah barang datang | ✓ "Chat gua sebelum Jumat"; B mengirim progres 6 slide pada Kamis |
+| **3. Bukti** | Foto struk + part fisik; **belum** memenuhi definisi selesai (relay salah) | Draf 14 slide + 9 sumber; memenuhi definisi selesai |
+| **4. Penerimaan** | Saya, setelah relay ditukar pada Kamis, 9 April | Saya dan A, Minggu malam |
+
+## 8. Evaluasi Jalur Ganda (LK Bagian 4)
+
+**Jalur tugas:** Kedua tubes **selesai**. Di PRD, alat berhasil berjalan saat demo walaupun bebannya terpusat di saya. Di PSTI, B berkontribusi lewat bagian yang ia pilih sendiri dan mengumpulkannya 20 menit sebelum tenggat.
+
+**Jalur relasi:** Tidak ada konflik terbuka di kedua kelompok. Tapi di PRD, "tidak ada konflik" bukan berarti relasinya sehat. Saya menghindari konflik dengan **diam dan menyerap beban**, pola yang sama dengan cara saya menghadapi kakak laki-laki di rumah. Hasilnya, X tidak pernah tahu ada masalah dan saya menyimpan lelah sendirian. Satu titik yang berhasil adalah *repair* soal relay: saya mengakui kesalahan list saya sendiri lewat pesan pribadi, sehingga P2 menukar part tanpa merasa dipermalukan. Di PSTI saya selangkah lebih baik, karena saya **membicarakan** kesulitan B dan memberinya pilihan, bukan diam-diam mengambil alih.
+
+## 9. Replay: Dokumen Kesepakatan untuk Tubes Berikutnya
+
+| SIAPA | APA | KAPAN | Prasyarat | DEFINISI SELESAI | Tindak Lanjut |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Satu nama per butir, dipilih sendiri oleh anggota | Kata kerja operasional, bukan "bantu-bantu" | Hari, tanggal, jam | Bahan yang saya siapkan | **Spesifikasi lengkap** (misalnya "relay 1 channel **5V**") | Screenshot ke grup + **checkpoint H-2** |
+
+Ditambah satu kalimat yang dulu tidak pernah saya ucapkan: *"Kalau ada yang nggak sanggup bagiannya, bilang sebelum checkpoint, nanti kita tukar. Tapi kalau bagiannya akhirnya gua yang kerjain, itu bakal gua tulis jujur di pembagian kontribusi."* Kalimat ini memberi ruang untuk berkata "tidak" (LK Bagian 4) tanpa saya harus menyerap semuanya diam-diam.
+
+5. **Pernyataan penggunaan AI:**
+   - **Alat & Peran:** Saya menggunakan **Claude** sebagai mitra peninjau struktur dan penguji skenario keberatan (*devil's advocate*) setelah menyusun draf kasar Matriks Jembatan Batin.
+   - **Data yang Dibagikan:** Catatan observasi mentah antrean kios fotokopi (dari W06), kutipan keluhan Mas Andi, serta draf mekanisme *Slot Cetak Malam*.
+   - **Perintah (Prompt) Kunci:** *"Bertindaklah sebagai pemilik kios fotokopi yang skeptis terhadap perubahan jam kerja karyawan dan takut rugi kertas; kritik kelemahan alur Slot Cetak Malam ini dan uji apakah rantai Feature–Benefit–Value–Outcome saya sudah tepat."*
+   - **Verifikasi Mandiri:** Seluruh saran respons AI saya saring dan uji ulang dalam simulasi tatap muka 5 menit bersama Naufal dan Dika. Satu saran AI untuk menggunakan aplikasi pencatat pesanan saya tolak karena bertentangan dengan kondisi lapangan Pak Harun yang menginginkan sistem tanpa biaya tambahan.
+
+## 11. Feedback dan Tindak Lanjut
+
+**Feedback yang diterima:** Setelah demo PRD, P2 mengirim pesan, *"Makasih ya Raf, sorry banget nggak bisa bantu banyak di coding."* Setelah presentasi PSTI, B menulis, *"Thanks udah nggak maksa, gua jadi tetep ngerasa nyumbang."*
+**Adaptation/Replay:** Dari PRD ke PSTI saya beralih dari mengambil alih diam-diam ke menawarkan pilihan sesuai kemampuan, ditambah checkpoint eksplisit ("chat gua sebelum Jumat"). Checkpoint itulah yang membuat B mengirim progres lebih awal.
+**Next practice:** Di tubes berikutnya, setiap butir tugas wajib punya **satu nama, satu tenggat, satu definisi selesai yang spesifik, dan satu checkpoint H-2**. Bagian yang terpaksa saya ambil alih harus diumumkan di grup, bukan dikerjakan diam-diam.
+
+## 12. Self-Assessment
+
+**Rubrik LK-10:**
+
+| Aspek | Skor (1–3) | Bukti Perilaku |
+| :--- | :---: | :--- |
+| Kejelasan Kepentingan (Bukan Posisi) | 3 | Posisi "harus kerja rata" dibedakan dari kepentingan "tubes jalan"; tugas dibangun dari kemampuan. |
+| Presisi Formula Kesepakatan | 3 | Butir B1 memenuhi formula lengkap; kegagalan A1 diaudit dan diperbaiki di replay. |
+| Pemeliharaan Komitmen | 3 | Checkpoint "chat sebelum Jumat" berjalan di PSTI; tidak adanya checkpoint di PRD dijadikan pelajaran. |
+| Keseimbangan Jalur Ganda | 3 | Repair relay lewat pesan pribadi; B diberi ruang memilih tanpa dipaksa. |
+
+**Rubrik universal:**
+
+| Dimensi | Skor | Evidence Singkat |
+| :--- | :---: | :--- |
+| **Person & Character** | 4 | Membaca *power* (tanpa otoritas) dan *capability* tiap anggota; tugas beli part dirancang dari barrier yang nyata. |
+| **Objective & State** | 4 | *Desire–action gap* teridentifikasi di dua kasus; barrier yang diketahui dibedakan dari yang diasumsikan. |
+| **Repertoire, Language & AI** | 4 | Opsi dipilih dengan *trade-off* eksplisit; bahasa disesuaikan (grup untuk tugas, chat pribadi untuk repair). |
+| **Response & Adaptation** | 4 | Perubahan nyata dari PRD (menyerap diam-diam) ke PSTI (menawarkan pilihan dan checkpoint). |
+| **Agreement, Action & Relationship** | 4 | Agreement B1 lengkap dengan bukti action; kegagalan A1 di-*review* dan di-*repair* tanpa merusak relasi. |
+| **Total** | **20/20** | |

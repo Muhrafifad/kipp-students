@@ -1,0 +1,114 @@
+---
+title: "Problem–Solution Interest Pitch"
+week: 7
+status: "Draft"
+self_score: "19/20"
+assessor_score: "—"
+description: "Problem–solution fit dan signal Interest."
+categories: [TAIDA, Interest]
+---
+
+## Kompetensi target
+
+Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan.
+
+## Evidence wajib
+
+- Attention evidence dan problem–solution link.
+- Interest pitch dengan evidence atau demonstration.
+- Response, state assessment, hidden concern, dan adaptation.
+
+::: {.callout-tip title="Lihat contoh pengisian"}
+[Buka contoh fiktif Minggu 7](../examples/week-07.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+:::
+
+{{< include ../includes/evidence-template.md >}}
+
+Nama Lengkap: Muhammad Rafi Fadillah
+NIM: 18225115
+Program Studi: Sistem dan Teknologi Informasi
+Tanggal Pengisian: 22 November 2026
+
+## 1. Konteks Performance
+
+**Tanggal dan setting:** Selasa, 13 Oktober 2026, pukul 16.00 WIB, di dekat saklar pompa (bawah tangga kos) sambil melihat kertas log yang sudah terisi satu minggu.
+**Persons dan relationship:** Saya (penghuni kos) dan Mas Ujang (penjaga kos). Kelanjutan dari W06: Mas Ujang sudah berada di *base* Attention dan ikut mencatat log pompa.
+**Objective dan initial state:** *Initial state:* Mas Ujang mengakui luapan air adalah masalah, tetapi belum tertarik pada solusi apa pun. *Objective:* Menghubungkan masalah yang sudah disepakati dengan mekanisme solusi yang masuk akal, lalu melihat apakah muncul rasa ingin tahu (*how*, *evidence*, *fit*), tanpa *feature dumping* dan tanpa menjanjikan hal yang belum terbukti.
+
+## 2. Evidence (Problem–Solution Link & Interest Pitch)
+
+**Attention evidence (hasil log 6–12 Oktober, dicatat bersama):**
+
+| Indikator | Hasil |
+| :--- | :--- |
+| Pompa dinyalakan | 9 kali |
+| Dinyalakan Mas Ujang | 5 kali (semua dimatikan sendiri) |
+| Dinyalakan penghuni | 4 kali |
+| Lupa dimatikan > 45 menit | 3 kali (semuanya oleh penghuni) |
+| Air luber ke lorong | 2 kali |
+
+Mas Ujang membaca log dan berkata, "Tuh kan, Mas. Kalau anak-anak yang nyalain, sering lupa." Ini menegaskan problem yang disepakati: **pompa tidak berhenti sendiri ketika tandon penuh, dan siapa pun bisa menyalakannya tanpa ada yang mengawasi.**
+
+**Draf pertama (gagal) — *feature dump*:**
+> "Mas, saya bisa bikin sistem pakai ESP32 sama sensor ultrasonik, nanti level air kelihatan di aplikasi HP, ada notifikasi, bisa dimatiin dari jauh juga."
+
+*Response:* "Waduh, Mas, saya mah HP aja jarang pegang. Aplikasi-aplikasi gitu saya nggak ngerti." Mas Ujang mundur ke posisi menolak. Saya mengulang kesalahan W04: memulai dari teknologi, bukan dari mekanisme yang relevan dengan situasinya.
+
+**Interest pitch hasil adaptasi (layered):**
+
+*Lapisan 1 — core mechanism:*
+> "Lupakan aplikasi, Mas. Karena masalahnya pompa nggak berhenti sendiri pas tandon penuh, ada alat pelampung listrik namanya *float switch*. Cara kerjanya mirip pelampung di tangki toilet: kalau air udah penuh, pelampungnya naik dan pompa mati sendiri. Jadi Mas nggak perlu naik ngecek atau ngepel lagi. Bagian mana yang mau Mas tahu lebih jauh?"
+
+*Mas Ujang (signal interest):* "Itu pasangnya di mana? Di tandon atas?"
+
+*Lapisan 2 — detail sesuai pertanyaan:* Saya menjelaskan pelampung dipasang di dalam tandon, kabelnya turun ke saklar pompa. Saya menunjukkan foto dan video pendek *float switch* yang terpasang di rumah teman kampus saya, Rian, serta harga di *marketplace* (sekitar Rp 60–90 ribu).
+
+*Mas Ujang (hidden concern muncul):* "Kalau otomatis gitu, nanti kalau rusak terus air nggak naik, saya yang disalahin Pak Darto nggak?"
+
+*Lapisan 3 — menjawab concern, bukan hanya kata-katanya:*
+> "Wajar Mas khawatir. Saklar manual yang sekarang tetap dipertahankan, jadi kalau pelampungnya macet Mas masih bisa nyalain pompa kayak biasa. Saya juga belum tahu alat ini cocok atau nggak buat tandon di sini, makanya nanti perlu dicoba dulu, bukan langsung dipasang permanen."
+
+*Mas Ujang:* "Oh, kalau saklarnya tetap ada sih aman. Terus kalau mati lampu gimana? Ngaruh nggak?"
+
+**State assessment:** Mas Ujang berpindah dari **Attention → Interest**. Evidence: ia mengajukan tiga pertanyaan *how* (lokasi pasang, risiko rusak, mati listrik) dan meminta melihat video dua kali. Ini **belum Desire**: ia belum menyatakan menginginkan alat itu, dan ia sendiri bilang "Tapi yang mutusin beli ya Pak Darto, Mas."
+
+**Hidden concern yang ditemukan:** di balik pertanyaan "kalau rusak gimana?" ada kekhawatiran disalahkan atasan dan kehilangan kendali atas pekerjaannya.
+
+**Feature → Benefit → Value untuk dua character:**
+
+| Feature | Benefit | Value bagi Mas Ujang | Value bagi Pak Darto |
+| :--- | :--- | :--- | :--- |
+| Pompa mati otomatis saat tandon penuh | Tidak ada luapan | Tidak perlu naik cek & mengepel | Air tidak terbuang, lantai tidak rusak |
+| Saklar manual tetap ada | Bisa *override* | Tetap memegang kendali, tidak disalahkan | Risiko alat gagal terkendali |
+| Komponen murah tanpa aplikasi | Mudah dirawat | Tidak perlu belajar HP | Biaya rendah |
+
+## 3. Analisis Komunikasi
+
+| Elemen | Evidence dan Analisis |
+| :--- | :--- |
+| **Person & Character** | Mas Ujang sebagai pelaksana yang tidak akrab dengan aplikasi dan bertanggung jawab kepada Pak Darto. Saya menyadari bahwa solusi berbasis HP mengabaikan *person* yang akan memakainya. |
+| **Objective & State** | Problem sudah disepakati lewat log bersama. *Objective* membangun Interest tercapai: muncul tiga pertanyaan *how*. Saya tidak memaksa ke Desire/Action karena authority ada pada Pak Darto. |
+| **Repertoire & Language** | Analogi pelampung toilet menggantikan istilah teknis. Informasi diberikan berlapis: hanya lapisan berikutnya yang dibuka ketika Mas Ujang bertanya. Bukti berupa video dan harga, bukan klaim. |
+| **Response & Adaptation** | Penolakan terhadap "aplikasi" membuat saya membuang solusi IoT sepenuhnya. Pertanyaan "kalau rusak?" dijawab pada level *concern* (kendali dan rasa aman), bukan level teknis. |
+| **Agreement/Action** | Kesepakatan kecil: Mas Ujang bersedia ikut menjelaskan hasil log kepada Pak Darto saat Pak Darto datang menagih uang kos awal November. |
+| **Relationship outcome** | Mas Ujang merasa didengar dan tetap memegang peran; ia sendiri menawarkan diri ikut bicara ke Pak Darto. |
+
+## 4. Penggunaan AI
+AI (Claude) dipakai sebagai *skeptical character* sebelum percakapan: saya meminta AI memerankan penjaga kos yang mengakui masalah tetapi skeptis terhadap solusi. Latihan itu membantu saya menyiapkan jawaban untuk risiko "kalau alat rusak". Saat menyusun portfolio, AI membantu merapikan tabel *feature–benefit–value*. Data log, foto, dan respons Mas Ujang tidak dibuat oleh AI; state nyata saya baca dari Mas Ujang, bukan dari simulasi.
+
+## 5. Feedback dan Tindak Lanjut
+
+**Feedback yang diterima:** "Saya mah HP aja jarang pegang" adalah *feedback* langsung bahwa solusi saya tidak cocok dengan *person*-nya. Pertanyaan "kalau rusak saya yang disalahin?" menunjukkan *concern* relasional, bukan teknis.
+**Adaptation/Replay:** Pitch diulang tanpa aplikasi, memakai analogi dan *layered communication*. Response setelah perubahan: Mas Ujang bertanya tiga kali dan meminta melihat video lagi.
+**Next practice:** Sebelum menyebut teknologi apa pun, saya wajib menyebut problem yang disepakati dalam satu kalimat, lalu menawarkan satu mekanisme saja dan menunggu pertanyaan.
+
+## 6. Self-Assessment
+
+| Dimensi | Skor | Evidence Singkat |
+| :--- | :--- | :--- |
+| **Person & Character** | 4 | Kebutuhan dan batas Mas Ujang (tidak akrab aplikasi, takut disalahkan) mengubah desain solusi. |
+| **Objective & State** | 4 | Perpindahan Attention → Interest dibuktikan lewat tiga pertanyaan *how*; tidak dipaksa ke Desire. |
+| **Repertoire, Language** | 4 | Analogi, video, dan informasi berlapis menggantikan *feature dump*. |
+| **Response & Adaptation** | 4 | Penolakan pertama dan *hidden concern* langsung direspons dengan perubahan solusi dan jaminan saklar manual. |
+| **Agreement, Action** | 3 | Ada kesepakatan kecil untuk bicara ke Pak Darto, tetapi belum ada keputusan karena authority bukan pada target. |
+| **Total** | 19/20 | Interest tercapai secara jujur; Action memang belum menjadi target minggu ini. |

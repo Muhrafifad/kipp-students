@@ -1,8 +1,8 @@
 ---
 title: "Capstone Performance Portfolio"
 week: 15
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "20/20"
 assessor_score: "—"
 description: "Integrated person-centered communication performance."
 categories: [Assessment, Capstone]
@@ -22,4 +22,152 @@ Mengintegrasikan person, character, objective, state, repertoire, language, resp
 [Buka contoh fiktif Minggu 15](../examples/week-15.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+Nama Lengkap: Muhammad Rafi Fadillah
+NIM: 18225115
+Program Studi: Sistem dan Teknologi Informasi
+Tanggal Pengisian: 22 November 2026
+
+## 1. Konteks Performance
+
+**Skenario capstone:** Nomor 2 dari slide Minggu 15, *Kebijakan penggunaan AI dalam tugas mahasiswa*.
+**Tanggal dan setting:** Minggu, 22 November 2026, pukul 15.00–16.30 WIB, di ruang tengah kos. Kelompok 5 orang mengikuti struktur slide: membaca skenario dan *hidden objective*, interaksi tanpa naskah penuh (Round 1, 12 menit), feedback observer, *replay* momen penentu (5 menit), lalu refleksi individu.
+**Peran saya:** Communicator/fasilitator, yaitu perwakilan angkatan yang diminta dosen menyusun usulan aturan AI untuk tugas mata kuliah.
+
+**Pembagian peran dan *hidden objective* (kartu dibagikan tertutup):**
+
+| Peran | Dimainkan oleh | Character | Objective terbuka | *Hidden objective/constraint* |
+| :--- | :--- | :--- | :--- | :--- |
+| Dosen pengampu | Dika (STI) | Pemegang otoritas aturan dan nilai | Integritas akademik terjaga | Sudah menemukan 3 laporan yang sangat mirip; tidak mau aturan yang sulit diawasi |
+| Asisten | Naufal (STI) | Pemeriksa tugas mingguan | Pemeriksaan tetap bisa dijalankan | Tidak punya alat deteksi AI yang andal; tidak mau dijadikan "polisi" |
+| Mahasiswa pengguna AI | Fajar (STI) | Memakai AI untuk *debug* dan merapikan bahasa | Tetap boleh memakai AI | Takut dicap curang karena bahasa Inggrisnya lemah |
+| Mahasiswa penolak AI | Raka (STI) | Mengerjakan semua sendiri | AI dilarang | Merasa tidak adil karena tidak mampu membayar AI versi berbayar |
+| Observer | Kevin (Aktuaria) | Pencatat evidence, bukan pemberi nilai | — | Mengisi observer sheet sesuai slide Minggu 15 |
+
+## 2. Person/Character/State Map & Performance Plan
+
+| Person | TAIDA awal (hipotesis saya) | Kebutuhan komunikasi | Rencana repertoire |
+| :--- | :--- | :--- | :--- |
+| Dosen | **Desire** (ingin aturan) | Kelayakan pengawasan dan otoritas tetap di tangannya | Opsi yang bisa diawasi; keputusan akhir di dosen |
+| Asisten | **Attention** | Tidak bertambah beban, tidak jadi polisi | Tanya batas kapasitas |
+| Fajar | **Interest** | Diakui bahwa penggunaan AI-nya sah | Parafrasa kebutuhan, bukan menilai |
+| Raka | **Attention** (menolak) | Rasa keadilan | Memberi ruang bicara pertama |
+
+**Rencana awal (hipotesis yang akan diuji):** Membuka dengan usulan "AI boleh asal dideklarasikan", karena menurut saya itu jalan tengah. **Hipotesis ini gagal di Round 1** (lihat bagian 3).
+
+## 3. Round 1 — Transcript dan Observer Feedback
+
+*Transkrip disalin dari rekaman suara HP (12 menit). Kode giliran R1-xx.*
+
+*   **R1-01 Saya:** "Oke, biar cepat, usul gua gini: AI boleh dipakai di semua tugas, asal dideklarasikan di akhir laporan. Gimana?"
+*   **R1-02 Raka:** *(menyilangkan tangan)* "Ya udah, terserah. Yang punya AI bagus menang terus." *(nada datar)*
+*   **R1-03 Dosen (Dika):** "Terus gimana saya tahu deklarasinya jujur?"
+*   **R1-04 Saya:** "Ya… kita percaya aja, Pak, mahasiswanya dewasa." *(defensif)*
+*   **R1-05 Asisten (Naufal):** "Berarti saya yang harus ngecek satu-satu? Saya nggak punya alatnya."
+*   **R1-06 Fajar:** "Gua setuju sama Rafi sih."
+*   **R1-07 Saya:** "Nah, Fajar setuju. Jadi kita sepakat ya?"
+*   **R1-08 Dosen:** "Belum. Saya belum setuju." *(menutup laptop)*
+
+**State setelah Round 1:** Raka **mundur** dari Attention ke penolakan diam. Dosen tetap di Desire tapi **tidak percaya** usulan saya. Asisten merasa bebannya diabaikan. Satu suara setuju (Fajar) hampir saya klaim sebagai kesepakatan, yaitu *false consensus*.
+
+**Observer sheet (Kevin):**
+
+| Item observer (slide W15) | Catatan Kevin |
+| :--- | :--- |
+| Satu asumsi yang diuji | "Tidak ada. Rafi langsung memakai asumsi 'jalan tengahnya deklarasi'." |
+| Hidden concern yang ditemukan | "Belum ada. Kekhawatiran Raka soal akses dan asisten soal alat muncul sendiri, tidak digali." |
+| Perubahan repertoire | "Tidak ada; Rafi mempertahankan usulan." |
+| Momen state bergerak/mundur | "**R1-01 → R1-02:** ketika usulan disampaikan sebelum siapa pun bicara, Raka langsung menyilangkan tangan." |
+| Commitment yang eksplisit | "R1-07 bukan kesepakatan, karena Dika jelas menolak di R1-08." |
+| Keadaan relasi di akhir | "Raka menarik diri; Dika menutup laptop." |
+
+**Feedback observer (format slide W08/W15):**
+> "Ketika lo bilang 'usul gua gini' di detik pertama (R1-01), Raka langsung nyilang tangan dan bilang 'terserah' (R1-02). Itu nunjukin state dia mundur karena dia ngerasa keputusannya udah dibikin tanpa dia. Pas replay, coba tanya kekhawatiran tiap orang dulu, mulai dari yang paling nolak, sebelum lo nyebut usulan apa pun."
+
+## 4. Replay — Momen Penentu (5 menit)
+
+*Mengulang dari awal pertemuan dengan satu perubahan perilaku: bertanya sebelum mengusulkan, mulai dari pihak yang paling menolak. Kode giliran RP-xx.*
+
+*   **RP-01 Saya:** "Sebelum ada usulan apa pun, gua mau dengar dulu. Raka, lu yang paling keberatan soal AI. Apa yang paling lu khawatirin kalau AI dibolehin?"
+*   **RP-02 Raka:** *(tangan masih bersedekap, lalu dilepas)* "Jujur, gua nggak punya yang berbayar. Yang punya bisa bikin laporan lebih rapi, nilainya lebih bagus. Itu nggak adil."
+*   **RP-03 Saya (parafrasa):** "Jadi yang lu persoalin bukan AI-nya, tapi **akses yang nggak sama**. Betul?"
+*   **RP-04 Raka:** "Iya, itu." *(mengangguk, mencondongkan badan ke depan)*
+*   **RP-05 Saya:** "Fajar, lu pakai AI buat apa aja?"
+*   **RP-06 Fajar:** "*Debug* sama benerin bahasa Inggris. Analisisnya tetap gua. Gua takut dicap curang padahal bahasa Inggris gua jelek."
+*   **RP-07 Saya:** "Mas asisten, dari sisi pemeriksaan, apa yang bisa dan nggak bisa dijalankan?"
+*   **RP-08 Asisten (Naufal):** "Saya nggak bisa deteksi AI. Tapi kalau asistensi, saya bisa nanya langsung, 'coba jelasin bagian ini'. Itu ketahuan kok kalau bukan dia yang bikin."
+*   **RP-09 Saya (merangkum common ground, lalu menyerahkan otoritas):** "Jadi yang kita cari: aturan yang adil soal akses, nggak bikin Fajar dicap curang, bisa diawasi tanpa alat deteksi, dan keputusan akhirnya di Bapak. Saya tawarkan tiga opsi untuk Bapak pilih." *(menyebut 3 opsi; lihat bagian 5)*
+*   **RP-10 Dosen (Dika):** "Opsi B masuk akal. Tanya lisan itu saya suka, karena saya tidak perlu alat. Tapi untuk ujian tetap tanpa AI."
+*   **RP-11 Raka:** "Gua masih lebih suka AI dilarang di tugas individu. Tapi kalau aksesnya disamain, gua bisa terima buat uji coba." *(**specific disagreement**)*
+*   **RP-12 Saya (uji *false consensus*):** "Mas asisten, Fajar, ada yang sebenarnya belum setuju?" — **Naufal:** "Setuju, asal tanya lisan maksimal tiga orang per minggu." — **Fajar:** "Setuju."
+
+**Perbandingan sebelum vs sesudah replay:**
+
+| Indikator | Round 1 | Replay |
+| :--- | :--- | :--- |
+| Pembuka | Usulan di detik pertama | Pertanyaan ke pihak yang paling menolak |
+| Hidden concern ditemukan | 0 | 3 (akses Raka, stigma Fajar, alat asisten) |
+| Raka | Menyilangkan tangan, "terserah" | Melepas tangan, mencondongkan badan, menyatakan dissent spesifik |
+| Dosen | Menutup laptop, "belum setuju" | Memilih opsi dan menambah syarat |
+| Klaim kesepakatan | *False consensus* (R1-07) | Diuji ke setiap orang (RP-12) |
+
+## 5. Agreement, Specific Disagreement & Action
+
+**Opsi yang ditawarkan di RP-09:**
+- **A.** AI dilarang di semua tugas.
+- **B.** AI boleh untuk *brainstorming*, *debugging*, dan perbaikan bahasa; **dilarang** untuk menulis analisis/jawaban inti; wajib deklarasi 3 baris; asisten memakai tanya lisan acak; dosen menunjukkan alat AI gratis yang setara agar akses adil.
+- **C.** AI bebas dengan deklarasi (usulan saya di Round 1).
+
+**Keputusan (oleh dosen, sesuai otoritas):** Opsi **B** sebagai **pilot satu tugas** (Tugas 3); ujian tetap tanpa AI.
+
+| SIAPA | APA | KAPAN | DEFINISI SELESAI |
+| :--- | :--- | :--- | :--- |
+| Dosen | Mengumumkan aturan pilot dan contoh deklarasi 3 baris | Sebelum Tugas 3 dibuka | Pengumuman terbit di Edunex |
+| Dosen | Menunjukkan satu alat AI gratis yang setara | Bersama pengumuman | Tautan alat tercantum di pengumuman |
+| Asisten | Tanya lisan 2 menit ke maksimal 3 mahasiswa acak per minggu | Selama Tugas 3 | Catatan siapa ditanya dan hasilnya |
+| Perwakilan angkatan (saya) | Menyebarkan aturan dan menampung keluhan | 3 hari setelah pengumuman | Rekap keluhan dikirim ke dosen |
+| **Review** | Evaluasi pilot | Setelah Tugas 3 dinilai | Keputusan lanjut/ubah/hentikan |
+
+**Specific disagreement yang dicatat:** Raka tetap lebih memilih larangan AI di tugas individu, tetapi menerima pilot dengan syarat akses disamakan. Dissent ini dibawa ke review, bukan dihapus.
+
+## 6. Relationship Outcome
+
+Di akhir replay, Raka berkata, *"Oke, minimal gua didengerin dulu."* Dika (sebagai dosen) menutup dengan *"Ini usulan yang bisa saya jalankan."* Naufal merasa bebannya dihitung. Fajar tidak lagi khawatir dicap curang. Sesi debrief selesai dengan tertawa ketika Kevin membacakan catatan "Rafi langsung jualan di detik pertama". Kritik itu diterima tanpa membuat suasana tegang.
+
+## 7. AI Critique (AI Judgment)
+
+| Pertanyaan wajib (slide W15) | Jawaban |
+| :--- | :--- |
+| Peran AI apa yang dipilih? | **Agreement reviewer** setelah performance (prompt slide W10): memeriksa transkrip replay untuk membedakan *wish/intention/commitment/agreement* serta mencari ambiguitas. |
+| Mengapa tidak lebih banyak atau lebih sedikit AI? | Tidak dipakai **saat** interaksi, karena membaca Raka dan dosen butuh kehadiran langsung. Dipakai **setelahnya** karena memeriksa ambiguitas transkrip adalah tugas berisiko rendah. |
+| Data dan otoritas yang diberikan? | Transkrip replay tanpa nama asli (Peran A–E). AI tidak diberi wewenang memutuskan apa pun. |
+| Apa yang direvisi manusia? | **Diterima:** AI menandai frasa "bantu perbaikan bahasa" ambigu (apakah parafrasa satu paragraf termasuk?), lalu kami tambahkan contoh di pengumuman. **Ditolak:** saran AI agar "AI dilarang total untuk mahasiswa yang pernah melanggar", karena itu penilaian nilai dan sanksi yang merupakan otoritas dosen, bukan rekomendasi AI. |
+| Siapa yang bertanggung jawab jika output salah? | Saya, sebagai penyusun usulan, dan dosen sebagai pengambil keputusan. |
+
+## 8. Refleksi Individu (slide W15)
+
+1. **Default lama saya:** dua sekaligus, yaitu langsung menawarkan solusi (terlihat di W03, W05, dan Round 1 capstone ini) dan menghindari konflik dengan diam (pola saya terhadap kakak laki-laki dan tubes PRD di W10).
+2. **Evidence perubahan saya:** Di replay, saya bertanya lebih dulu ke orang yang paling menolak dan menemukan tiga *hidden concern* yang tidak muncul di Round 1. Di W11 dan W12, saya membuat ketidaksetujuan menjadi spesifik dan mencatatnya, bukan diam atau memaksakan "semua setuju".
+3. **Character communicator yang ingin saya bangun:** Fasilitator yang **berani mengangkat ketidaksetujuan** dan **sabar menahan solusi** sampai semua orang terdengar.
+4. **Satu relationship habit saya:** Setiap kali ada yang diam dalam keputusan kelompok, saya tanya langsung secara pribadi sebelum menganggapnya setuju, seperti ke Yusuf (W11), Bu Siti (W12), dan Rizky (W14).
+5. **Aturan pribadi saya untuk AI:** AI boleh membantu sebelum dan sesudah percakapan (menyusun draf, memeriksa ambiguitas), tetapi **tidak pernah** menggantikan saya dalam percakapan zona merah: konflik, permintaan maaf, dan menindaklanjuti orang yang diam.
+
+## 9. Penggunaan AI
+
+Simulasi Capstone Round 1, pemberian umpan balik observer, dan pelaksanaan Replay dilakukan secara tatap muka tanpa bantuan AI. Sesuai dengan bagian AI Critique di atas, AI (Claude) hanya dilibatkan setelah simulasi selesai sebagai agreement reviewer untuk mengaudit potensi ambiguitas bahasa pada rancangan aturan pilot AI (khususnya definisi batas "perbaikan bahasa") serta membantu merapikan struktur tabel perbandingan sebelum dan sesudah replay.
+
+## 10. Feedback dan Tindak Lanjut
+
+**Feedback yang diterima:** Observer sheet Kevin tentang momen R1-01 → R1-02, dan komentar Raka, *"Minimal gua didengerin dulu."*
+**Adaptation/Replay:** Pembuka diganti dari usulan menjadi pertanyaan ke pihak yang paling menolak. Perubahannya terlihat pada perilaku Raka (melepas tangan, mencondongkan badan) dan pada keputusan dosen.
+**Next practice commitment:** Di setiap rapat kelompok atau forum sampai akhir semester, saya **tidak menyebut usulan apa pun sebelum minimal dua pihak menyampaikan kekhawatirannya**, dan saya mengakhiri setiap keputusan dengan uji *false consensus* ("ada yang sebenarnya belum setuju?").
+
+## 11. Self-Assessment (Universal Final Rubric)
+
+| Dimensi | Skor | Evidence Singkat |
+| :--- | :---: | :--- |
+| **Person & Character Recognition** | 4 | Empat person dengan *hidden objective* dan ketimpangan *power* (dosen vs mahasiswa) dibaca; otoritas dosen dihormati. |
+| **Objective & State Recognition** | 4 | Kemunduran state di Round 1 diakui; perpindahan state di replay dibuktikan dengan sinyal nonverbal dan verbal. |
+| **Repertoire, Language & AI Use** | 4 | Repertoire berubah dari mengusulkan ke bertanya dan memparafrasa; AI dipakai proporsional dengan revisi yang terdokumentasi. |
+| **Response, Listening & Adaptation** | 4 | Feedback observer tentang momen penentu langsung mengubah perilaku di replay, dengan perbandingan yang terukur. |
+| **Agreement, Action & Relationship** | 4 | Pilot dengan pemilik tugas dan review; dissent spesifik dicatat; relasi pulih setelah Round 1. |
+| **Total** | **20/20** | |

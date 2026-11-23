@@ -1,8 +1,8 @@
 ---
 title: "Target–Attention Challenge"
 week: 6
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "20/20"
 assessor_score: "—"
 description: "Target map, attention pitch, response, dan state assessment."
 categories: [TAIDA, Attention]
@@ -22,4 +22,145 @@ Memilih target person yang tepat dan membuat issue diakui relevan melalui eviden
 [Buka contoh fiktif Minggu 6](../examples/week-06.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+Nama Lengkap: Muhammad Rafi Fadillah
+NIM: 18225115
+Program Studi: Sistem dan Teknologi Informasi
+Tanggal Pengisian: 21 November 2026
+
+## 1. Konteks Performance
+
+**Tanggal dan setting:** Pengamatan dilakukan Senin, 9 dan 16 November 2026, pukul 07.20–07.55 WIB di kios fotokopi depan gedung kuliah, tempat sebagian besar mahasiswa STI mencetak laporan praktikum sebelum kelas pukul 08.00. Simulasi pitch 90 detik dilakukan Kamis, 19 November 2026, pukul 20.30 WIB di kos bersama tiga rekan sejurusan.
+**Persons dan relationship:** Saya (mahasiswa STI, pengguna kios hampir setiap Senin). Tiga pihak sasaran: Dika (rekan sekelas, pengguna), Mas Andi (penjaga kios yang melayani sendirian di pagi hari, pelaksana), dan Pak Harun (pemilik kios, pengambil keputusan). Saya kenal Mas Andi karena sering mencetak di sana, sedangkan Pak Harun hanya pernah saya temui beberapa kali di siang hari.
+**Objective dan initial state:** *Objective:* membuat masalah antrean Senin pagi **diakui relevan** oleh tiap pihak dengan bahasanya masing-masing, **bukan** menawarkan solusi. *Asumsi awal saya:* masalahnya ada di kecepatan printer, jadi solusinya "tambah printer" atau "bikin aplikasi antrean". Sesuai pelajaran W05, asumsi ini sengaja saya tahan dan saya uji lewat respons target.
+
+## 2. Masalah Kampus (Langkah 1)
+
+**Draf masalah kampus (satu kalimat, berbasis fakta):** Pada dua Senin terakhir (9 dan 16 November 2026), antrean pengambilan cetak di kios fotokopi depan gedung kuliah mencapai 14 dan 17 orang antara pukul 07.30–07.50, dengan waktu tunggu sekitar 20 menit, dan tiga mahasiswa kelas saya masuk praktikum terlambat.
+
+**Evidence yang saya kumpulkan:**
+
+| Tanggal | Jumlah antrean (puncak) | Waktu tunggu saya | Catatan observasi |
+| :--- | :---: | :---: | :--- |
+| Senin, 9 Nov | 14 orang | ±18 menit | Mas Andi melayani sendirian; beberapa orang bertanya "punya saya udah, Mas?" |
+| Senin, 16 Nov | 17 orang | ±22 menit | Mas Andi menggulir chat WA cukup lama untuk mencari file; 3 orang pindah ke kios lain |
+
+*Batas evidence:* Data hanya dua hari, dihitung manual oleh saya, dan hanya di jam puncak Senin. Saya belum tahu kondisi hari lain.
+
+## 3. Peta Tiga Pihak Sasaran (Langkah 2)
+
+| Dimensi Analisis | Pihak 1: Pengguna | Pihak 2: Pelaksana | Pihak 3: Pengambil Keputusan |
+| :--- | :--- | :--- | :--- |
+| **Siapa perannya?** | **Dika**, mahasiswa STI sekelas, mencetak laporan praktikum setiap Senin | **Mas Andi**, penjaga kios, melayani sendirian pukul 07.00–09.00 | **Pak Harun**, pemilik kios, mengatur jam kerja karyawan dan pengeluaran |
+| **Apa tujuannya?** | Laporan tercetak sebelum 08.00 tanpa telat praktikum | Melayani cepat tanpa salah cetak dan tanpa ditegur pemilik | Pelanggan tetap kembali dan kios tidak rugi |
+| **Hambatan utamanya?** | Laporan sering baru selesai malam sebelumnya; tidak punya printer di kos | **Tenaga** (sendirian), file datang lewat WA dan *flashdisk* campur aduk | **Biaya** (menambah karyawan pagi = gaji tambahan); tidak berada di kios saat jam sibuk |
+| **Keadaan TAIDA awal** | Sadar, sering mengeluh di grup kelas, tapi pasrah ("emang gitu tiap Senin") | Sadar kewalahan, tapi menganggapnya biasa | **Belum sadar**, karena tidak pernah melihat antrean pagi |
+
+**Alasan memilih satu target utama: Mas Andi (pelaksana).** Ia yang paling dekat dengan masalah, mengalaminya langsung setiap Senin, dan bisa **membenarkan atau mengoreksi** pembacaan saya tentang penyebab antrean. Kalau saya langsung mendatangi Pak Harun, saya berisiko menyampaikan penyebab yang salah dan membuat Mas Andi terlihat "dilaporkan". Dika penting, tapi tidak punya pengaruh atas proses kios.
+
+## 4. Tiga Pitch Perhatian (Langkah 3)
+
+**Pitch untuk Pihak 1: Pengguna (Dika)** *(Versi Masalah, fokus waktu dan kepastian)*
+> "Dik, dua Senin terakhir gua hitung antrean fotokopi depan gedung jam 07.30 sampai 14 dan 17 orang, nunggu sekitar 20 menit. Minggu lalu lu telat masuk praktikum gara-gara itu. Lu juga ngerasa ini masalah tiap Senin nggak?"
+
+**Jumlah kata: 37 kata** ✓ *(Observasi → Dampak → Periksa)*
+
+**Pitch untuk Pihak 2: Pelaksana (Mas Andi)** *(Versi Masalah, fokus beban kerja harian)*
+> "Mas, Senin pagi kemarin antrean di sini sampai 17 orang, dan banyak yang nanya 'punya saya udah, Mas?' sambil Mas nyari file di WA. Kayaknya itu bikin kerja Mas dobel. Bener nggak, Mas, pagi itu yang paling berat?"
+
+**Jumlah kata: 38 kata** ✓ *(Observasi → Dampak → Periksa)*
+
+**Pitch untuk Pihak 3: Pengambil Keputusan (Pak Harun)** *(Versi Peluang, fokus pelanggan dan biaya)*
+> "Pak, setiap Senin jam 07.30 ada sekitar 15 mahasiswa antre cetak laporan di kios Bapak, dan minggu lalu saya lihat tiga orang pindah ke kios lain karena takut telat. Ada peluang menahan pelanggan itu tanpa tambah karyawan. Apakah layak kita bahas, Pak?"
+
+**Jumlah kata: 42 kata** ✓ *(Keadaan Sekarang → Kemungkinan → Periksa)*
+
+Tidak ada satu pun pitch yang menyebut aplikasi, printer baru, atau teknologi. Ketiganya berhenti di pertanyaan periksa yang netral.
+
+## 5. Simulasi Lapangan 90 Detik & Evidence Response (Langkah 4)
+
+Simulasi dilakukan berpasangan dengan tiga rekan STI di kos. Masing-masing memerankan satu pihak sasaran berdasarkan profil di tabel Langkah 2: **Fajar** sebagai Dika, **Dika** sebagai Mas Andi (karena ia paling sering antre dan paling hafal situasinya), dan **Naufal** sebagai Pak Harun. Sebelum mulai, saya meminta izin singkat: "Gua latihan pitch 90 detik ya, lu jadi [peran], jawab sejujurnya, boleh nolak."
+
+**Transkrip simulasi target utama (Dika sebagai Mas Andi):**
+
+*   **Saya:** *(menyampaikan pitch Pelaksana)*
+*   **"Mas Andi":** "Ya mau gimana, Mas, anak-anak ngirim file mepet semua. Printer saya cuma dua, nggak bisa lebih cepet." *(bersedekap, nada agak defensif)*
+*   **Saya (membaca sinyal defensif, tidak mendebat):** "Iya, Mas, saya nggak bilang Mas lambat kok. Saya cuma penasaran, dari jam tujuh sampai jam delapan itu bagian yang paling makan waktu yang mana, Mas?" *(Pertanyaan Penemuan)*
+*   **"Mas Andi":** "Sebenernya nge-print-nya cepet. Yang lama tuh nyari file-nya. Di WA namanya 'laporan fix', 'laporan fix banget', 'tugas'. Saya harus buka satu-satu, nanya ini punya siapa." *(tangan dilepas, mulai menunjuk-nunjuk seperti memegang HP)*
+*   **Saya (Parafrasa):** "Oh, jadi yang bikin antre bukan printernya, tapi nyocokin file sama orangnya ya, Mas?"
+*   **"Mas Andi":** "Nah, itu. Kalau nama file-nya jelas, saya tinggal klik."
+*   **Saya (Adaptasi, kembali ke Attention, belum ke solusi):** "Kalau gitu saya nggak mau buru-buru kasih saran. Boleh nggak Senin depan saya catat berapa file yang namanya nggak jelas, terus saya ceritain lagi ke Mas?"
+*   **"Mas Andi":** "Boleh, Mas. Biar ketahuan juga bukan saya yang lelet."
+
+**Pitch yang saya revisi setelah koreksi (untuk percakapan berikutnya dengan Mas Andi, 36 kata):**
+> "Mas, kemarin Mas bilang yang paling makan waktu itu nyari file di chat, bukan nge-print-nya. Saya juga lihat sendiri tiga orang ngirim file namanya laporan fix. Kalau soal nyari file itu, menurut Mas memang perlu dibenahi?"
+
+**Ringkasan simulasi dua pihak lainnya:**
+- **Fajar sebagai Dika (pengguna):** langsung mengangguk dan menambahkan pengalaman: *"Iya anjir, gua juga pernah nunggu sampai 08.05."* Ini **Attention** karena target menambahkan pengalamannya sendiri.
+- **Naufal sebagai Pak Harun (pengambil keputusan):** *"Tiga orang pindah itu kamu yakin karena antre? Bisa aja karena harganya."* Target **mengoreksi evidence** saya. Saya mengakui: "Betul, Pak, itu baru dugaan saya dari obrolan mereka di antrean, belum saya tanya langsung." Respons Naufal melunak: *"Ya udah, coba kamu pastiin dulu."*
+
+**State setelah pitch (target utama):** dari *sadar tapi menganggap biasa* menjadi **Attention dengan koreksi penyebab**. Signal yang teramati: Mas Andi mengakui beban pagi, **mengoreksi** asumsi saya (penyebabnya pencarian file, bukan kecepatan printer), dan **menambahkan** detail yang tidak saya ketahui (nama file "laporan fix"). Ia belum sampai Interest karena belum bertanya soal solusi apa pun.
+
+**Micro-agreement:** Saya mencatat jumlah file bernama tidak jelas pada Senin, 23 November 2026, lalu menyampaikannya ke Mas Andi.
+
+## 6. Catatan Umpan Balik Rekan (Peer Feedback Sheet)
+
+**Rekan 1, Fajar (untuk Pitch Pengguna):**
+> "Ketika lo nyebut 'minggu lalu lu telat masuk praktikum', gua langsung ngangguk dan nyela ceritain pengalaman gua sendiri. Itu nunjukin perhatian gua kebangun karena contohnya personal banget ke gua. Gua saranin bagian angka 14 dan 17 disebut sekali aja, karena dua angka bikin gua mikir dulu."
+
+**Rekan 2, Dika (untuk Pitch Pelaksana):**
+> "Ketika lo bilang 'nyari file di WA', gua sebagai Mas Andi langsung bersedekap karena kedengarannya kayak gua yang lelet. Itu nunjukin perhatian gua awalnya terganggu karena gua merasa dinilai. Tapi pas lo nanya 'bagian yang paling makan waktu yang mana', gua jadi mau cerita. Gua saranin pertanyaannya ditaruh lebih awal, sebelum observasi soal file."
+
+**Rekan 3, Naufal (untuk Pitch Pengambil Keputusan):**
+> "Ketika lo bilang 'tiga orang pindah ke kios lain karena takut telat', gua langsung curiga dan nanya balik soal harga. Itu nunjukin perhatian gua kebangun tapi gua bingung karena klaimnya lebih besar dari buktinya. Gua saranin lo bilang 'yang saya dengar' atau tanya langsung dulu ke yang pindah."
+
+## 7. Refleksi Mandiri (Langkah 5)
+
+**Analisis respons:** Isyarat paling jelas bahwa perhatian sudah diperoleh adalah ketika target **mulai mengoreksi atau menambahkan cerita**, bukan ketika ia diam mengangguk. Mas Andi melepas tangan yang bersedekap dan mulai memeragakan cara ia menggulir chat. Fajar menyela dengan pengalaman telatnya sendiri.
+
+**Koreksi asumsi:** Asumsi awal saya bahwa antrean disebabkan printer yang lambat **terbukti keliru**. Penyebab utamanya adalah proses mencocokkan file dengan pemiliknya. Kalau sejak awal saya datang membawa ide "tambah printer" atau "aplikasi antrean", saya akan berada di *base* yang salah dan membuat Mas Andi defensif. Asumsi kedua yang dikoreksi Naufal: klaim "pindah karena takut telat" ternyata belum berbukti.
+
+**Pelajaran etika:** Saya memastikan pitch tidak menakut-nakuti (tidak ada kalimat "nanti kiosnya bangkrut") dan selalu ditutup dengan pertanyaan yang memberi ruang untuk menjawab "tidak". Ketika Mas Andi defensif, saya tidak memaksakan bahwa observasi saya benar, tetapi bertanya dan mendengar. Saya juga mengakui klaim yang terlalu besar di depan "Pak Harun" alih-alih mempertahankannya.
+
+## 8. Analisis Komunikasi
+
+| Elemen | Evidence dan Analisis |
+| :--- | :--- |
+| **Person & Character** | Tiga pihak dipetakan sampai hambatan dan TAIDA awal masing-masing. Target utama dipilih berdasarkan kedekatan dengan masalah dan risiko relasi (agar Mas Andi tidak merasa dilaporkan ke pemilik), bukan berdasarkan siapa yang paling berkuasa. |
+| **Objective & State** | Objective dibatasi pada Attention. State tiap pihak dibaca dari respons teramati: Fajar menambahkan pengalaman (Attention), Mas Andi mengoreksi penyebab (Attention dengan koreksi), dan Naufal mengoreksi evidence (Attention bersyarat bukti). |
+| **Repertoire & Language** | Satu masalah disampaikan dengan tiga bahasa: waktu dan telat untuk pengguna, beban kerja untuk pelaksana, pelanggan dan biaya untuk pemilik. Semua ≤45 kata, berbasis observasi, dan diakhiri pertanyaan periksa netral. |
+| **Response & Adaptation** | Sinyal defensif (bersedekap, "printer saya cuma dua") dibaca sebagai kekhawatiran dinilai, lalu saya beralih ke pertanyaan penemuan. Hasilnya penyebab baru terungkap, dan pitch pelaksana direvisi berdasarkan koreksi tersebut. |
+| **Agreement/Action** | Micro-agreement eksplisit: saya mencatat file bernama tidak jelas pada Senin, 23 November, lalu menyampaikannya ke Mas Andi. |
+| **Relationship outcome** | "Mas Andi" menutup dengan "biar ketahuan bukan saya yang lelet". Ia merasa dibela, bukan diawasi, sehingga percakapan berikutnya tetap terbuka. |
+
+
+## 9. Penggunaan AI
+
+Observasi lapangan di kios fotokopi (9 dan 16 November 2026) serta simulasi *pitch* 90 detik bersama , Dika, dan Naufal dilakukan secara langsung tanpa melibatkan AI. AI (Claude) hanya digunakan setelah sesi selesai untuk membantu merapikan catatan lapangan ke dalam struktur tabel Diagnosis Matrix, menghitung batas maksimal 45 kata pada ketiga draf *pitch*, serta menguji apakah kalimat pembuka saya masih mengandung asumsi tersembunyi. Beberapa saran kalimat dari AI yang terdengar terlalu formal untuk penjaga kios saya tolak dan saya ubah sendiri agar sesuai dengan gaya bicara sehari-hari kepada Mas Andi.
+
+## 10. Feedback dan Tindak Lanjut
+
+**Feedback yang diterima:** Masukan Dika bahwa observasi "nyari file di WA" terdengar seperti menyalahkan, dan bahwa pertanyaan penemuan sebaiknya muncul lebih awal.
+**Adaptation/Replay:** Pitch pelaksana direvisi agar dimulai dari kata-kata Mas Andi sendiri ("kemarin Mas bilang yang paling makan waktu itu nyari file") sehingga observasinya menjadi milik bersama, bukan penilaian dari saya.
+**Next practice:** Setiap klaim tentang alasan orang lain (misalnya "pindah karena takut telat") saya beri penanda sumber ("yang saya dengar…") atau saya konfirmasi dulu sebelum masuk ke pitch.
+
+## 11. Self-Assessment
+
+**Rubrik LK-06:**
+
+| Kriteria | Skor | Evidence Singkat |
+| :--- | :---: | :--- |
+| **Ketepatan Sasaran** | 4 | Tiga pihak dipetakan sampai riwayat relasi dan TAIDA awal; target utama dipilih dengan alasan relasional. |
+| **Kualitas Pembuka (Pitch)** | 4 | Tiga pitch 37/38/42 kata, berbasis observasi terukur, bahasa disesuaikan per pihak, ditutup pertanyaan netral. |
+| **Membaca Respons & Adaptasi** | 4 | Sinyal defensif dibaca, penyebab baru digali dengan parafrasa (*closed loop*), pitch direvisi. |
+| **Etika Komunikasi** | 4 | Tidak menakut-nakuti; klaim berlebihan diakui; jawaban "tidak" diberi ruang. |
+
+**Rubrik universal:**
+
+| Dimensi | Skor | Evidence Singkat |
+| :--- | :---: | :--- |
+| **Person & Character** | 4 | Membaca perbedaan *role*, *power*, dan risiko relasi antara pelaksana dan pemilik. |
+| **Objective & State** | 4 | State tiga pihak dibaca terpisah dari respons masing-masing, termasuk ketidakpastian evidence. |
+| **Repertoire, Language & AI** | 4 | Satu masalah, tiga bahasa, semua ≤45 kata dan tanpa fitur. |
+| **Response & Adaptation** | 4 | Koreksi penyebab dan koreksi evidence langsung mengubah langkah dan pitch berikutnya. |
+| **Agreement, Action & Relationship** | 4 | Micro-agreement bertanggal dan relasi dengan pelaksana terjaga. |
+| **Total** | **20/20** | |

@@ -1,0 +1,111 @@
+---
+title: "Desire-State Communication"
+week: 9
+status: "Draft"
+self_score: "19/20"
+assessor_score: "—"
+description: "Current state, desired state, value, evidence, dan risk."
+categories: [TAIDA, Desire]
+---
+
+## Kompetensi target
+
+Membangun desired state bersama target dan menghubungkannya dengan solution secara kredibel.
+
+## Evidence wajib
+
+- Current dan desired state milik person.
+- Feature–benefit–value–outcome chain.
+- Risk, evidence threshold, response, dan adaptation.
+
+::: {.callout-tip title="Lihat contoh pengisian"}
+[Buka contoh fiktif Minggu 9](../examples/week-09.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+:::
+
+{{< include ../includes/evidence-template.md >}}
+
+Nama Lengkap: Muhammad Rafi Fadillah
+NIM: 18225115
+Program Studi: Sistem dan Teknologi Informasi
+Tanggal Pengisian: 22 November 2026
+
+## 1. Konteks Performance
+
+**Tanggal dan setting:** Minggu, 1 November 2026, pukul 10.00 WIB, di ruang tamu kos ketika Pak Darto datang menagih uang kos bulanan. Durasi percakapan sekitar 20 menit.
+**Persons dan relationship:** Saya (penghuni kos, sudah tinggal lebih dari satu tahun), Pak Darto (pemilik kos, ±55 tahun, pemegang keputusan dan anggaran), dan Mas Ujang (penjaga kos yang ikut menjelaskan log). Relasi saya dengan Pak Darto sopan dan formal; saya penyewa, bukan konsultan.
+**Objective dan initial state:** *Initial state:* Mas Ujang sudah di Interest (W07). Pak Darto baru mendengar soal luapan air dan belum tahu ada usulan alat. *Objective:* Membantu Pak Darto melihat *current state* dan menyusun sendiri *desired state*-nya, lalu menghubungkannya dengan solusi secara kredibel, termasuk risiko, tanpa *overpromise* atau urgensi palsu.
+
+## 2. Evidence (Current State, Desired State, dan Pitch)
+
+**Pembuka (Attention → Interest singkat):** Mas Ujang menunjukkan kertas log 6–12 Oktober (9 kali pompa menyala, 3 kali lupa dimatikan, 2 kali luber). Pak Darto: "Oh, pantes tagihan PDAM bulan kemarin naik. Saya kira ada keran bocor." Ia lalu bertanya, "Terus alatnya gimana itu, Mas Rafi?" (signal Interest).
+
+**Kesalahan awal — overpromise:**
+> "Pak, kalau pakai *float switch*, tagihan air bisa hemat sampai 30%."
+
+*Pak Darto:* "30 persen itu dari mana, Mas? Kamu sudah hitung?"
+*Saya (mengakui dan mencabut klaim):* "Mohon maaf Pak, itu saya belum hitung. Yang pasti cuma dari log: ada tiga kali pompa lupa dimatikan lebih dari 45 menit dalam seminggu. Berapa hematnya belum bisa saya pastikan."
+*Pak Darto:* "Nah, gitu lebih enak. Saya lebih percaya yang ada catatannya."
+
+**Future-state interview (pertanyaan yang saya pakai dan jawabannya):**
+
+| Pertanyaan | Jawaban Pak Darto (ringkasan) |
+| :--- | :--- |
+| "Kalau luapan ini berkurang, apa yang paling Bapak rasakan bedanya?" | "Saya nggak ditelepon anak kos soal lorong basah. Plafon lantai bawah juga nggak rembes lagi." |
+| "Dari semua itu, yang paling penting buat Bapak yang mana?" | "Plafon. Tahun lalu saya sudah ganti plafon kamar 1B gara-gara rembesan, mahal." |
+| "Apa yang tidak boleh hilang kalau ada alat baru?" | "Pompa tetap bisa dinyalakan manual. Jangan sampai air mati satu kos gara-gara alat." |
+| "Siapa lagi yang kena dampaknya?" | "Ujang. Dia yang ngepel. Sama anak-anak lantai dua." |
+| "Bukti apa yang bikin Bapak yakin alat ini cocok?" | "Saya mau lihat dulu jalan beberapa minggu, sama yang masang harus tukang listrik langganan saya, Pak Rudi." |
+
+**Current State → Gap → Desired State (milik Pak Darto):**
+
+| Current state | Gap (biaya/friction) | Desired state | Must-keep conditions |
+| :--- | :--- | :--- | :--- |
+| Pompa manual, siapa pun bisa menyalakan, tidak berhenti sendiri | Air terbuang, lorong basah, risiko plafon rembes (pernah terjadi), Mas Ujang mengepel berulang | Tidak ada luapan; tidak ada telepon keluhan; plafon aman | Saklar manual tetap ada; dipasang tukang listrik langganan; biaya kecil; diuji dulu |
+
+**Feature → Benefit → Value → Outcome:**
+
+| Feature | Benefit | Value (bagi Pak Darto) | Outcome (perlu divalidasi) |
+| :--- | :--- | :--- | :--- |
+| Pelampung otomatis mematikan pompa saat tandon penuh | Air tidak meluap | Plafon terlindungi dari rembesan | Tidak ada biaya perbaikan plafon tambahan |
+| Saklar manual dipertahankan | Bisa *override* | Air tidak mati total jika alat gagal | Penghuni tetap terlayani |
+| Dipasang tukang langganan | Instalasi sesuai standar | Rasa aman soal listrik | Pak Darto tetap memegang kendali instalasi |
+
+**Desire pitch (setelah interview):**
+> "Kalau pelampung ini bekerja di tandon kita, yang tadinya bisa luber tiga kali seminggu bisa jadi pompa mati sendiri pas penuh, dan yang Bapak khawatirkan soal plafon bisa berkurang. Saklar manual tetap ada. Yang belum saya tahu: apakah ukuran tandon dan posisi kabel di sini cocok. Bagian mana yang paling perlu dibuktikan dulu menurut Bapak?"
+
+**Risiko yang dibahas terbuka:** pelampung bisa tersangkut atau macet; kabel di atap terkena hujan; tagihan belum tentu turun signifikan; jika tidak cocok, uang Rp 60–90 ribu terbuang.
+
+**Response dan state assessment:**
+*Pak Darto:* "Kalau memang nggak ada lagi air luber dan plafon aman, saya mau. Tapi biar Pak Rudi yang lihat dulu cocoknya, terus dicoba dulu jangan langsung permanen."
+State: **Interest → Desire dengan syarat**. Evidence: ia menyatakan menginginkan *outcome* untuk situasinya ("saya mau"), menyebut prioritas pribadinya (plafon), dan menetapkan *evidence threshold* (dilihat Pak Rudi, dicoba dulu). Ini **belum Action**: belum ada keputusan anggaran, waktu, atau pembagian tugas.
+
+## 3. Analisis Komunikasi
+
+| Elemen | Evidence dan Analisis |
+| :--- | :--- |
+| **Person & Character** | Pak Darto sebagai pemilik yang pernah rugi karena plafon rembes dan lebih percaya catatan daripada janji. Mas Ujang dilibatkan sebagai pemilik data log, sehingga evidence tidak terdengar seperti klaim saya saja. |
+| **Objective & State** | *Desired state* tidak saya tentukan; ia muncul dari jawaban Pak Darto (plafon, bukan tagihan). State bergerak ke Desire dengan syarat yang jelas, dan saya tidak memaksa ke Action. |
+| **Repertoire & Language** | Bahasa formal-sopan, pertanyaan *future-state* terbuka, dan rantai *feature–benefit–value–outcome* yang disesuaikan dengan prioritas Pak Darto. Ketidakpastian (kecocokan tandon) disebut di dalam pitch. |
+| **Response & Adaptation** | Tantangan "30 persen dari mana?" saya respons dengan mencabut klaim dan kembali ke data log. Response Pak Darto ("gitu lebih enak") menunjukkan *trust* naik setelah koreksi. |
+| **Agreement/Action** | Muncul syarat yang menjadi bahan Week 10: Pak Rudi harus menilai dulu dan alat harus diuji sementara. |
+| **Relationship outcome** | Pak Darto melihat saya sebagai penghuni yang jujur soal batas pengetahuan, bukan "anak IT yang jualan alat". Mas Ujang mendapat pengakuan atas kerja mengepelnya. |
+
+## 4. Penggunaan AI
+Sebelum bertemu Pak Darto, saya memakai AI (Claude) sebagai *outcome critic*: saya menempelkan draf pitch dan meminta AI memisahkan *feature, benefit, value, outcome* serta menandai *overpromise*. AI sebenarnya sudah menandai klaim "hemat 30%" sebagai tidak berdasar, tetapi saya tetap terlanjur mengucapkannya secara spontan; ini menjadi pelajaran bahwa catatan AI harus benar-benar saya latih, bukan hanya dibaca. AI juga membantu merapikan tabel portfolio ini. Nama dan data pribadi Pak Darto tidak dimasukkan ke AI.
+
+## 5. Feedback dan Tindak Lanjut
+
+**Feedback yang diterima:** "30 persen itu dari mana, Mas? Kamu sudah hitung?" adalah koreksi langsung terhadap *overpromise*. Jawaban soal plafon menunjukkan bahwa nilai yang saya kira penting (tagihan) bukan nilai utama Pak Darto.
+**Adaptation/Replay:** Saya mencabut angka 30%, kembali ke data log, lalu mengganti pitch agar berpusat pada plafon dan saklar manual. Response sesudahnya: Pak Darto menyatakan "saya mau" dengan syarat uji coba.
+**Next practice:** Setiap angka yang saya ucapkan harus punya sumber yang bisa saya tunjukkan; jika tidak ada, saya katakan "belum tahu" sejak awal.
+
+## 6. Self-Assessment
+
+| Dimensi | Skor | Evidence Singkat |
+| :--- | :--- | :--- |
+| **Person & Character** | 4 | Prioritas personal Pak Darto (plafon) dan peran Mas Ujang sebagai pemilik data dikenali. |
+| **Objective & State** | 4 | *Current* dan *desired state* disusun dari jawaban target; Desire bersyarat dibedakan dari Action. |
+| **Repertoire, Language** | 3 | Rantai nilai dan risiko lengkap, tetapi sempat ada *overpromise* 30% sebelum dikoreksi. |
+| **Response & Adaptation** | 4 | Klaim dicabut setelah ditantang, pitch dibangun ulang sesuai nilai target. |
+| **Agreement, Action** | 4 | *Evidence threshold* dan *must-keep conditions* disepakati sebagai dasar langkah berikutnya. |
+| **Total** | 19/20 | Desire menjadi milik target; kelemahan pada klaim angka yang sempat keluar tanpa data. |

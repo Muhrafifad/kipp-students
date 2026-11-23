@@ -1,8 +1,8 @@
 ---
 title: "Desire-State Communication"
 week: 9
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "20/20"
 assessor_score: "—"
 description: "Current state, desired state, value, evidence, dan risk."
 categories: [TAIDA, Desire]
@@ -22,4 +22,138 @@ Membangun desired state bersama target dan menghubungkannya dengan solution seca
 [Buka contoh fiktif Minggu 9](../examples/week-09.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+Nama Lengkap: Muhammad Rafi Fadillah
+NIM: 18225115
+Program Studi: Sistem dan Teknologi Informasi
+Tanggal Pengisian: 22 November 2026
+
+## 1. Konteks Performance
+
+**Tanggal dan setting:** Minggu, 22 November 2026, pukul 19.30 WIB, simulasi demonstrasi 5 menit di ruang tengah kos sesuai alur LK-09. Rekan berperan sebagai sasaran profesional yang skeptis tetapi membutuhkan solusi.
+**Persons dan relationship:** Saya (komunikator, mahasiswa STI, pelanggan tetap kios). Sasaran: **Pak Harun**, pemilik kios fotokopi depan gedung kuliah (pengambil keputusan dari W06), diperankan oleh **Naufal** (teman kos, STI), yang juga memerankannya di W06 sehingga karakternya konsisten. **Dika** menjadi pengamat dan mengisi lembar evaluasi.
+**Objective dan initial state:** Lanjutan W06. Mas Andi (pelaksana) sudah mengoreksi penyebab antrean: **bukan printer yang lambat, tetapi mencari file di chat WA** yang namanya tidak jelas. Pada Sabtu, 21 November, saya menanyakan langsung ke dua dari tiga mahasiswa yang pindah kios di W06; keduanya menjawab "males nunggu", bukan soal harga. Setelah koreksi itu saya sampaikan, "Pak Harun" bertanya *"terus caranya gimana?"*, yaitu **Interest**. *Objective* minggu ini: membantu Pak Harun menemukan **hasil yang ia inginkan sendiri**, menghubungkannya dengan solusi secara kredibel, dan menyisakan ruang untuk menolak. *Asumsi awal saya:* Pak Harun pasti ingin antrean jadi cepat. Asumsi ini terbukti keliru di bawah.
+
+## 2. Matriks Jembatan Batin (Fase I)
+
+**Gagasan/solusi:** *Slot Cetak Malam*. Mahasiswa mengirim file ke WA kios paling lambat pukul 21.00 malam sebelumnya dengan nama file berformat `NIM_Nama_JumlahLembar`. Mas Andi mencetak pukul 06.30–07.15 sebelum kios ramai dan menyusun hasil cetak per NIM di map. Pengambilan cukup dengan menyebut NIM, pembayaran tetap tunai di tempat.
+
+| Unsur | Analisis |
+| :--- | :--- |
+| **Keadaan sekarang (beban)** | Senin 07.30–07.50 antrean 14–17 orang (data W06). Mas Andi sendirian membuka file satu per satu di chat. Dua dari tiga mahasiswa yang pindah kios mengaku karena malas menunggu. |
+| **Keadaan masa depan (hasil)** | *Ditentukan bersama target dalam simulasi (lihat bagian 5):* pelanggan Senin pagi tidak pindah ke kios lain, dan Mas Andi tidak salah cetak. |
+| **Mekanisme solusi** | Pencarian file dipindah dari jam sibuk ke jam sepi. Nama file yang seragam membuat pencocokan file dengan pemiliknya cukup dengan melihat NIM. |
+| **Pengorbanan** | Mas Andi mulai mencetak pukul 06.30 (lebih awal ±30 menit); kios perlu mengumumkan format nama file; mahasiswa harus disiplin mengirim sebelum 21.00. |
+| **Risiko kegagalan** | (1) Pesanan dicetak tapi tidak diambil sehingga kertas dan tinta rugi; (2) mahasiswa tetap mengirim dengan nama sembarangan; (3) file yang masuk setelah 21.00 menumpuk lagi di pagi hari. |
+
+## 3. Rantai Feature → Benefit → Value → Outcome
+
+| Feature | Benefit | Value bagi Pak Harun (pemilik) | Value bagi Mas Andi (pelaksana) | Outcome |
+| :--- | :--- | :--- | :--- | :--- |
+| Nama file `NIM_Nama_JumlahLembar` | File langsung ketemu tanpa membuka satu per satu | Lebih sedikit salah cetak, berarti lebih sedikit kertas terbuang | Tidak perlu bertanya "ini punya siapa?" | Pelayanan pagi lebih tertib |
+| Batas kirim 21.00 dan cetak 06.30 | Pencetakan selesai sebelum jam sibuk | Pelanggan tidak pindah karena antre | Beban tidak menumpuk di jam 07.30 | Pelanggan Senin bertahan |
+| Ambil dengan menyebut NIM | Pengambilan ±1 menit per orang | Arus kas tetap tunai, tanpa aplikasi berbayar | Tidak perlu mencari lagi saat orang datang | Antrean ambil menyusut |
+
+## 4. Tangga Bukti & Antisipasi Keberatan (Fase II–III)
+
+**Bukti A (Tingkat 2: sketsa alur yang bisa dipegang):** Selembar kertas A4 berisi alur 4 kotak (kirim → cetak 06.30 → map per NIM → ambil sebut NIM), contoh pesan WA yang sudah diformat, dan contoh tumpukan map berlabel NIM.
+*Batasan:* Ini sketsa, belum diuji di kios sungguhan.
+
+**Bukti B (Tingkat 3: cerita pengguna dan pelaksana nyata):** Kutipan Mas Andi di W06, *"Sebenernya nge-print-nya cepet. Yang lama tuh nyari file-nya,"* dan jawaban dua mahasiswa yang pindah kios ("males nunggu").
+*Batasan:* Hanya dua mahasiswa dan satu pelaksana, belum mewakili semua pelanggan.
+
+| Keberatan yang diantisipasi | Respons yang saya siapkan |
+| :--- | :--- |
+| **Usaha:** "Andi nanti repot datang lebih pagi." | Akui pengorbanannya, lalu tawarkan uji **hanya hari Senin** dan tanyakan langsung ke Mas Andi apakah ia sanggup. |
+| **Biaya:** "Saya nggak mau keluar uang buat sistem." | Tidak ada aplikasi atau langganan. Alatnya hanya nomor WA kios yang sudah ada, map, dan spidol. |
+| **Risiko:** "Kalau dicetak tapi nggak diambil, siapa yang ganti?" | Akui ini risiko terbesar, lalu tawarkan batas uji dan aturan konfirmasi (lihat bagian 5). |
+
+## 5. Evidence Simulasi Demonstrasi 5 Menit
+
+*   **Saya (00–01, jembatan batin):** "Pak, minggu lalu Bapak minta saya pastikan kenapa anak-anak pindah kios. Dua yang saya tanya bilang males nunggu, bukan karena harga. Dan Mas Andi sendiri bilang yang lama itu nyari file, bukan nge-print. Sebelum saya tunjukin idenya, boleh saya tanya dulu, Pak: kalau urusan Senin pagi ini beres, yang paling Bapak harapkan berubah apa?" *(Future-state question)*
+*   **Naufal sebagai Pak Harun:** "Jujur ya, saya nggak terlalu peduli antreannya cepet atau nggak. Yang bikin saya rugi itu dua: anak-anak pindah ke sebelah, sama Andi salah cetak. Salah cetak itu kertas saya, tinta saya." *(Desired state milik target)*
+*   **Saya (parafrasa):** "Jadi ukuran berhasilnya buat Bapak: pelanggan Senin nggak lari, dan salah cetak berkurang. Bukan soal cepat. Betul, Pak?"
+*   **"Pak Harun":** "Betul."
+*   **Saya (01–03, demonstrasi mekanisme dengan Bukti A):** *(menunjukkan kertas alur)* "Caranya, file dikirim malam sebelumnya paling lambat jam sembilan, namanya NIM, nama, jumlah lembar. Jam setengah tujuh Mas Andi cetak semua, masukin map per NIM. Anak-anak datang tinggal sebut NIM, bayar tunai kayak biasa."
+*   **"Pak Harun" (memotong):** "Lah, itu Andi suruh dateng jam setengah tujuh? Dia aja kadang dateng jam tujuh lewat."
+*   **Saya (berhenti, parafrasa keberatan):** "Bapak khawatir ini nambah beban Mas Andi tanpa dia setuju ya, Pak?"
+*   **"Pak Harun":** "Iya. Saya nggak mau maksa orang."
+*   **Saya (adaptasi):** "Setuju, Pak. Itu keputusan Bapak dan Mas Andi, bukan saya. Usul saya, Bapak tanya Mas Andi dulu. Kalau dia sanggup, cukup hari Senin saja, satu hari dalam seminggu."
+*   **Saya (03–04, tangga bukti dan risiko):** "Bukti yang saya punya baru dua: omongan Mas Andi sendiri soal nyari file, dan dua anak yang pindah karena males nunggu. Itu belum banyak, Pak. Risiko terbesarnya: ada yang kirim file tapi nggak ngambil, Bapak rugi kertas."
+*   **"Pak Harun":** *(nada melunak, mengangguk pelan)* "Nah, kamu ngomong sendiri risikonya. Terus gimana?"
+*   **Saya (04–05, mengelola keberatan dan memeriksa kebebasan):** "Dua opsi, Pak. Satu, pesanan di atas 20 lembar harus konfirmasi ulang jam enam pagi; kalau nggak bales, nggak dicetak. Dua, uji coba dua minggu saja, dan Bapak yang tentukan batasnya kapan dihentikan."
+*   **"Pak Harun":** "Dua minggu. Kalau yang nggak diambil lebih dari dua per pagi, stop. Sama yang 20 lembar itu saya suka." *(Evidence threshold dari target)*
+*   **Saya:** "Siap, Pak. Bapak nggak harus jawab sekarang. Bapak bicarakan dulu sama Mas Andi, kalau Bapak nggak mau juga nggak apa-apa."
+*   **"Pak Harun":** "Saya ngomong ke Andi dulu. Tapi ini masuk akal."
+
+**State setelah demonstrasi:** dari **Interest** menjadi **Desire**. Bukti: target menyatakan hasil yang ia inginkan dengan kata-katanya sendiri (pelanggan tidak lari, salah cetak berkurang), menetapkan **evidence threshold** sendiri ("lebih dari dua per pagi, stop"), dan memilih opsi mitigasi ("yang 20 lembar itu saya suka"). Belum sampai Action karena ia perlu persetujuan Mas Andi, dan saya sengaja tidak menekan.
+
+**Must-keep conditions (dari target):** pembayaran tetap tunai di tempat; tidak ada biaya sistem; Mas Andi tidak dipaksa.
+
+## 6. Lembar Evaluasi Rekan Sejawat
+
+*Diisi oleh Naufal (sasaran) dan Dika (pengamat).*
+
+**1. Membangun jembatan batin (Dika):**
+> "Ketika lo nanya 'yang paling Bapak harapkan berubah apa' sebelum nunjukin ide, gua lihat Naufal langsung jawab panjang soal rugi kertas. Itu nunjukin keadaan dia pindah dari dengerin ke ngomongin kepentingannya sendiri. Gua saranin pertanyaan itu dipertahankan, karena tanpa itu lo bakal jualan 'antrean cepat' yang ternyata bukan prioritas dia."
+
+**2. Penyajian bukti dan pengakuan risiko (Naufal):**
+> "Ketika lo bilang 'bukti saya baru dua, itu belum banyak, Pak', gua sebagai Pak Harun jadi nggak curiga lagi kayak di W06. Itu nunjukin kepercayaan gua naik karena lo nggak overclaim. Gua saranin kertas alurnya dikasih contoh angka waktu, misalnya 'ambil ±1 menit'."
+
+**3. Mengelola keberatan (Dika):**
+> "Ketika Naufal motong soal Mas Andi dateng pagi, lo berhenti dan nanya balik 'Bapak khawatir nambah beban Mas Andi?'. Naufal langsung ngangguk. Itu nunjukin keberatannya diserap, bukan didebat. Gua saranin lo juga siapin jawaban kalau Mas Andi bilang nggak sanggup."
+
+**4. Etika kebebasan memilih (Naufal):**
+> "Ketika lo nutup dengan 'kalau Bapak nggak mau juga nggak apa-apa', gua ngerasa nggak ditekan dan malah pengen nyoba. Itu nunjukin desire-nya datang dari gua, bukan dari desakan lo. Saranku, tawarkan juga tanggal kapan lo balik nanya, biar nggak menggantung."
+
+## 7. Refleksi Mandiri
+
+1. **Hasil yang paling diinginkan lawan bicara:** Bukan antrean cepat, seperti asumsi saya, tetapi **pelanggan tidak pindah dan salah cetak berkurang**. Ia menghitung rugi dalam kertas dan tinta, bukan dalam menit.
+2. **Bukti yang paling menumbuhkan percaya:** Kutipan Mas Andi sendiri ("yang lama itu nyari file"), karena datang dari orang yang Pak Harun percaya dan pekerjakan, bukan dari saya sebagai mahasiswa luar.
+3. **Perubahan saat mengakui risiko:** Nada "Pak Harun" melunak dan ia mengangguk pelan, lalu mengambil alih: "Nah, kamu ngomong sendiri risikonya. Terus gimana?" Pengakuan risiko mengubahnya dari penilai menjadi rekan perancang.
+4. **Keberatan yang membuka kelemahan desain:** "Andi suruh dateng jam setengah tujuh?" Desain saya mengandaikan pelaksana setuju tanpa pernah ditanya. Revisinya: keputusan jam kerja dikembalikan ke Pak Harun dan Mas Andi, dan uji dibatasi pada hari Senin saja.
+5. **Pernyataan penggunaan AI:**
+   - **Alat & Peran:** Saya menggunakan **Claude** sebagai mitra peninjau struktur dan penguji skenario keberatan (*devil's advocate*) setelah menyusun draf kasar Matriks Jembatan Batin.
+   - **Data yang Dibagikan:** Catatan observasi mentah antrean kios fotokopi (dari W06), kutipan keluhan Mas Andi, serta draf mekanisme *Slot Cetak Malam*.
+   - **Perintah (Prompt) Kunci:** *"Bertindaklah sebagai pemilik kios fotokopi yang skeptis terhadap perubahan jam kerja karyawan dan takut rugi kertas; kritik kelemahan alur Slot Cetak Malam ini dan uji apakah rantai Feature–Benefit–Value–Outcome saya sudah tepat."*
+   - **Verifikasi Mandiri:** Seluruh saran respons AI saya saring dan uji ulang dalam simulasi tatap muka 5 menit bersama Naufal dan Dika. Satu saran AI untuk menggunakan aplikasi pencatat pesanan saya tolak karena bertentangan dengan kondisi lapangan Pak Harun yang menginginkan sistem tanpa biaya tambahan.
+
+## 8. Analisis Komunikasi
+
+| Elemen | Evidence dan Analisis |
+| :--- | :--- |
+| **Person & Character** | Pak Harun dibaca sebagai pemilik yang menghitung rugi kertas dan menjaga martabat karyawannya ("saya nggak mau maksa orang"). Saya juga membaca relasi *power* pemilik dan pelaksana, sehingga keputusan jam kerja tidak saya ambil alih. |
+| **Objective & State** | *Desired state* tidak saya proyeksikan, tetapi saya gali dengan pertanyaan masa depan dan saya konfirmasi lewat parafrasa. Perpindahan Interest → Desire dibuktikan dari target yang menetapkan threshold dan memilih opsi sendiri. |
+| **Repertoire & Language** | Demonstrasi memakai satu alur dan satu lembar sketsa, tanpa *feature dumping*. Dua tingkat bukti disajikan beserta batasnya masing-masing. |
+| **Response & Adaptation** | Interupsi soal jam kerja Mas Andi membuat saya berhenti, memparafrasa, dan mengubah ruang lingkup (hanya Senin, keputusan di Pak Harun dan Mas Andi). Keberatan risiko dijawab dengan dua opsi, bukan satu jawaban defensif. |
+| **Agreement/Action** | Belum memaksa Action. Yang disepakati adalah langkah keputusan berikutnya: Pak Harun membicarakan dengan Mas Andi, dengan threshold uji dua minggu yang ia tentukan sendiri. |
+| **Relationship outcome** | Target menutup dengan "ini masuk akal" tanpa merasa ditekan. Penilaian pengamat mengonfirmasi tidak ada tekanan psikologis. |
+
+## 9. Feedback dan Tindak Lanjut
+
+**Feedback yang diterima:** Saran Naufal untuk menawarkan tanggal kapan saya kembali bertanya agar keputusan tidak menggantung, dan saran Dika untuk menyiapkan jawaban kalau Mas Andi tidak sanggup.
+**Adaptation/Replay:** Penutup saya revisi menjadi: *"Bapak nggak harus jawab sekarang. Boleh saya mampir Rabu sore buat dengar keputusan Bapak dan Mas Andi? Kalau Mas Andi nggak sanggup jam 06.30, kita bisa geser batas kirim jadi jam 20.00 supaya cetaknya cukup mulai jam 07.00."* Saat bagian penutup diulang, "Pak Harun" menjawab, "Rabu sore boleh."
+**Next practice:** Selalu menanyakan *desired state* kepada target **sebelum** menunjukkan solusi, lalu memeriksa apakah ada pihak ketiga (seperti pelaksana) yang perlu dimintai persetujuan sebelum saya mengusulkan perubahan beban kerjanya.
+
+## 10. Self-Assessment
+
+**Rubrik LK-09:**
+
+| Kriteria | Skor | Evidence Singkat |
+| :--- | :---: | :--- |
+| **Hasil yang Diinginkan** | 4 | Hasil masa depan digali dari target dan diselaraskan dengan nilainya (rugi kertas, pelanggan bertahan). |
+| **Kejelasan Mekanisme** | 4 | Satu alur 4 langkah dengan sketsa fisik dan contoh nama file. |
+| **Tangga Bukti** | 4 | Dua tingkat bukti (sketsa dan cerita pelaksana/pengguna), masing-masing dengan batasnya. |
+| **Pengakuan Risiko** | 4 | Risiko terbesar disebut tanpa ditanya, dan justru membuat target ikut merancang mitigasi. |
+| **Manajemen Keberatan** | 4 | Interupsi dipakai sebagai kompas untuk mengubah ruang lingkup uji. |
+| **Etika Kebebasan Memilih** | 4 | Penutup memberi ruang menolak, dan threshold penghentian ditentukan target. |
+
+**Rubrik universal:**
+
+| Dimensi | Skor | Evidence Singkat |
+| :--- | :---: | :--- |
+| **Person & Character** | 4 | Membaca *power* pemilik dan pelaksana serta nilai yang benar-benar dipegang target. |
+| **Objective & State** | 4 | *Desired state* milik target; Interest → Desire dibuktikan dari threshold yang ia tetapkan. |
+| **Repertoire, Language & AI** | 4 | Rantai F-B-V-O per peran; demonstrasi berlapis tanpa *feature dumping*. |
+| **Response & Adaptation** | 4 | Interupsi dan keberatan mengubah desain (hanya Senin, keputusan dikembalikan ke target). |
+| **Agreement, Action & Relationship** | 4 | Langkah keputusan dan threshold disepakati; hak menolak dihormati; relasi terjaga. |
+| **Total** | **20/20** | |

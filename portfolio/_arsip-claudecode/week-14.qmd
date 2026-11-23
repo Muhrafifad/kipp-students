@@ -1,0 +1,115 @@
+---
+title: "AI-Mediated Communication Design"
+week: 14
+status: "Draft"
+self_score: "20/20"
+assessor_score: "—"
+description: "AI role, prompt, output, human revision, boundary, dan risk."
+categories: [AI, Ethics]
+---
+
+## Kompetensi target
+
+Memilih dan membatasi peran AI sambil menjaga human competence, authority, dan relationship.
+
+## Evidence wajib
+
+- Persons, characters, objective, dan state.
+- AI role, prompt/output, serta human revision.
+- Privacy/authority/risk review dan alasan tidak menggunakan lebih banyak AI.
+
+::: {.callout-tip title="Lihat contoh pengisian"}
+[Buka contoh fiktif Minggu 14](../examples/week-14.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+:::
+
+{{< include ../includes/evidence-template.md >}}
+
+Nama Lengkap: Muhammad Rafi Fadillah
+NIM: 18225115
+Program Studi: Sistem dan Teknologi Informasi
+Tanggal Pengisian: 22 November 2026
+
+## 1. Konteks Performance
+
+**Tanggal dan setting:** Senin, 16 November 2026, sehari setelah forum penghuni (W12). Saya harus (a) mengirim pengumuman hasil forum ke grup WhatsApp kos dan (b) berbicara secara pribadi dengan Bima, satu-satunya penghuni yang menyatakan *dissent*.
+**Persons dan relationship:** Saya (penghuni yang memandu forum dan menulis pengumuman), Pak Darto (pemilik kos yang harus menyetujui isi pengumuman), 16 penghuni sebagai pembaca grup, Mas Ujang (pemegang daftar kunci), dan Bima (penghuni kerja *part-time* yang ingin jam malam dihapus).
+**Objective dan initial state:** *Initial state:* forum menghasilkan *sufficient agreement*, tetapi catatan saya berantakan dan suasana grup baru saja reda. Bima masih kecewa. *Objective:* Memakai AI secara proporsional untuk menyusun pengumuman yang akurat dan tidak memanaskan suasana, sambil menjaga percakapan yang berisiko relasi tinggi tetap dibawa manusia.
+
+## 2. Evidence (Peran AI, Prompt/Output, dan Revisi Manusia)
+
+**Pemilihan peran AI per tugas:**
+
+| Tugas | Peran AI yang dipilih | Relationship risk | Human responsibility |
+| :--- | :--- | :--- | :--- |
+| Mengubah catatan forum menjadi pengumuman grup | **Translator/Copilot** | Sedang | Menjaga fakta, scope pilot, dissent, dan meminta persetujuan Pak Darto |
+| Latihan sebelum bicara dengan Bima | **Coach** (roleplay) | — (latihan) | Memilih kalimat sendiri; state Bima dibaca dari Bima, bukan dari simulasi |
+| Percakapan dengan Bima | **Tidak memakai AI** (human-only) | Tinggi | Mendengar kekecewaan, mengakui dissent, tanpa script |
+| Menjawab pertanyaan penghuni di grup secara otomatis | **Tidak dipakai (bukan Delegate)** | Sedang–tinggi | Saya dan Mas Ujang menjawab sendiri |
+| Menyetujui publikasi pengumuman | **Tidak dipakai** | — | Pak Darto sebagai pemilik aturan |
+
+**Prompt (Translator/Copilot) yang saya gunakan:**
+> "Kamu membantu saya menulis pengumuman WhatsApp untuk penghuni kos mahasiswa. Pembaca: 16 penghuni dengan jadwal berbeda; suasana grup sempat tegang. Gunakan HANYA fakta berikut: [ringkasan kesepakatan tanpa nama dan nomor kamar]. Ini PILOT dua minggu (16–29 November), bukan aturan permanen. Ada satu penghuni yang tidak setuju dan pendapatnya dicatat; jangan sebut namanya. Nada: santai, sopan, tidak menyalahkan siapa pun. Maksimal 120 kata. Jika ada informasi yang tidak tersedia, tulis [PERLU KONFIRMASI]. Jangan menambahkan janji atau aturan baru."
+
+**Output AI (kutipan bagian yang bermasalah):**
+> "📢 **ATURAN BARU KOS!** Mulai hari ini jam malam resmi diperpanjang dan setiap penghuni **wajib** memiliki kunci gerbang. Penghuni yang melanggar akan dikenakan sanksi. Semua penghuni telah sepakat dengan keputusan ini. ..."
+
+**Revisi manusia:**
+
+| Output AI | Revisi saya | Alasan |
+| :--- | :--- | :--- |
+| "ATURAN BARU KOS!" | "Hasil obrolan Minggu malam — kita coba 2 minggu dulu ya" | Scope: ini pilot, bukan aturan baru; nada tidak memerintah |
+| "Jam malam resmi diperpanjang" | "Gerbang tetap dikunci 23.00; yang sudah daftar kunci bisa buka-kunci sendiri" | Akurasi: jam malam **tidak** diubah |
+| "Setiap penghuni wajib memiliki kunci" | "Yang butuh pulang malam bisa daftar duplikat kunci ke Mas Ujang (biaya duplikat masing-masing)" | Tidak ada kewajiban; menyebut owner dan biaya |
+| "Akan dikenakan sanksi" | Dihapus; diganti "Kalau ada yang lupa, Mas Ujang akan ngingetin secara pribadi" | Safeguard yang disepakati, bukan sanksi |
+| "Semua penghuni telah sepakat" | "Sebagian besar setuju, ada juga yang punya pendapat lain dan itu sudah dicatat buat review 29 November" | Menjaga dissent; menghindari *false consensus* |
+
+**Persetujuan authority:** draf hasil revisi saya kirim ke Pak Darto lewat chat pribadi. Pak Darto mengoreksi satu hal: "Tulis juga kunci dikembalikan kalau pindah kos." Kalimat itu saya tambahkan, lalu pengumuman dikirim pukul 20.10. Pak Darto membalas di grup: "Betul, sesuai obrolan kemarin."
+
+**Coach → percakapan human-only dengan Bima:**
+- *Roleplay dengan AI (15 menit):* saya meminta AI memerankan penghuni yang kecewa karena pendapatnya kalah. Latihan ini membuat saya sadar kebiasaan saya langsung "menjelaskan alasan keputusan".
+- *Percakapan nyata (Senin, 16 Nov, 21.30, di dapur kos):*
+    *   **Saya:** "Bim, kemarin kamu bilang setuju dengan catatan. Aku pengen dengar, sebenernya yang paling bikin kamu kecewa apa?"
+    *   **Bima:** "Bukan soal kuncinya sih. Rasanya kayak dari awal kita dianggap anak kecil yang harus diatur jam pulangnya."
+    *   **Saya:** "Jadi yang kamu rasain bukan cuma soal akses, tapi soal nggak dipercaya ya?"
+    *   **Bima:** "Iya, itu."
+    *   **Saya:** "Itu masuk akal, dan menurutku perlu dibawa di review tanggal 29. Mau kamu sendiri yang sampaikan, atau aku bantu bacain dari catatan?"
+    *   **Bima:** "Aku sendiri aja. Tapi makasih udah nanya langsung."
+
+Kalimat yang saya pakai berbeda dari hasil latihan; AI hanya membantu saya menahan diri untuk tidak membela keputusan.
+
+**Privacy, authority, dan alasan tidak memakai lebih banyak AI:**
+- Nama, nomor kamar, tangkapan layar grup, dan cerita pribadi Bima tidak dimasukkan ke AI.
+- AI tidak diberi wewenang menetapkan aturan, sanksi, atau menyatakan "semua setuju".
+- Saya tidak membuat *bot* penjawab grup karena volume pertanyaan kecil, banyak pengecualian (misalnya penghuni yang pulang dini hari karena kerja), dan setiap jawaban memengaruhi relasi antarpenghuni.
+- Percakapan dengan Bima sengaja tidak dibantu AI saat berlangsung karena menyangkut rasa tidak dipercaya; *repair* semacam itu harus dibawa manusia.
+
+## 3. Analisis Komunikasi
+
+| Elemen | Evidence dan Analisis |
+| :--- | :--- |
+| **Person & Character** | Peran manusia (pemilik aturan, pemegang kunci, penulis, penghuni yang dissent) dibedakan dari peran AI. Pak Darto tetap pemegang authority publikasi. |
+| **Objective & State** | Objective pengumuman: penghuni paham scope pilot tanpa merasa dikalahkan. Objective percakapan Bima: memahami kekecewaannya, bukan meyakinkan dia. |
+| **Repertoire & Language** | Prompt *person-centered* (pembaca, suasana, fakta, batas, nada, larangan menambah aturan). Output disaring dengan tabel revisi; bahasa akhir santai dan tidak memerintah. |
+| **Response & Adaptation** | Lima kesalahan AI (scope, akurasi, kewajiban, sanksi, *false consensus*) diperbaiki sebelum dikirim. Koreksi Pak Darto ditambahkan. Bima menyebut *hidden concern* "dianggap anak kecil" yang tidak muncul di forum. |
+| **Agreement/Action** | Pengumuman disetujui pemilik dan dikirim; Bima memilih menyampaikan sendiri pendapatnya di review 29 November. |
+| **Relationship outcome** | Tidak ada balasan bernada protes di grup; 9 penghuni memberi reaksi 👍. Bima berterima kasih karena ditanya langsung. |
+
+## 4. Penggunaan AI
+AI (Claude) dipakai dengan dua peran yang dibatasi: *Translator/Copilot* untuk draf pengumuman dan *Coach* untuk latihan percakapan sulit. Output AI tidak ada yang dikirim tanpa revisi; lima klaim salah atau berlebihan ditolak. AI juga membantu merapikan tabel portfolio ini. Hal yang tetap saya pelajari sebagai manusia: membaca suasana grup, memilih kata untuk Bima, dan meminta persetujuan pemilik aturan sebelum publikasi.
+
+## 5. Feedback dan Tindak Lanjut
+
+**Feedback yang diterima:** Pak Darto: "Tulis juga kunci dikembalikan kalau pindah kos." Bima: "Makasih udah nanya langsung."
+**Adaptation/Replay:** Kalimat pengembalian kunci ditambahkan sebelum publikasi. Dari percakapan dengan Bima, saya menambahkan agenda "rasa dipercaya penghuni" ke draf agenda review 29 November.
+**Next practice:** Setiap memakai AI untuk menulis atas nama kelompok, saya membuat tabel singkat "output AI vs fakta yang disepakati" sebelum mengirim, dan selalu meminta persetujuan pemegang authority.
+
+## 6. Self-Assessment
+
+| Dimensi | Skor | Evidence Singkat |
+| :--- | :--- | :--- |
+| **Person & Character** | 4 | Peran manusia dan peran AI dibedakan per tugas; authority publikasi tetap pada pemilik. |
+| **Objective & State** | 4 | Objective tiap komunikasi jelas dan relationship risk dinilai sebelum memilih peran AI. |
+| **Repertoire, Language** | 4 | Prompt lengkap, output asli, tabel revisi, dan alasan tidak memakai lebih banyak AI. |
+| **Response & Adaptation** | 4 | Koreksi AI dan koreksi pemilik diterapkan; hidden concern Bima ditemukan lewat percakapan manusia. |
+| **Agreement, Action** | 4 | Pengumuman disetujui dan terkirim; Bima menyepakati cara menyampaikan dissent di review. |
+| **Total** | 20/20 | Skor bergantung pada tersedianya tangkapan prompt/output, draf revisi, dan chat persetujuan Pak Darto. |

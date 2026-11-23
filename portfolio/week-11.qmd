@@ -1,8 +1,8 @@
 ---
 title: "Multi-Person Negotiation Challenge"
 week: 11
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "20/20"
 assessor_score: "—"
 description: "Stakeholder map, interests, options, trade-offs, dan agreement."
 categories: [Negotiation, Stakeholder]
@@ -22,4 +22,147 @@ Memfasilitasi beberapa person dengan objective, constraint, authority, dan state
 [Buka contoh fiktif Minggu 11](../examples/week-11.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+Nama Lengkap: Muhammad Rafi Fadillah
+NIM: 18225115
+Program Studi: Sistem dan Teknologi Informasi
+Tanggal Pengisian: 22 November 2026
+
+## 1. Identitas Simulasi & Konteks Performance
+
+**Nama skenario:** Wi-Fi kos lantai 2 lemot: upgrade paket atau perbaikan jangkauan?
+**Tanggal dan setting:** Selasa, 17 November 2026, pukul 20.00–20.40 WIB, rapat penghuni di ruang tengah kos. Bu Ratna (pemilik kos) ikut lewat panggilan video selama 15 menit terakhir.
+
+| Peran | Person | Character dan konteks |
+| :--- | :--- | :--- |
+| **Fasilitator** | Saya | Penghuni kamar 2B, mahasiswa STI; mengusulkan rapat setelah grup kos ramai keluhan |
+| **A: Pengguna berat** | Fajar (STI) | Sering Zoom praktikum dan *upload* tugas besar; kamar di lantai 2 |
+| **B: Pengguna hemat** | Yusuf (Aktuaria) | Uang saku dikirim bulanan dan pas-pasan |
+| **C: Jarang di kos** | Bima (Geologi) | Sering kuliah lapangan, rata-rata 3–4 malam per minggu di kos |
+| **D: Pemegang otoritas** | Bu Ratna (pemilik kos) | Kontrak internet atas namanya, terikat 12 bulan |
+| **E: Pihak terdampak** | Mas Ujang (penjaga kos) | Yang selalu disuruh *restart* router dan disalahkan kalau internet mati |
+
+Penghuni lain (Dika, Naufal, Raka dari STI; Kevin dan Arya dari Aktuaria) hadir sebagai peserta dan suaranya dicatat di bagian kesepakatan.
+
+**Objective dan initial state:** Grup WA kos dipenuhi keluhan "Wi-Fi lantai 2 lemot". Fajar sudah melempar usulan "upgrade ke 100 Mbps, patungan". *Objective saya:* bukan memenangkan satu usulan, tetapi memfasilitasi agar setiap orang terdengar, pilihan diperluas, dan keputusan diambil oleh pihak yang berwenang. *Asumsi awal saya (sebagai anak STI):* masalahnya kecepatan paket. Asumsi ini sengaja saya uji dengan data sebelum rapat.
+
+**Data sebelum rapat (speed test saya, Senin, 16 November 2026, pukul 21.00):**
+Rapat penghuni kos (17 November 2026) dan pengujian speed test dilakukan secara langsung tanpa melibatkan AI. AI (Claude) digunakan setelah rapat selesai untuk membantu merapikan catatan diskusi ke dalam tabel Peta Pemangku Kepentingan dan Matriks Komitmen, serta memeriksa apakah kalimat common ground sudah netral dan tidak memihak satu penghuni. Rekonstruksi dialog dan pembagian biaya proporsional Rp42 ribu / Rp24 ribu sepenuhnya disusun oleh saya dan penghuni kos.
+| Lokasi | Download | Catatan |
+| :--- | :---: | :--- |
+| Samping router (lantai 1) | 46 Mbps | Paket 50 Mbps, sehingga hampir penuh |
+| Kamar 2B (lantai 2, ujung lorong) | 3 Mbps | Sinyal 1 bar, terhalang dua dinding bata dan lantai cor |
+
+## 2. Peta Pemangku Kepentingan & Multi-State TAIDA (LK Bagian 1)
+
+| Pemangku Kepentingan | Posisi | Kepentingan | Kendala & Batasan | Nilai | TAIDA Awal |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **A: Fajar** | "Upgrade 100 Mbps, patungan rata." | Zoom praktikum tidak putus; *upload* tugas tidak gagal | Tidak punya wewenang atas kontrak | Tanggung jawab akademik | **Desire** (sudah ingin solusi, belum ada jalan) |
+| **B: Yusuf** | "Jangan nambah iuran." | Pengeluaran bulanan bisa diprediksi | Uang saku tetap; tidak bisa bayar besar sekaligus | Keamanan finansial | **Attention** (sadar masalah, menolak solusi berbiaya) |
+| **C: Bima** | "Kenapa gue bayar sama, padahal jarang di kos?" | Keadilan pembagian beban | Sering di lapangan | Keadilan | **Attention** (sadar, merasa tidak adil) |
+| **D: Bu Ratna** | "Saya nggak mau ganti paket, kontraknya baru jalan." | Tidak menanggung biaya kontrak kalau penghuni pindah; kos tetap laku | **Otoritas** atas kontrak dan izin instalasi | Kepastian usaha | **Target** (belum dilibatkan dalam pembicaraan) |
+| **E: Mas Ujang** | "Saya nggak mau ngurus-ngurus router lagi." | Tidak disalahkan; tidak bolak-balik naik ke lantai 2 | Tidak paham pengaturan jaringan | Dihargai, bukan dijadikan kambing hitam | **Attention** (terdampak, defensif) |
+
+## 3. Deliberasi: Menggali Kepentingan Tersembunyi (LK Bagian 2)
+
+*Saya membuka rapat dengan aturan: "Satu orang ngomong, yang lain dengar. Belum boleh ada yang menilai usulan."*
+
+*   **Saya (membuka dengan fakta, bukan usulan):** "Gua udah tes semalam. Di samping router 46 Mbps, di kamar gua 3 Mbps. Jadi paket kita sebenarnya hampir penuh sampai router. Yang drop itu pas sinyalnya naik ke lantai 2."
+*   **Fajar:** "Ya tapi tetep aja, kalau paketnya 100, kan jadi lebih kenceng?"
+*   **Saya (parafrasa interest, bukan membantah):** "Yang lu butuh sebenarnya Zoom praktikum nggak putus di kamar lu, ya? Upgrade itu salah satu cara."
+*   **Fajar:** "Iya, intinya itu."
+*   **Saya (memunculkan suara yang diam, dengan pertanyaan Bagian 2):** "Yusuf, dari tadi lu belum ngomong. Kalau opsi patungan dijalankan, apa yang paling lu khawatirin?"
+*   **Yusuf:** *(menunduk, lalu pelan)* "Jujur, gua nggak bisa bayar 50 ribu sekaligus di tengah bulan. Duit gua dikirim tanggal satu." *(Kepentingan tersembunyi: arus kas, bukan menolak perbaikan)*
+*   **Bima:** "Gue setuju ada perbaikan, tapi gue seminggu cuma tiga malam di kos. Masa bayarnya sama kayak Fajar yang Zoom tiap hari?"
+*   **Saya (membuat disagreement spesifik):** "Oke, jadi yang Bima persoalkan bukan perbaikannya, tapi **cara bagi biayanya**. Betul?"
+*   **Bima:** "Betul."
+*   **Mas Ujang:** "Saya mah tiap ada yang lemot, saya yang disuruh cabut-colok router. Padahal bukan saya yang salah."
+*   **Saya (validasi):** "Berarti apa pun solusinya, Mas Ujang nggak boleh jadi orang yang dipanggil tiap lemot. Itu kita jadikan syarat."
+
+**Catatan temuan kepentingan tersembunyi:**
+- **Yusuf:** keberatannya ada pada **waktu pembayaran**, bukan nominal atau niat.
+- **Bima:** keberatannya ada pada **proporsi**, bukan perbaikan.
+- **Mas Ujang:** kebutuhannya adalah **tidak disalahkan**, bukan sekadar tidak repot.
+- **Bu Ratna** (ditemukan saat panggilan video): ketakutan terbesarnya adalah **terikat biaya kontrak lebih mahal** lalu penghuni pindah.
+
+**Common ground (spesifik, bisa diuji):** *"Kita ingin internet di lantai 2 cukup untuk Zoom (≥10 Mbps) tanpa menambah iuran bulanan tetap, tanpa mengubah kontrak Bu Ratna, dan tanpa menjadikan Mas Ujang petugas restart."*
+
+## 4. Kotak Pasir Ide (LK Bagian 3)
+
+Opsi dikumpulkan dulu tanpa dinilai, lalu dibandingkan dengan kriteria common ground.
+
+| Opsi | Biaya | Iuran tetap? | Ubah kontrak? | Beban Mas Ujang | Menjawab masalah lantai 2? |
+| :--- | :---: | :---: | :---: | :---: | :--- |
+| 1. Upgrade paket 100 Mbps, patungan rata | ±Rp150 rb/bln | Ya | **Ya** | Tetap | Belum tentu, karena sinyal tetap lemah di lantai 2 |
+| 2. Upgrade paket, biaya proporsional jumlah malam | ±Rp150 rb/bln | Ya | **Ya** | Tetap | Belum tentu |
+| 3. Pasang **access point** di lantai 2 (sekali beli ±Rp360 rb) | Sekali bayar | Tidak | Tidak | Berkurang | **Ya**, langsung menyasar penyebab |
+| 4. Pindahkan router ke tengah tangga | Rp0 | Tidak | Tidak | Berkurang | Sebagian |
+| 5. Atur jam unduhan besar (19.00–23.00 tanpa *download* game/film) | Rp0 | Tidak | Tidak | Tetap | Sebagian (masalah kepadatan) |
+| 6. Router dipasang jadwal *restart* otomatis jam 04.00 | Rp0 | Tidak | Tidak | **Hilang** | Tidak langsung, tapi menjawab kebutuhan Mas Ujang |
+
+## 5. Negosiasi & Kesepakatan (LK Bagian 4)
+
+*   **Bu Ratna (video call):** "Kalau harus ganti paket, saya nggak mau. Kontrak saya baru empat bulan."
+*   **Saya (menghormati otoritas):** "Siap, Bu. Kami juga nggak minta kontrak diubah. Yang kami minta cuma izin pasang satu alat penguat sinyal di lantai 2 dan memindahkan router ke dekat tangga. Biayanya dari kami, alatnya nanti jadi milik kos."
+*   **Bu Ratna:** "Oh, kalau nggak ganti kontrak dan nggak ngebor tembok besar, boleh."
+*   **Saya (menawarkan cara bayar sesuai kepentingan Yusuf dan Bima):** "Untuk biaya alat Rp360 ribu, usulnya: dibagi berdasarkan seberapa sering di kos. Kita bersembilan. Delapan orang yang hampir tiap malam di kos Rp42 ribu, Bima Rp24 ribu, totalnya pas Rp360 ribu. Bayarnya boleh tanggal 1 Desember, jadi Fajar talangin dulu. Gimana?"
+*   **Yusuf:** "Kalau tanggal satu, gua bisa." *(nada lega)*
+*   **Bima:** "Fair. Tapi gue tetep nggak setuju kalau nanti tiba-tiba ada usulan upgrade paket lagi dibagi rata." *(**Dissent spesifik**, dicatat)*
+*   **Saya:** "Dicatat. Kalau nanti ada usulan upgrade, cara bagi biayanya harus dirapatkan lagi, bukan otomatis rata."
+*   **Saya (menguji *false consensus*):** "Sebelum ditutup, ada yang diem tapi sebenarnya nggak setuju? Kevin, Arya?" — **Kevin:** "Setuju, asal nggak ada iuran bulanan." — **Arya:** "Setuju."
+
+**Matriks Komitmen Tindakan Nyata:**
+
+| SIAPA | MELAKUKAN APA | KAPAN | PRASYARAT | UKURAN SELESAI |
+| :--- | :--- | :--- | :--- | :--- |
+| **Fajar** | Membeli dan memasang access point di lorong lantai 2 | Sabtu, 21 Nov 2026 | Uang talangan Rp360 rb; izin Bu Ratna (sudah) | Speed test kamar 2B ≥10 Mbps |
+| **Saya** | Memindahkan router ke dekat tangga dan memasang jadwal *restart* otomatis 04.00 | Sabtu, 21 Nov 2026 | Password admin router dari Bu Ratna | Router di posisi baru; jadwal aktif |
+| **Semua penghuni** | Membayar bagian biaya ke Fajar | Selasa, 1 Des 2026 | — | Lunas tercatat di grup |
+| **Bu Ratna** | Memberi izin tertulis singkat di grup kos | Rabu, 18 Nov 2026 | — | Pesan izin terkirim di grup |
+| **Mas Ujang** | **Dibebaskan** dari tugas *restart* router | Mulai 21 Nov 2026 | Jadwal *restart* otomatis aktif | Tidak ada lagi permintaan *restart* ke Mas Ujang |
+| **Review** | Rapat singkat 10 menit | Selasa, 15 Des 2026 | Data speed test ulang | Keputusan lanjut/ubah |
+
+**Bukti action (per 22 November):** Bu Ratna mengirim izin di grup pada 18 November pukul 09.12 (*"Silakan pasang, asal rapi ya"*). Access point terpasang Sabtu, 21 November pukul 16.00. Speed test ulang di kamar 2B pukul 21.00: **28 Mbps** (sebelumnya 3 Mbps).
+
+## 6. Evaluasi Jalur Ganda (LK Bagian 5)
+
+**Jalur tugas, skor 5/5:** Kesepakatan operasional dan sudah terbukti. Penyebab sebenarnya (jangkauan) teratasi tanpa mengubah kontrak dan tanpa iuran bulanan. Speed test lantai 2 naik dari 3 menjadi 28 Mbps.
+
+**Jalur relasi, skor 4/5:** Yusuf dan Mas Ujang, dua orang yang paling sunyi, mendapat ruang aman dan kebutuhannya masuk ke kesepakatan. Dissent Bima dicatat, bukan dihapus. Nilainya bukan 5 karena Fajar sempat kecewa usulan upgrade-nya tidak dipilih: *"Yaudah, tapi kalau AP-nya nggak ngefek, balik ke upgrade ya."* Kekhawatiran ini saya jadikan kriteria review 15 Desember.
+
+## 7. Refleksi Akhir Fasilitator
+
+Kejutan terbesar di rapat ini datang dari orang yang paling diam. Saya mengira Yusuf menolak perbaikan karena pelit. Ternyata ia hanya tidak bisa membayar di tengah bulan. Kalau saya tidak bertanya langsung, kesepakatan "patungan rata" akan terlihat seperti konsensus, padahal Yusuf terpaksa. Saya juga belajar bahwa data sederhana (dua angka speed test) bisa memindahkan rapat dari adu posisi ("upgrade" vs "jangan bayar") ke masalah bersama yang bisa diukur. Saat Bu Ratna menolak mengubah kontrak, saya tidak mendesak. Saya mengecilkan permintaan sampai berada di dalam wewenangnya, yaitu izin pasang alat, dan ia langsung setuju.
+
+Nonverbal yang paling berguna adalah Yusuf menunduk sebelum bicara dan nada Mas Ujang yang meninggi saat menyebut "disuruh cabut-colok". Keduanya tanda ada kepentingan yang belum aman disuarakan. Dissent Bima saya biarkan tetap ada dan saya catat, karena memaksakan "semua setuju" justru akan membuatnya menolak di rapat berikutnya. Pola lama saya, menghindari konflik dengan diam, tidak muncul di sini. Sebagai fasilitator saya justru harus membuat ketidaksetujuan menjadi spesifik supaya bisa diselesaikan.
+
+## 8. Analisis Komunikasi
+
+| Elemen | Evidence dan Analisis |
+| :--- | :--- |
+| **Person & Character** | Lima pemangku kepentingan dipetakan sebagai person, termasuk *power* yang timpang: Bu Ratna memegang kontrak, sementara Mas Ujang menanggung dampak tanpa suara dalam keputusan. |
+| **Objective & State** | Tiap pihak berada di base TAIDA berbeda (Fajar Desire, Yusuf/Bima/Ujang Attention, Bu Ratna Target), sehingga pendekatannya dibedakan: data untuk Fajar, ruang aman untuk Yusuf, permintaan dalam batas wewenang untuk Bu Ratna. |
+| **Repertoire & Language** | Fakta dibuka lebih dulu (speed test), lalu parafrasa interest, pertanyaan untuk suara sunyi, membuat disagreement spesifik, dan uji *false consensus*. |
+| **Response & Adaptation** | Penolakan Bu Ratna mengubah permintaan dari "ganti paket" menjadi "izin pasang alat". Kekhawatiran arus kas Yusuf mengubah jadwal bayar. Keberatan Bima mengubah skema biaya menjadi proporsional. |
+| **Agreement/Action** | Komitmen per orang dengan tenggat, ukuran selesai, dan tanggal review; action sudah terbukti (28 Mbps). |
+| **Relationship outcome** | Dissent dicatat; Mas Ujang dibebaskan dari peran kambing hitam; kekecewaan Fajar diakui dan dijadikan kriteria review. |
+
+## 9. Penggunaan AI
+
+Rapat penghuni kos (17 November 2026) dan pengujian speed test dilakukan secara langsung tanpa melibatkan AI. AI (Claude) digunakan setelah rapat selesai untuk membantu merapikan catatan diskusi ke dalam tabel Peta Pemangku Kepentingan dan Matriks Komitmen, serta memeriksa apakah kalimat common ground sudah netral dan tidak memihak satu penghuni. Rekonstruksi dialog dan pembagian biaya proporsional Rp42 ribu / Rp24 ribu sepenuhnya disusun oleh saya dan penghuni kos.
+
+## 10. Feedback dan Tindak Lanjut
+
+**Feedback yang diterima:** Setelah rapat, Yusuf mengirim pesan pribadi: *"Makasih Raf udah nanya gua langsung, kalau di grup gua nggak bakal berani ngomong."* Bima menulis di grup: *"Gue tetep catat ya soal bagi rata."*
+**Adaptation/Replay:** Di awal rapat saya sempat terlalu cepat menyebut "solusinya kayaknya AP", sehingga Fajar langsung defensif. Saya menarik kalimat itu ("oke, belum, kita kumpulin opsi dulu") dan baru membandingkan opsi setelah semua kepentingan terdengar.
+**Next practice:** Menahan diri menyebut opsi favorit sampai semua pemangku kepentingan selesai menyampaikan kepentingannya, dan selalu menanyai orang yang paling diam secara langsung sebelum mengambil keputusan.
+
+## 11. Self-Assessment
+
+| Dimensi | Skor | Evidence Singkat |
+| :--- | :---: | :--- |
+| **Person & Character** | 4 | Lima person dipetakan dengan kepentingan, kendala, otoritas, dan ketimpangan *power*. |
+| **Objective & State** | 4 | Multi-state TAIDA dibaca dan pendekatan dibedakan per base. |
+| **Repertoire, Language & AI** | 4 | Fakta → parafrasa → suara sunyi → disagreement spesifik → uji *false consensus*. |
+| **Response & Adaptation** | 4 | Tiga respons (Bu Ratna, Yusuf, Bima) masing-masing mengubah desain kesepakatan. |
+| **Agreement, Action & Relationship** | 4 | Komitmen eksplisit dengan bukti action, dissent tercatat, dan review terjadwal. |
+| **Total** | **20/20** | |

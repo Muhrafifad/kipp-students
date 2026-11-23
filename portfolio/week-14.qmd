@@ -1,8 +1,8 @@
 ---
 title: "AI-Mediated Communication Design"
 week: 14
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "20/20"
 assessor_score: "—"
 description: "AI role, prompt, output, human revision, boundary, dan risk."
 categories: [AI, Ethics]
@@ -22,4 +22,137 @@ Memilih dan membatasi peran AI sambil menjaga human competence, authority, dan r
 [Buka contoh fiktif Minggu 14](../examples/week-14.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+Nama Lengkap: Muhammad Rafi Fadillah
+NIM: 18225115
+Program Studi: Sistem dan Teknologi Informasi
+Tanggal Pengisian: 22 November 2026
+
+## 1. Identitas Pengguna dan Konteks Komunikasi
+
+**Nama pengguna:** Muhammad Rafi Fadillah
+**Target (pribadi):** Tiga anggota kelompok tubes IF2040 Pemodelan Basis Data: Dika (STI, teman kos), Hana (STI), dan Rizky (STI)
+**Tanggal dan setting:** Rabu, 18 November 2026, pukul 20.15 WIB, pesan pembagian tugas di grup WA kelompok. Tindak lanjut pribadi pada Kamis, 19 November 2026, pukul 21.20 WIB.
+**Domain komunikasi:** ☑ **Rekan Kerja dan Pelanggan (Profesional)**, yaitu koordinasi dan pembagian tugas.
+
+**Analisis tiga lapis:**
+- **Pribadi (*dignity & history*):** Mereka teman satu angkatan yang akan terus saya temui di kelas dan tubes lain. Dari pengalaman PRD dan PSTI (W10), saya tahu anggota yang pasif biasanya **tidak malas, tapi tidak yakin bisa**. Riwayat ini tidak diketahui AI dan harus tercermin di pesan.
+- **Kepribadian (*trends*):** Dika cepat merespons dan suka bagian teknis. Hana rapi dan suka dokumen. Rizky jarang bicara di grup dan biasanya baru membalas kalau ditanya langsung.
+- **Peran naratif saya:** Inisiator tubes yang **tegas soal tenggat, tapi tidak memaksa tugas yang di luar kemampuan orang**. Peran ini tidak saya delegasikan ke AI.
+
+**Objective dan state (TAIDA):** Semua anggota sudah tahu ada tubes (**Attention**) dan ingin lulus (**Desire**). Yang belum ada adalah **Action**: setiap orang memegang satu bagian dengan tenggat. *Objective:* pesan pembagian tugas yang membuat tiap orang **memilih sendiri** bagiannya sebelum Kamis, 19 November, pukul 21.00.
+
+## 2. Matriks Lampu Lalu Lintas Risiko (diterapkan ke tugas saya)
+
+| Tingkat | Tugas komunikasi saya di tubes | Keputusan AI |
+| :--- | :--- | :--- |
+| 🟢 **Hijau** | Merapikan tabel pembagian tugas, mengecek salah ketik, menghitung tenggat mundur | AI boleh dipakai luas, hasil saya cek |
+| 🟡 **Kuning** | **Draf pesan pembagian tugas ke grup** | AI sebagai **Kopilot** penyusun draf, dengan tinjauan manusia ketat soal nada dan asumsi |
+| 🔴 **Merah** | Menindaklanjuti anggota yang diam atau tidak mengerjakan; percakapan saat konflik (termasuk dengan kakak laki-laki saya di rumah); menilai "si A malas atau tidak" | **Tidak memakai AI.** Saya lakukan langsung dan manual |
+
+## 3. Spesifikasi Kopilot Komunikasi
+
+| Komponen | Isi |
+| :--- | :--- |
+| **Memori relasi** | Anggota pasif di tubes sebelumnya bergerak ketika diberi tugas yang **mereka rasa sanggup** (W10). Ada riwayat saya mengambil alih bagian orang diam-diam, dan ini tidak ingin saya ulangi. |
+| **Tujuan transisi** | Desire → **Action**: tiap orang menulis nama + bagian di grup sebelum tenggat. |
+| **Peran AI** | ☑ **Kopilot** (penyusun draf) |
+| **Data minimum** | Mata kuliah, jumlah anggota, daftar komponen tugas, tenggat. **Tanpa** nama anggota, NIM, nilai, atau cerita siapa yang dulu tidak mengerjakan. |
+| **Kewenangan AI** | ☑ Menyusun draf pesan secara utuh, **tetapi** draf wajib saya revisi sebelum dikirim. |
+| **Larangan** | Tidak boleh menyalahkan, tidak boleh memberi label karakter ("yang biasanya malas"), tidak boleh membuat janji palsu ("pasti dapat A"), tidak boleh membuat urgensi palsu. |
+| **Mitigasi risiko** | Tenggat dan daftar komponen saya cocokkan manual dengan soal tubes di Edunex. Draf saya baca dengan membayangkan diri sebagai anggota yang paling tidak yakin. |
+| **Tinjauan manusia** | Saya baca ulang dua kali: sekali sebagai koordinator (apakah jelas?), sekali sebagai anggota yang paling pasif (apakah terasa ditekan?). |
+
+## 4. Evidence: Prompt → Output AI → Revisi Manusia
+
+**Prompt yang saya kirim ke AI (Claude):**
+```text
+Kamu berperan sebagai kopilot penyusun draf. Saya koordinator tubes Pemodelan
+Basis Data dengan 4 anggota (termasuk saya). Tenggat pengumpulan Jumat, 4 Desember.
+Komponen tugas: (1) ERD + kamus data, (2) skema relasional + normalisasi,
+(3) SQL: DDL, data dummy, dan 10 query, (4) laporan + slide.
+Buat draf pesan WhatsApp singkat (maks. 100 kata) untuk grup yang:
+- mengajak tiap orang MEMILIH bagian yang dia rasa sanggup,
+- menyebut batas waktu memilih (Kamis, 19 Nov, 21.00) dan checkpoint (Senin, 30 Nov),
+- memberi ruang untuk bilang "belum sanggup" tanpa merasa bersalah.
+Larangan: jangan menyalahkan siapa pun, jangan memberi label karakter,
+jangan janji palsu, jangan menekan. Bahasa santai-sopan mahasiswa.
+```
+
+**Output AI (tidak diubah):**
+> Halo semua! Tubes Basis Data dikumpul Jumat, 4 Desember. Biar aman, yuk bagi tugas dulu. Ada 4 bagian: 1) ERD + kamus data, 2) Skema relasional + normalisasi, 3) SQL: DDL, data dummy, 10 query, 4) Laporan + slide. Pilih bagian yang paling kalian rasa sanggup, tulis nama + nomor di bawah sebelum Kamis, 19 Nov jam 21.00. Kalau belum yakin atau lagi padat, bilang aja, nanti kita atur bareng—nggak apa-apa kok. Cek progres bareng Senin, 30 Nov, cukup kirim screenshot hasil sementara. Makasih semuanya! 🙌
+
+**Revisi manusia:**
+
+| Bagian output AI | Keputusan | Alasan saya |
+| :--- | :--- | :--- |
+| Struktur 4 bagian, ajakan memilih sendiri, tenggat memilih, checkpoint | **Diterima** | Sesuai pelajaran W10: tugas dipilih sesuai kemampuan, dengan checkpoint. |
+| "Kalau belum yakin… nanti kita atur bareng—nggak apa-apa kok." | **Diubah** | Terlalu longgar dan membuka celah lepas tangan seperti di PRD. Diganti dengan "bilang sebelum checkpoint, nanti kita tuker", ditambah kalimat kontribusi jujur. |
+| Tidak ada definisi selesai per bagian | **Ditambah** | Pelajaran relay salah beli di W10: tanpa definisi selesai, tugas bisa "selesai" tapi salah. |
+| "Halo semua!" dan emoji 🙌 | **Ditolak** | Gaya grup ini datar dan to the point. Emoji terasa seperti pesan otomatis, bukan dari saya. |
+| "Cukup kirim screenshot hasil sementara" | **Diterima** | Membuat checkpoint terasa ringan, bukan pemeriksaan. |
+
+**Pesan final yang saya kirim (Rabu, 18 Nov 2026, 20.15):**
+> Guys, tubes Basis Data dikumpul Jumat, 4 Des jam 23.59. Gua usul kita bagi 4 bagian:
+> 1) ERD + kamus data, beres kalau semua entitas & atribut dari soal masuk
+> 2) Skema relasional + normalisasi sampai 3NF, beres kalau tiap tabel ada alasan normalisasinya
+> 3) SQL: DDL + 30 data dummy + 10 query soal, beres kalau semua query jalan di MySQL tanpa error
+> 4) Laporan + slide, beres kalau semua bagian template laporan terisi
+> Pilih yang paling lu sanggup, tulis nama + nomor sebelum Kamis 19 Nov jam 21.00. Checkpoint Senin 30 Nov, cukup kirim screenshot progres. Kalau ragu sama bagiannya, bilang sebelum checkpoint, nanti kita tuker. Bagian yang akhirnya dikerjain orang lain bakal ditulis jujur di pembagian kontribusi ya.
+
+**Response grup:**
+
+| Waktu | Respons |
+| :--- | :--- |
+| Rabu, 20.31 | Dika: "3 gua ya, SQL." |
+| Rabu, 21.05 | Hana: "Aku 4, laporan + slide. Template laporannya pakai yang dari asisten kan?" |
+| Kamis, 21.00 | Rizky belum membalas (dibaca, tidak dibalas) |
+
+**Tindak lanjut zona merah, tanpa AI (chat pribadi ke Rizky, Kamis, 21.20):**
+*   **Saya:** "Riz, santai, gua cuma mau cek. Sisa bagian 1 sama 2. Lu lebih nyaman yang mana, atau ada yang bikin lu ragu?"
+*   **Rizky:** "Sorry Raf, gua sebenernya belum ngerti normalisasi. Takut salah. Gua ERD aja boleh?"
+*   **Saya:** "Boleh banget. ERD lu, normalisasi gua. Kalau ERD-nya mentok, kirim aja draf kasarnya, nanti kita lihat bareng."
+*   **Rizky:** "Oke, makasih Raf."
+
+**Bukti action:** Semua bagian terisi dalam ±25 jam. Rizky mengirim draf ERD pertama ke grup pada Sabtu, 21 November, pukul 15.40, lebih awal dari checkpoint.
+
+## 5. Privacy, Authority & Risk Review
+
+- **Privacy:** Yang masuk ke AI hanya struktur tugas. Nama anggota, NIM, dan riwayat siapa yang dulu pasif **tidak** dimasukkan.
+- **Profiling:** Saya tidak meminta AI menebak siapa yang akan malas atau bagaimana cara "menangani" orang tertentu.
+- **Manipulation:** Prompt secara eksplisit melarang urgensi palsu dan tekanan.
+- **Hallucination:** Tenggat dan komponen di output AI saya cocokkan dengan soal tubes di Edunex. Tidak ditemukan kesalahan, tapi tenggat jam (23.59) saya tambahkan sendiri dari soal.
+- **Dependency:** AI hanya menyusun **satu** draf. Membaca respons grup dan menindaklanjuti Rizky saya kerjakan langsung.
+- **Authority:** Pembagian akhir dan keputusan menukar bagian ada di kelompok, bukan di AI. Keputusan nilai tetap di dosen.
+
+## 6. Alasan Tidak Memakai AI Lebih Banyak
+
+Saya **tidak** memakai AI untuk menindaklanjuti Rizky. Itu termasuk zona merah: pesannya personal, butuh membaca kenapa dia diam, dan relasinya harus saya pegang sendiri. Ternyata alasannya "takut salah di normalisasi", sesuatu yang tidak mungkin ditebak AI dari pesan grup. Kemampuan saya yang paling berguna di tubes, yaitu membaca siapa yang sanggup mengerjakan apa, terbentuk dari pengalaman langsung di PRD dan PSTI. Kalau itu didelegasikan ke AI, saya kehilangan kompetensi yang justru membuat tubes saya selesai. Hal yang sama berlaku di rumah: saat konflik dengan kakak, saya tidak akan pernah meminta AI menyusun kata-kata, karena di sana yang dibutuhkan adalah kehadiran, bukan kalimat yang rapi.
+
+## 7. Daftar Periksa Etika (Final Gate)
+
+- [x] Saya memegang tanggung jawab penuh atas dampak relasional pesan ini.
+- [x] Output AI sudah saya periksa terhadap fakta (tenggat, komponen), bias, dan nada.
+- [x] Pesan memperlakukan anggota sebagai pribadi, bukan kategori "anggota malas".
+- [x] AI tidak dipakai untuk konflik atau tindak lanjut zona merah.
+- [x] Data sensitif disamarkan sebelum masuk AI.
+
+## 8. Pernyataan Transparansi
+
+"Draf pesan pembagian tugas ini disusun dengan bantuan AI (Claude) sebagai Kopilot pada tahap persiapan, sedangkan seluruh revisi aturan definisi selesai, penentuan nada pesan, tindak lanjut zona merah kepada Rizky, serta tanggung jawab relasional kelompok sepenuhnya berada pada Muhammad Rafi Fadillah."
+
+## 9. Feedback dan Tindak Lanjut
+
+**Feedback yang diterima:** Hana membalas di grup, *"Enak ada 'beres kalau'-nya, jadi tahu standarnya."* Rizky di chat pribadi: *"Makasih Raf udah nanya langsung, di grup gua sungkan."*
+**Adaptation:** Diamnya Rizky tidak saya anggap setuju, tidak saya serahkan ke AI, dan tidak saya ambil alih diam-diam seperti di PRD. Saya tanya langsung dan menukar bagian sesuai kemampuannya.
+**Next practice:** Sebelum memakai AI untuk pesan apa pun, saya tentukan warnanya (hijau/kuning/merah) **dalam 10 detik pertama**, dan semua pesan merah saya tulis sendiri.
+
+## 10. Self-Assessment
+
+| Dimensi | Skor | Evidence Singkat |
+| :--- | :---: | :--- |
+| **Person & Character** | 4 | Tiga lapis pribadi dipetakan, termasuk riwayat relasi dari W10 yang tidak diketahui AI. |
+| **Objective & State** | 4 | State TAIDA (Desire → Action) jelas; objective tercapai dalam ±25 jam. |
+| **Repertoire, Language & AI** | 4 | Peran Kopilot dibatasi tegas; prompt, output, dan revisi bisa dibandingkan baris per baris. |
+| **Response & Adaptation** | 4 | Diamnya Rizky ditindaklanjuti manual dan menghasilkan pertukaran bagian. |
+| **Agreement, Action & Relationship** | 4 | Semua bagian punya pemilik, definisi selesai, dan checkpoint; Rizky merasa aman bicara. |
+| **Total** | **20/20** | |

@@ -1,0 +1,139 @@
+---
+title: "Capstone Performance Portfolio"
+week: 15
+status: "Draft"
+self_score: "19/20"
+assessor_score: "—"
+description: "Integrated person-centered communication performance."
+categories: [Assessment, Capstone]
+---
+
+## Kompetensi target
+
+Mengintegrasikan person, character, objective, state, repertoire, language, response, agreement, action, relationship, dan AI judgment.
+
+## Evidence wajib
+
+- Person/character/state map dan performance plan.
+- Rekaman/transcript, observer feedback, serta decisive adaptation.
+- Agreement/action atau specific disagreement, relationship outcome, AI critique, dan reflection.
+
+::: {.callout-tip title="Lihat contoh pengisian"}
+[Buka contoh fiktif Minggu 15](../examples/week-15.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+:::
+
+{{< include ../includes/evidence-template.md >}}
+
+Nama Lengkap: Muhammad Rafi Fadillah
+NIM: 18225115
+Program Studi: Sistem dan Teknologi Informasi
+Tanggal Pengisian: 22 November 2026
+
+## 1. Konteks Performance
+
+**Tanggal dan setting:** Kamis, 19 November 2026, sesi Capstone di kelas KIPP. Kelompok kami mendapat **Skenario 1 — Smart campus service dengan lima stakeholder**: usulan antrean digital untuk loket layanan akademik (pengurusan surat aktif kuliah, legalisir, dan sejenisnya) di Tata Usaha fakultas. Performance berlangsung ±20 menit tanpa script penuh, lalu feedback dan replay 5 menit.
+**Persons dan relationship:** Saya berperan sebagai **mahasiswa pengembang sekaligus fasilitator** (bukan pemilik sistem dan bukan pengambil keputusan). Empat teman sekelompok memerankan Kepala Bagian TU (pemegang keputusan), petugas loket, perwakilan mahasiswa pengguna, dan staf TI fakultas; masing-masing memegang kartu *hidden objective* dari dosen. Dika menjadi observer dengan lembar observasi.
+**Objective dan initial state:** *Initial states* (terbaca saat performance): perwakilan mahasiswa di Desire ("pengen bisa booking online"), petugas di Attention tetapi defensif, TI di Target (belum dilibatkan), Kepala TU di Interest tetapi khawatir biaya dan beban. *Objective:* Menghasilkan keputusan berbasis evidence (lanjut, ubah, atau berhenti) beserta owner dan review, atau *specific disagreement* yang jelas, sambil menjaga relationship antarpihak.
+
+## 2. Evidence (Person/State Map, Performance Plan, Transcript, Observer, Replay)
+
+**Person/character/state map dan performance plan:**
+
+| Person/character | Hidden objective (terungkap saat performance) | Constraint | Authority | State awal → akhir |
+| :--- | :--- | :--- | :--- | :--- |
+| **Kepala TU** | Tidak menambah biaya rutin semester ini | Anggaran sudah dikunci | Tinggi | Interest → Action (pilot terbatas) |
+| **Petugas loket** | Tidak mau disalahkan bila sistem error dan mahasiswa marah di loket | Hanya 2 petugas | Sedang (menjalankan) | Attention defensif → Desire bersyarat |
+| **Mahasiswa pengguna** | Bisa tahu estimasi waktu tanpa menunggu berjam-jam | Banyak yang datang di sela kuliah | Rendah | Desire → specific disagreement |
+| **Staf TI** | Tidak mau memelihara aplikasi baru tanpa tambahan orang | Satu orang untuk satu fakultas | Sedang (teknis) | Target → Interest |
+| **Saya** (pengembang/fasilitator) | Pilot berjalan dan dapat diukur | Bukan pemilik sistem | Rendah | — |
+
+*Plan:* 2 menit menyajikan data observasi antrean (fiktif dari kartu skenario: rata-rata tunggu 52 menit di jam sibuk), verifikasi interpretasi tiap pihak, munculkan opsi, negosiasi, lalu *explicit close*.
+
+**Transcript momen menentukan (dari rekaman ponsel Dika, ditranskrip ulang):**
+> **Saya:** "Dari data ini, aplikasi booking online bisa memangkas waktu tunggu. Saya usul kita langsung pakai untuk semua layanan mulai bulan depan."
+> **Petugas:** "Mas, maaf. Separuh mahasiswa datang tanpa booking. Kalau aplikasinya error, yang dimarahi kami di loket, bukan aplikasinya."
+> **Staf TI:** "Dan saya sendirian. Aplikasi baru artinya siapa yang jaga kalau down?"
+> *(Saya berhenti ±3 detik, menutup slide usulan.)*
+> **Saya:** "Saya terlalu cepat ke solusi penuh. Boleh saya cek dulu: yang paling berat buat Ibu itu antreannya sendiri, atau risiko disalahkan kalau sistem gagal?"
+> **Petugas:** "Disalahkannya. Antre panjang kami sudah biasa."
+> **Saya (ke TI):** "Kalau begitu, versi paling ringan apa yang masih bisa Bapak dukung tanpa menambah aplikasi untuk dipelihara?"
+> **Staf TI:** "Kalau cuma papan nomor antrean di layar yang sudah ada plus form Google buat pengambilan surat, itu saya sanggup."
+
+Momen ini adalah pola lama saya (W03, W05, W07: langsung menawarkan solusi IT) yang muncul lagi di bawah tekanan waktu, tetapi kali ini saya mengenalinya *saat itu juga* dan mengubah arah.
+
+**Observer feedback (lembar Dika, diringkas):**
+- *Asumsi yang diuji:* "Rafi sempat mengasumsikan semua pihak ingin aplikasi, lalu mengujinya dengan bertanya ke petugas."
+- *Hidden concern ditemukan:* "Takut disalahkan (petugas) dan beban pemeliharaan (TI)."
+- *Perubahan repertoire:* "Dari presentasi satu arah ke pertanyaan; slide ditutup."
+- *Momen state mundur:* "Petugas sempat mundur ke defensif saat 'langsung pakai untuk semua layanan'."
+- *Kelemahan:* "Kata 'memangkas waktu tunggu' terlalu yakin padahal belum ada uji. Mahasiswa pengguna kurang diberi ruang setelah opsi berubah."
+
+**Replay (5 menit, momen yang sama):**
+> **Saya:** "Data awal menunjukkan antrean di jam sibuk bisa sampai 50-an menit. Saya belum tahu solusi mana yang cocok untuk loket ini. Sebelum bicara alat, apa yang paling berat bagi masing-masing dari Bapak/Ibu kalau antrean ini diubah?"
+> *(Petugas langsung menyebut risiko disalahkan, TI menyebut kapasitas pemeliharaan, mahasiswa menyebut ketidakpastian waktu.)*
+> **Saya (ke mahasiswa pengguna):** "Kalau booking penuh belum bisa, informasi apa yang paling membantu kamu supaya tidak menunggu tanpa kepastian?"
+> **Mahasiswa:** "Minimal tahu nomor sekarang berapa dari luar ruangan, biar bisa ke kantin dulu."
+> Perubahan terlihat pada response: petugas tidak lagi defensif dan mahasiswa ikut menyusun opsi, bukan hanya menuntut aplikasi.
+
+**Agreement/action dan specific disagreement (hasil akhir performance):**
+- **Agreement:** pilot 2 minggu di **satu loket** (surat aktif kuliah): nomor antrean ditampilkan di layar TV lobi yang sudah ada; pengambilan surat jadi bisa diisi lewat form; tidak ada aplikasi baru.
+- **Owner:** Staf TI menyiapkan tampilan nomor dan form; petugas memegang tombol "jeda" bila sistem bermasalah dan kembali ke nomor kertas; saya mengumpulkan data waktu tunggu dan menyusun laporan; Kepala TU memutuskan lanjut/berhenti.
+- **Review:** akhir minggu kedua pilot; indikator: waktu tunggu, jumlah keluhan di loket, dan berapa kali sistem dijeda.
+- **Specific disagreement:** perwakilan mahasiswa tetap menginginkan booking online penuh. Hal ini **tidak** disetujui semester ini karena kapasitas TI, tetapi dicatat sebagai bahan keputusan setelah review.
+
+**Relationship outcome:** petugas (di sesi debrief) menyatakan "kalau ada tombol jeda, saya merasa nggak sendirian". TI menerima peran terbatas yang sesuai kapasitas. Mahasiswa tidak mendapat semua yang diinginkan, tetapi alasannya terlihat dan dicatat.
+
+## 3. Analisis Komunikasi
+
+| Elemen | Evidence dan Analisis |
+| :--- | :--- |
+| **Person & Character** | Lima person dengan role, power, dan hidden objective dipetakan; saya menjaga *character* sebagai fasilitator, bukan pemilik sistem, dan menyerahkan keputusan ke Kepala TU. |
+| **Objective & State** | Setiap pihak berada di *base* TAIDA berbeda; petugas sempat mundur ke defensif dan dipulihkan. Objective akhir berupa keputusan bersyarat dan *specific disagreement*, bukan "semua setuju". |
+| **Repertoire & Language** | Dari presentasi satu arah ke pertanyaan berbasis concern; klaim "memangkas waktu" diganti "data awal menunjukkan" saat replay. |
+| **Response & Adaptation** | Objection petugas dan TI langsung mengubah usulan dari aplikasi penuh menjadi pilot ringan; replay memperbaiki kelemahan yang dicatat observer. |
+| **Agreement/Action** | Owner, tombol jeda (safeguard), indikator, review, dan dissent dicatat secara eksplisit. |
+| **Relationship outcome** | Petugas merasa didukung, TI tidak dibebani melebihi kapasitas, mahasiswa memahami alasan penolakan. |
+
+## 4. Penggunaan AI (AI critique dan aturan pribadi)
+Dalam performance, kelompok kami memutuskan **tidak memakai AI saat interaksi** karena negosiasi ini menyangkut kepercayaan antarpihak dan semua informasi tersedia di ruangan. Sebelum kelas, saya memakai AI (Claude) sebagai *Coach* untuk roleplay petugas loket yang skeptis; latihan ini membantu, tetapi AI memerankan petugas yang khawatir soal *biaya*, padahal *hidden objective* nyata adalah takut disalahkan. Ini mengingatkan saya bahwa simulasi tidak pernah mengetahui state person nyata. Saat menyusun portfolio ini, AI membantu merapikan tabel dan memeriksa apakah ada klaim yang melebihi evidence.
+
+**Aturan pribadi saya untuk AI (hasil satu semester):**
+1. AI boleh membantu sebelum dan sesudah komunikasi (latihan, merapikan, memeriksa klaim), tetapi percakapan yang menyangkut *trust*, kekecewaan, atau *repair* tetap saya bawa sendiri.
+2. Tidak ada output AI yang dikirim atas nama kelompok tanpa dicek terhadap fakta yang disepakati dan disetujui pemegang authority.
+3. Nama, nomor, tangkapan layar chat, dan cerita pribadi orang lain tidak dimasukkan ke AI.
+4. Setiap angka dari AI yang tidak punya sumber tidak dipakai.
+
+## 5. Feedback dan Tindak Lanjut (Refleksi individual)
+
+**Feedback yang diterima:** Observer (Dika): adaptasi saya substantif, tetapi bahasa awal terlalu yakin dan mahasiswa pengguna kurang diberi ruang setelah opsi berubah.
+**Adaptation/Replay:** Pada replay, saya membuka dengan ketidakpastian dan bertanya ke mahasiswa pengguna secara langsung; response petugas dan mahasiswa berubah menjadi kolaboratif.
+
+**Refleksi individual (lima pertanyaan Capstone):**
+1. **Default lama saya:** langsung menawarkan solusi teknologi sebelum memahami person dan constraint-nya (W03 aplikasi Pomodoro untuk Dika, W05 Google Sheets untuk Rian, W07 aplikasi IoT untuk Mas Ujang).
+2. **Evidence perubahan saya:** di W10 saya mencoret opsi IoT saya sendiri dan memilih pilot pelampung dengan saklar manual; di W11 dan W12 saya mengumpulkan suara pihak yang paling lemah sebelum menyusun opsi; di Capstone saya menutup slide usulan sendiri setelah objection.
+3. **Character communicator yang ingin saya bangun:** "pengembang yang mendengar": orang IT yang dipercaya karena jujur soal batas pengetahuan dan menghormati authority orang lain.
+4. **Satu relationship habit saya:** menutup setiap diskusi penting dengan membacakan ulang kesepakatan (siapa, apa, kapan, review) dan menanyakan langsung orang yang diam.
+5. **Aturan pribadi saya untuk AI:** AI mendukung, manusia tetap bertanggung jawab (rincian di bagian 4).
+
+**Before/after satu semester:**
+
+| Aspek | Sebelum (awal semester) | Sesudah (evidence) |
+| :--- | :--- | :--- |
+| Saat orang mengeluh | Langsung memberi solusi | Paraphrase dan bertanya kebutuhan (W03, W14 Bima) |
+| Saat menawarkan solusi IT | *Feature dump* dan jargon | Problem dulu, satu mekanisme, informasi berlapis (W07) |
+| Klaim angka | Spontan ("hemat 30%") | Hanya angka dengan sumber; "belum tahu" bila tidak ada (W09, W13) |
+| Saat ingin cepat putus | *Pressure closing* | Barrier discovery, opsi, agreement tertulis (W10) |
+| Dalam kelompok | Debat posisi | Interest, common ground spesifik, cek silence (W11, W12) |
+
+**Next practice:** Mengucapkan batas evidence dalam kalimat pertama setiap kali menyampaikan data ("data awal menunjukkan…, yang belum saya tahu…"), dan memberi ruang bicara ulang kepada pihak pengguna setiap kali opsi berubah.
+
+## 6. Self-Assessment
+
+| Dimensi | Skor | Evidence Singkat |
+| :--- | :--- | :--- |
+| **Person & Character Recognition** | 4 | Lima person dengan role, power, dan hidden objective; character fasilitator dijaga. |
+| **Objective & State Recognition** | 4 | Multi-state TAIDA dikenali termasuk momen state mundur dan pemulihannya. |
+| **Repertoire, Language & AI Use** | 3 | AI dipakai proporsional dan dikritik; namun bahasa awal terlalu yakin sebelum replay. |
+| **Response, Listening & Adaptation** | 4 | Objection mengubah usulan secara nyata; replay memperbaiki kelemahan dari observer. |
+| **Agreement, Action & Relationship** | 4 | Owner, safeguard, review, dan specific disagreement eksplisit; relationship terjaga. |
+| **Total** | 19/20 | Skor bergantung pada rekaman/transkrip, lembar observer, dan catatan replay sebagai evidence. |

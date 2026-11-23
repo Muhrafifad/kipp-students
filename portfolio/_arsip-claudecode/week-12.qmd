@@ -1,0 +1,115 @@
+---
+title: "Community Communication Challenge"
+week: 12
+status: "Draft"
+self_score: "19/20"
+assessor_score: "—"
+description: "Framing, deliberation, sufficient agreement, dan collective action."
+categories: [Community, Deliberation]
+---
+
+## Kompetensi target
+
+Memfasilitasi community communication melintasi perbedaan dan power menuju action yang layak.
+
+## Evidence wajib
+
+- Community person map dan fact/story/value/position.
+- Sedikitnya tiga frames dan lima options.
+- Deliberation evidence, safeguard, action, dan review plan.
+
+::: {.callout-tip title="Lihat contoh pengisian"}
+[Buka contoh fiktif Minggu 12](../examples/week-12.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+:::
+
+{{< include ../includes/evidence-template.md >}}
+
+Nama Lengkap: Muhammad Rafi Fadillah
+NIM: 18225115
+Program Studi: Sistem dan Teknologi Informasi
+Tanggal Pengisian: 22 November 2026
+
+## 1. Konteks Performance
+
+**Tanggal dan setting:** Minggu, 15 November 2026, pukul 19.30–20.45 WIB, pertemuan penghuni di teras kos. Hadir 13 dari 16 penghuni, Pak Darto, dan Mas Ujang. Sebelumnya, Jumat 13 November, saya mendatangi Bu Sri (tetangga persis sebelah kos) untuk mendengar keluhannya secara langsung.
+**Persons dan relationship:** Saya (penghuni, diminta Pak Darto memandu karena sudah dipercaya dalam urusan pompa di W10), penghuni dengan jadwal berbeda, Pak Darto (pemilik dan pembuat aturan), Mas Ujang (pemegang kunci gerbang), serta Bu Sri sebagai tetangga yang tidak hadir tetapi terdampak.
+**Objective dan initial state:** Muncul perselisihan soal jam malam gerbang (dikunci pukul 23.00). *Initial state:* grup WhatsApp kos memanas: penghuni yang pulang malam merasa diperlakukan seperti anak kecil, Pak Darto mengancam "yang nggak suka silakan pindah", dan Bu Sri mengeluh suara motor tengah malam. *Objective:* Memfasilitasi deliberasi dari debat menjadi *sufficient agreement* yang mencatat bagian yang disepakati, *dissent*, *safeguard*, action, dan review.
+
+## 2. Evidence (Community Map, Frames, Options, dan Deliberasi)
+
+**Community person map dan fact/story/value/position:**
+
+| Person/kelompok | Fact yang dibawa | Story/interpretation | Value | Position awal |
+| :--- | :--- | :--- | :--- | :--- |
+| **Penghuni pulang malam** (praktikum, kepanitiaan, 2 orang kerja *part-time*) | Dalam 2 minggu, 5 kali penghuni tertahan di luar gerbang setelah 23.00 | "Aturan ini nggak paham jadwal mahasiswa." | Akses dan rasa dipercaya | Hapus jam malam |
+| **Pak Darto** | Tahun lalu ada motor penghuni hilang saat gerbang tidak terkunci | "Kalau gerbang dibuka, kos nggak aman." | Keamanan dan tanggung jawab sebagai pemilik | Gerbang tetap 23.00 |
+| **Mas Ujang** | Ia dibangunkan 3 kali minggu lalu untuk membuka gerbang | "Saya juga perlu tidur." | Istirahat dan batas kerja | Tidak mau jadi penjaga 24 jam |
+| **Bu Sri** (tetangga) | Suara motor masuk gang membangunkan cucunya, terutama 23.00–01.00 | "Anak kos nggak menghargai tetangga." | Ketenangan bertetangga | Motor jangan masuk malam-malam |
+| **Penghuni yang tidur awal** (termasuk Dika) | Suara gerbang besi dan motor terdengar ke kamar depan | "Yang pulang malam nggak mikirin yang tidur." | Istirahat | Netral, ingin tenang |
+
+**Tiga frames yang diuji:**
+1. **Keamanan** — fokus pada motor hilang dan siapa yang bisa masuk.
+2. **Akses yang adil** — penghuni membayar sewa yang sama tetapi jadwalnya berbeda.
+3. **Hidup bertetangga yang saling jaga** — keamanan, istirahat, dan akses adalah kebutuhan bersama, bukan milik satu kubu.
+
+Frame ketiga paling membuka percakapan karena tidak menempatkan penghuni pulang malam sebagai "pengganggu" ataupun Pak Darto sebagai "otoriter".
+
+**Lima opsi (dikumpulkan sebelum ada yang dinilai):**
+
+| Opsi | Keamanan | Akses | Ketenangan | Beban Mas Ujang |
+| :--- | :--- | :--- | :--- | :--- |
+| 1. Gerbang tetap 23.00, tanpa pengecualian | Tinggi | Rendah | Tinggi | Sedang (sering dibangunkan) |
+| 2. Jam malam diundur ke 24.00 | Sedang | Sedang | Rendah | Sedang |
+| 3. Duplikat kunci gembok untuk penghuni yang mendaftar + log masuk malam | Sedang–tinggi | Tinggi | Sedang | Rendah |
+| 4. Setelah 23.00 mesin motor dimatikan dari mulut gang dan didorong masuk | Tidak berubah | Tidak berubah | Tinggi | Rendah |
+| 5. Pilot 2 minggu gabungan opsi 3 + 4, dengan review | Dapat diuji | Tinggi | Dapat diuji | Rendah |
+
+**Momen kunci deliberasi (rekonstruksi dari catatan saya):**
+*   **Pak Darto:** "Kalau semua pegang kunci, nanti digandain ke orang luar."
+*   **Saya (memisahkan fact dari interpretation):** "Yang Bapak alami faktanya motor hilang saat gerbang tidak terkunci. Kekhawatiran Bapak soal kunci digandakan itu wajar, tapi belum terjadi. Boleh kita cari cara supaya kuncinya tercatat?"
+*   **Pak Darto:** "Kalau namanya dicatat dan kuncinya dikembalikan kalau pindah, bisa saya pertimbangkan."
+*   **Bima (penghuni kerja *part-time*):** "Yang penting aku nggak harus nunggu di luar sampai pagi."
+*   **Saya (membawa suara yang tidak hadir):** "Jumat kemarin saya ketemu Bu Sri. Beliau nggak mempermasalahkan jam pulangnya, tapi suara motor masuk gang. Cucunya sering kebangun."
+*   **Dika:** "Jujur itu juga yang ganggu kamar depan."
+
+Informasi dari Bu Sri mengubah arah: masalah ketenangan bukan soal *jam pulang*, melainkan *cara masuk*. Ini memunculkan opsi 4 yang tidak terpikir sebelumnya.
+
+**Sufficient agreement:**
+- **Disepakati:** pilot opsi 5 selama 16–29 November 2026. 11 dari 13 penghuni hadir setuju; 1 abstain; 1 (Bima) setuju dengan catatan bahwa ia ingin jam malam dihapus permanen. Pak Darto menyetujui sebagai pemilik.
+- **Dissent tercatat:** Bima menilai jam malam tidak perlu sama sekali. Pak Darto menilai pilot ini "percobaan, bukan aturan baru".
+- **Safeguards:** duplikat kunci hanya untuk penghuni yang mendaftar ke Mas Ujang dan dikembalikan saat pindah; tidak ada foto/nama pelanggar di grup; teguran pertama secara pribadi oleh Mas Ujang; gerbang tetap dikunci ulang setiap masuk.
+- **Action dan owner:** Mas Ujang mendata dan membagikan 6 duplikat kunci (biaya duplikat ditanggung masing-masing penghuni); saya membuat log masuk malam (kertas di pos) dan pengumuman di grup; Pak Darto memberi tahu Bu Sri tentang pilot; semua penghuni mematikan mesin dari mulut gang setelah 23.00.
+- **Review:** Minggu, 29 November 2026 pukul 19.30. Indikator: jumlah penghuni tertahan di luar, jumlah Mas Ujang dibangunkan, keluhan Bu Sri, dan kunci yang tidak tercatat.
+
+**Evidence awal (16–21 November):** 0 penghuni tertahan di luar; Mas Ujang dibangunkan 0 kali; log mencatat 9 kali masuk setelah 23.00; Bu Sri menyampaikan ke Pak Darto bahwa "sudah lebih sepi", tetapi sekali masih ada motor yang dinyalakan di gang (21 November). Data ini masih sangat kecil dan belum dapat disimpulkan sebagai keberhasilan.
+
+## 3. Analisis Komunikasi
+
+| Elemen | Evidence dan Analisis |
+| :--- | :--- |
+| **Person & Character** | Komunitas dipetakan sebagai *persons* dengan jadwal, pengalaman, dan power berbeda. Bu Sri yang tidak hadir didengar langsung sebelum forum, bukan diwakili tebakan saya. |
+| **Objective & State** | Fact (motor hilang, 5 kali tertahan, suara motor) dipisahkan dari story ("nggak menghargai", "otoriter"). *Objective* bergeser dari "menentukan jam" ke "mengatur cara masuk yang aman dan tenang". |
+| **Repertoire & Language** | Tiga frames, lima opsi sebelum menilai, paraphrase yang adil, dan memunculkan suara pihak yang tidak hadir. Saya tidak memulai dengan voting. |
+| **Response & Adaptation** | Informasi bahwa Bu Sri terganggu oleh *suara*, bukan *jam*, memunculkan opsi 4. Kekhawatiran Pak Darto soal kunci diubah menjadi safeguard pendaftaran kunci. |
+| **Agreement/Action** | *Sufficient agreement* memuat bagian yang disepakati, dissent, safeguard, owner, indikator, dan tanggal review. Action sudah berjalan sejak 16 November. |
+| **Relationship outcome** | Grup kos berhenti saling sindir; Pak Darto mencabut kalimat "silakan pindah" di forum. Bima tetap berbeda pendapat, tetapi menyatakan pendapatnya dicatat. |
+
+## 4. Penggunaan AI
+AI (Claude) dipakai setelah forum untuk memeriksa apakah ringkasan pengumuman saya menghilangkan *dissent* atau safeguard. AI menandai bahwa draf saya belum menyebut posisi Bima dan belum menyebut bahwa ini pilot, bukan aturan permanen; keduanya saya tambahkan. Percakapan grup WhatsApp, nama penghuni, dan nomor kamar tidak dimasukkan ke AI. AI tidak dipakai untuk "memerankan" Bu Sri, karena simulasi bukan konsultasi.
+
+## 5. Feedback dan Tindak Lanjut
+
+**Feedback yang diterima:** Bu Sri (lewat Pak Darto): "Sudah lebih sepi, tapi masih ada satu-dua yang nyalain motor di gang." Bima: "Pendapat aku dicatat, itu udah cukup buat sekarang."
+**Adaptation/Replay:** Setelah laporan 21 November, saya mengirim pengingat di grup tanpa menyebut nama dan menambahkan tanda kecil "Matikan mesin di sini" di mulut gang (atas izin Pak Darto). Dampaknya akan dilihat pada review 29 November.
+**Next practice:** Memulai setiap deliberasi dengan mendengar pihak yang paling terdampak tetapi paling tidak mungkin hadir, sebelum menyusun opsi.
+
+## 6. Self-Assessment
+
+| Dimensi | Skor | Evidence Singkat |
+| :--- | :--- | :--- |
+| **Person & Character** | 4 | Lima kelompok/person termasuk tetangga yang tidak hadir dipetakan dengan fact/story/value/position. |
+| **Objective & State** | 4 | Fact dan interpretation dipisahkan; objective bergeser berdasarkan informasi baru. |
+| **Repertoire, Language** | 4 | Tiga frames, lima opsi, paraphrase adil, dan tanpa voting di awal. |
+| **Response & Adaptation** | 4 | Suara Bu Sri memunculkan opsi baru; kekhawatiran pemilik menjadi safeguard. |
+| **Agreement, Action** | 3 | Sufficient agreement lengkap, tetapi hasil pilot baru seminggu dan review belum dilakukan. |
+| **Total** | 19/20 | Deliberasi lengkap; evidence hasil tindakan kolektif masih awal. |

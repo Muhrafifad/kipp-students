@@ -1,16 +1,15 @@
 student:
-  name: "Nama Mahasiswa"
-  id: "NIM"
-  program: "Program Studi"
-  cohort: "Angkatan"
-  email: "nama@kampus.ac.id"
+  name: "Muhammad Rafi Fadillah"
+  id: "18225115"
+  program: "Sistem dan Teknologi Informasi"
+  cohort: "2025"
+  email: "—"
 
 course:
   code: "KIPP-2"
   name: "Komunikasi Inter Personal dan Publik"
   lecturer: "Armein Z. R. Langi"
-  semester: "Semester / Tahun Akademik"
+  semester: "Ganjil 2026/2027"
 
 repository:
-  url: "https://github.com/USERNAME/NAMA-REPOSITORY"
-
+  url: "https://github.com/Muhrafifad/kipp-students"

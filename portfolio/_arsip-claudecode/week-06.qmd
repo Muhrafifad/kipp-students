@@ -1,0 +1,106 @@
+---
+title: "Target–Attention Challenge"
+week: 6
+status: "Draft"
+self_score: "19/20"
+assessor_score: "—"
+description: "Target map, attention pitch, response, dan state assessment."
+categories: [TAIDA, Attention]
+---
+
+## Kompetensi target
+
+Memilih target person yang tepat dan membuat issue diakui relevan melalui evidence.
+
+## Evidence wajib
+
+- Target map dan alasan memilih satu target.
+- Problem/opportunity pitch serta evidence.
+- Response, state sesudah pitch, dan adaptation.
+
+::: {.callout-tip title="Lihat contoh pengisian"}
+[Buka contoh fiktif Minggu 6](../examples/week-06.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+:::
+
+{{< include ../includes/evidence-template.md >}}
+
+Nama Lengkap: Muhammad Rafi Fadillah
+NIM: 18225115
+Program Studi: Sistem dan Teknologi Informasi
+Tanggal Pengisian: 22 November 2026
+
+## 1. Konteks Performance
+
+**Tanggal dan setting:** Senin, 5 Oktober 2026, pukul 19.30 WIB, di teras depan kos saat Mas Ujang (penjaga kos) sedang menyapu. Sebelumnya, selama 28 September–4 Oktober saya mencatat kejadian pompa air di kos.
+**Persons dan relationship:** Saya (penghuni kos, mahasiswa STI) dan Mas Ujang (penjaga kos yang setiap hari menyalakan dan mematikan pompa air secara manual). Hubungan kami akrab tetapi tetap ada jarak peran: saya penyewa, ia pekerja yang bertanggung jawab kepada Pak Darto (pemilik kos).
+**Objective dan initial state:** Air di tandon atas beberapa kali meluap sampai menetes ke lorong lantai 2 karena pompa lupa dimatikan. *Initial state:* Mas Ujang belum pernah membicarakan masalah ini dengan penghuni dan kemungkinan menganggapnya hal biasa. *Objective:* Bukan menawarkan alat, tetapi membuat Mas Ujang mengakui (atau mengoreksi) bahwa masalah luapan air ini relevan baginya.
+
+## 2. Evidence (Target Map, Pitch, dan Response)
+
+**Problem kos (satu kalimat berbasis fakta):** Dalam tujuh hari terakhir, tandon air atas kos meluap tiga kali sehingga air menetes ke lorong lantai 2, dan setiap kejadian baru diketahui setelah ada penghuni yang melapor.
+
+**Target Map:**
+
+| Person/Character | Hubungan dengan problem | Pengaruh | Authority | Current state |
+| :--- | :--- | :---: | :---: | :--- |
+| **Mas Ujang** (penjaga kos) | Menyalakan/mematikan pompa, mengepel lorong saat luber | Tinggi | Sedang (menjalankan proses) | Mengalami, belum membicarakan |
+| **Pak Darto** (pemilik kos) | Menanggung tagihan air & listrik, memutuskan perbaikan | Tinggi | Tinggi (anggaran & izin) | Belum tahu frekuensinya |
+| **Penghuni lantai 2** (termasuk Dika) | Terkena tetesan air, lantai licin | Sedang | Rendah | Sadar, hanya mengeluh di grup |
+| **Saya** (penghuni dengan latar IoT) | Melihat pola & punya ide teknis | Rendah | Rendah | Terlalu cepat ingin memberi solusi |
+
+**Alasan memilih Mas Ujang sebagai target awal:** Ia yang paling dekat dengan masalah, mengalami dampaknya langsung (harus mengepel), dan bisa memvalidasi atau membantah catatan saya. Mendatangi Pak Darto lebih dulu berisiko membuat Mas Ujang merasa "dilaporkan" dan kehilangan *trust*. Saya juga sengaja **tidak** membawa ide *smart home* dari W04 agar tidak berada di *base* yang salah.
+
+**Evidence yang saya kumpulkan (catatan pribadi 28 Sep–4 Okt):**
+
+| Tanggal | Kejadian | Diketahui dari |
+| :--- | :--- | :--- |
+| 29 Sep (pagi) | Air menetes di depan kamar 2C | Laporan Dika di grup kos |
+| 1 Okt (malam) | Suara air jatuh dari talang ±20 menit | Saya dengar sendiri |
+| 3 Okt (siang) | Lorong lantai 2 basah, Mas Ujang mengepel | Saya lihat sendiri |
+
+Catatan batas evidence: ini hanya tujuh hari dan hanya yang saya ketahui; saya belum tahu siapa yang menyalakan pompa.
+
+**Attention pitch (problem-oriented, ±35 kata):**
+> "Mas, minggu ini saya nyatet air tandon luber tiga kali, yang terakhir Mas sampai ngepel lorong lantai 2. Saya belum tahu penyebabnya. Itu juga jadi kerjaan tambahan buat Mas nggak sih?"
+
+**Rekonstruksi response:**
+*   **Mas Ujang:** "Wah iya, Mas. Capek juga ngepel terus. Tapi itu bukan saya yang lupa matiin, lho. Anak-anak suka nyalain sendiri pas air di kamar mandi kecil, terus ditinggal."
+*   **Saya (membaca koreksi, tidak membela catatan):** "Oh, berarti yang nyalain pompa bukan cuma Mas ya? Saya kira selama ini cuma Mas yang pegang."
+*   **Mas Ujang:** "Saklarnya di dekat tangga, siapa aja bisa pencet. Saya juga nggak bisa nungguin terus, kan saya juga ngurus parkiran."
+*   **Saya (adaptasi objective):** "Kalau gitu, sebelum ngomongin solusi apa pun, boleh nggak kita catat seminggu ke depan siapa yang nyalain pompa dan jam berapa? Saya bikinin kertas di samping saklar, Mas tinggal centang kalau Mas yang nyalain."
+*   **Mas Ujang:** "Boleh, Mas. Biar ketahuan juga bukan saya terus yang salah."
+
+**State setelah pitch:** dari *problem aware* (mengalami tapi diam) menjadi **Attention dengan koreksi penyebab**. Signal yang teramati: Mas Ujang mengakui dampak ("capek ngepel"), mengoreksi asumsi saya tentang siapa yang menyalakan pompa, dan menambahkan *constraint* (ia juga mengurus parkiran). Ia belum sampai Interest karena belum menanyakan solusi apa pun.
+
+**Agreement kecil:** Log sederhana di samping saklar pompa selama 6–12 Oktober; Mas Ujang mencentang, saya mengingatkan penghuni di grup tanpa menyebut nama siapa pun.
+
+## 3. Analisis Komunikasi
+
+| Elemen | Evidence dan Analisis |
+| :--- | :--- |
+| **Person & Character** | Saya membedakan Mas Ujang sebagai *person* (lelah, takut disalahkan) dan *character* penjaga kos (pelaksana tanpa wewenang anggaran). Target dipilih berdasarkan pengalaman langsung, bukan berdasarkan siapa yang punya kuasa. |
+| **Objective & State** | *Objective* awal "membuat Mas Ujang mengakui masalah" tercapai, tetapi bergeser menjadi "mengumpulkan evidence penyebab bersama" setelah koreksinya. State terbaca sebagai Attention, belum Interest. |
+| **Repertoire & Language** | Pitch dibuat singkat dengan pola *Observasi → Dampak → Periksa*. Saya menyebut bahwa saya belum tahu penyebabnya agar tidak terdengar menuduh, dan memakai bahasa santai-sopan ("Mas"). |
+| **Response & Adaptation** | Koreksi "bukan saya yang lupa" saya baca sebagai *signal* attention sekaligus kekhawatiran disalahkan. Adaptasi: tidak berdebat soal catatan saya, langsung mengubah langkah berikutnya menjadi log bersama yang juga melindungi Mas Ujang. |
+| **Agreement/Action** | Kesepakatan log satu minggu dengan peran jelas (Mas Ujang mencentang, saya membuat kertas dan mengingatkan grup). |
+| **Relationship outcome** | Mas Ujang merasa dibela ("biar ketahuan bukan saya terus"), bukan diawasi. Percakapan berikutnya terbuka. |
+
+## 4. Penggunaan AI
+AI (Claude) dipakai saat menyusun portfolio ini untuk merapikan struktur target map dan tabel analisis agar sesuai rubrik. Saya juga meminta AI memeriksa apakah pitch saya mencampur *evidence* dengan *inference*; hasilnya, kalimat "pompanya pasti sering lupa dimatikan Mas" saya ganti menjadi "saya belum tahu penyebabnya". AI tidak dipakai untuk membuat data kejadian, dan nama penghuni tidak dimasukkan ke AI.
+
+## 5. Feedback dan Tindak Lanjut
+
+**Feedback yang diterima:** Koreksi Mas Ujang bahwa penyebab luapan bukan dirinya, melainkan saklar yang bisa dipencet semua penghuni, menunjukkan *initial story* saya salah sasaran.
+**Adaptation/Replay:** Saya mengganti tujuan dari "mencari solusi" menjadi "mengumpulkan data penyebab". Respons setelah perubahan: Mas Ujang langsung setuju dan bahkan ikut mencatat.
+**Next practice:** Menyebut batas evidence saya (ukuran sampel, siapa yang belum saya tanya) dalam satu kalimat di setiap pitch, lalu berhenti dan mendengar.
+
+## 6. Self-Assessment
+
+| Dimensi | Skor | Evidence Singkat |
+| :--- | :--- | :--- |
+| **Person & Character** | 4 | Empat target dipetakan berdasarkan pengalaman, pengaruh, authority, dan state; pilihan target diberi alasan relasional. |
+| **Objective & State** | 4 | State sebelum (diam) dan sesudah (Attention dengan koreksi) dibaca dari response teramati. |
+| **Repertoire, Language** | 3 | Pitch singkat dan berbasis evidence, tetapi data saya hanya tujuh hari dan belum mencakup penyebab. |
+| **Response & Adaptation** | 4 | Koreksi target langsung mengubah objective menjadi pengumpulan data bersama. |
+| **Agreement, Action** | 4 | Log bersama disepakati dengan peran jelas dan menjaga *trust* Mas Ujang. |
+| **Total** | 19/20 | Target dan state terbaca jelas; kelemahan utama ada pada keterbatasan evidence awal. |

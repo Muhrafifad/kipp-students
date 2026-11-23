@@ -1,8 +1,8 @@
 ---
 title: "Community Communication Challenge"
 week: 12
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "20/20"
 assessor_score: "—"
 description: "Framing, deliberation, sufficient agreement, dan collective action."
 categories: [Community, Deliberation]
@@ -22,4 +22,151 @@ Memfasilitasi community communication melintasi perbedaan dan power menuju actio
 [Buka contoh fiktif Minggu 12](../examples/week-12.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+Nama Lengkap: Muhammad Rafi Fadillah
+NIM: 18225115
+Program Studi: Sistem dan Teknologi Informasi
+Tanggal Pengisian: 22 November 2026
+
+## 1. Identitas & Konteks Performance
+
+**Kasus komunitas:** Motor penghuni kos yang diparkir di gang menghalangi akses warga.
+**Tanggal dan setting:** Minggu, 15 November 2026, pukul 19.30–20.30 WIB, di pos ronda ujung gang, setelah Pak Joko (Ketua RT) meminta perwakilan kos hadir karena ada keluhan warga.
+
+| Peran | Person | Character dan konteks |
+| :--- | :--- | :--- |
+| **Fasilitator** | Saya | Penghuni kos, diminta teman-teman kos menjadi perwakilan; Pak Joko setuju saya memandu diskusi |
+| **A: Warga lansia** | Pak Hasan (±70 tahun) | Rumahnya persis di depan gang; menggunakan kursi roda saat kontrol ke rumah sakit |
+| **B: Penghuni kos** | Naufal (STI), Kevin (Aktuaria) | Mewakili 9 penghuni; garasi kos hanya muat 4 motor, padahal ada 7 motor |
+| **C: Pedagang kecil** | Bu Siti | Berjualan gorengan dengan gerobak di mulut gang pukul 15.00–20.00 |
+| **D: Pengelola wilayah** | Pak Joko (Ketua RT) | Punya otoritas mengatur warga, tapi tidak punya anggaran dan tidak mau dianggap memihak |
+
+**Objective dan initial state:** Pak Joko menerima dua keluhan dari Pak Hasan: mobil jemputan rumah sakit tidak bisa masuk gang. Di grup kos, sebagian penghuni merasa "dituduh" dan mulai menulis nada membela diri. *Objective saya:* membawa forum dari saling menyalahkan menjadi pilot kesepakatan yang adil dan bisa ditinjau, **bukan** memenangkan kepentingan kos.
+
+**Fakta yang saya kumpulkan sebelum forum (Jumat 13 dan Sabtu 14 November, pukul 19.00 dan 07.00):**
+
+| Waktu | Motor kos di gang | Lebar gang tersisa | Catatan |
+| :--- | :---: | :---: | :--- |
+| Jumat 19.00 | 3 motor | ±1,2 m | Gerobak Bu Siti di mulut gang |
+| Sabtu 07.00 | 3 motor | ±1,2 m | Mobil (lebar ±1,7 m) tidak bisa masuk |
+
+## 2. Lapisan Perbedaan: Fakta, Interpretasi, Nilai, Posisi (Fase 1)
+
+| Pemangku Kepentingan | Posisi | Fakta Objektif | Interpretasi Subjektif | Nilai/Kebutuhan Dasar |
+| :--- | :--- | :--- | :--- | :--- |
+| **A: Pak Hasan** | "Anak kos jangan parkir di gang sama sekali!" | Dua kali mobil jemputan rumah sakit tidak bisa masuk; ia harus didorong di kursi roda ±40 m | "Anak kos nggak peduli sama orang tua." | **Keselamatan dan martabat**: tidak mau merepotkan orang saat sakit |
+| **B: Penghuni kos** | "Kita nggak punya tempat lain buat parkir." | Garasi muat 4, motor ada 7; tidak ada lahan parkir sewa dalam radius 200 m yang diketahui | "Warga nyari-nyari kesalahan anak kos." | **Kepastian**: motor aman dan bisa dipakai kuliah pagi |
+| **C: Bu Siti** | *(diam di awal)* | Gerobak memakan ±0,6 m mulut gang pukul 15.00–20.00 | *(Takut ikut disalahkan dan disuruh pindah)* | **Mata pencaharian**: pembeli utamanya anak kos dan warga gang |
+| **D: Pak Joko** | "Saya nggak mau ribut, pokoknya diatur." | Tidak ada aturan RT tertulis soal parkir; tidak ada kas untuk marka atau portal | "Kalau saya tegas ke anak kos, nanti dibilang anti-pendatang." | **Ketertiban dan netralitas**: dianggap adil oleh semua |
+
+## 3. Detoks Bingkai Masalah (Fase 2)
+
+**Bingkai serangan yang muncul di awal forum:**
+- Pak Hasan: *"Anak kos itu seenaknya, gang ini bukan parkiran!"*
+- Kevin: *"Kita juga bayar kos di sini, Pak, masa nggak boleh parkir."*
+
+**Tiga bingkai alternatif yang saya tawarkan ke forum:**
+1. **Bingkai keselamatan/akses darurat:** "Bagaimana memastikan mobil darurat selalu bisa masuk sampai depan rumah Pak Hasan?"
+2. **Bingkai desain ruang:** "Bagaimana memakai lebar gang dan garasi kos yang ada secara lebih efisien?"
+3. **Bingkai jadwal penggunaan:** "Jam berapa gang paling butuh lebar penuh, dan jam berapa tidak?"
+
+**Bingkai masalah bersama yang disepakati forum:**
+> *"Bagaimana kita bisa menjaga gang selalu cukup lebar untuk mobil darurat dan kursi roda Pak Hasan, sekaligus memastikan motor penghuni kos punya tempat aman dan Bu Siti tetap bisa berjualan?"*
+
+## 4. Deliberasi (Fase 3)
+
+*   **Saya (membuka):** "Malam, Bapak-Ibu. Saya di sini bukan buat membela kos, tapi buat bantu cari jalan yang bisa dijalani bareng. Boleh saya mulai dari fakta yang saya catat dua hari ini?" *(membacakan tabel fakta)*
+*   **Pak Hasan:** "Nah, itu. 1,2 meter. Mobil nggak masuk." *(nada tinggi)*
+*   **Saya (parafrasa netral, nilai di balik posisi):** "Saya mendengar yang paling Bapak butuhkan itu kepastian kalau Bapak harus ke rumah sakit, mobilnya bisa sampai depan rumah, tanpa Bapak harus didorong jauh. Betul, Pak?"
+*   **Pak Hasan:** *(nada turun)* "Iya. Saya malu, Nak, didorong-dorong di gang begitu."
+*   **Kevin:** "Kami juga nggak tahu soal itu, Pak. Kami kira cuma masalah ganggu lewat."
+*   **Saya (intervensi suara sunyi):** "Bu Siti, dari tadi Ibu belum bicara. Kalau nanti ada aturan baru, apa yang paling Ibu khawatirkan?"
+*   **Bu Siti:** "Saya takut disuruh pindah, Mas. Saya cuma bisa jualan di situ, pembelinya anak kos sama warga sini."
+*   **Saya (membuat jelas):** "Jadi gerobak Ibu juga bagian dari lebar gang, tapi Ibu nggak mau kehilangan tempat. Kita catat dua-duanya."
+*   **Pak Joko:** "Saya maunya ada keputusan, tapi jangan saya yang disalahin."
+*   **Saya (menghormati otoritas tanpa membebaninya):** "Bagaimana kalau keputusan malam ini bukan aturan permanen, tapi uji coba dua minggu yang diumumkan Pak RT? Kalau nggak jalan, kita duduk lagi."
+*   **Pak Joko:** "Nah, itu saya setuju. Uji coba."
+
+**Lima opsi yang dikumpulkan (tanpa dinilai dulu):**
+
+| No | Opsi | Siapa diuntungkan | Siapa menanggung beban | Catatan *power* |
+| :-- | :--- | :--- | :--- | :--- |
+| 1 | Larangan total parkir di gang | Pak Hasan | Penghuni kos (3 motor tanpa tempat) | Mayoritas warga bisa memaksakan ini ke pendatang |
+| 2 | Parkir **satu sisi saja**, maksimal 2 motor, rapat ke dinding kos | Semua sebagian | Penghuni kos (perlu disiplin) | Seimbang |
+| 3 | **Garasi kos ditata ulang** (motor miring, rak helm di dinding) agar muat 6 | Semua | Penghuni kos (kerja bakti) dan izin Bu Ratna | Tergantung pemilik kos |
+| 4 | Sewa halaman kosong milik warga | Penghuni kos | Penghuni kos (biaya) | Belum ada warga yang menawarkan |
+| 5 | **Zona steril depan rumah Pak Hasan** (±5 m) sepanjang waktu | Pak Hasan | Semua | Melindungi pihak paling rentan |
+| 6 | Gerobak Bu Siti bergeser 1 m ke teras warung kosong di sebelah, dengan izin pemilik | Semua | Bu Siti (sedikit) | Harus sukarela, bukan dipaksa |
+
+**Penilaian opsi oleh forum:** Opsi 1 ditolak Naufal dan Kevin karena memindahkan masalah ke penghuni kos tanpa alternatif. Opsi 4 belum mungkin. Forum memilih **gabungan opsi 2 + 3 + 5**, sedangkan opsi 6 diserahkan ke Bu Siti sendiri.
+
+**Catatan observasi fasilitator:**
+- **Paling dominan di awal:** Pak Hasan dan Kevin, karena keduanya membawa bingkai serangan.
+- **Paling diam:** Bu Siti.
+- **Cara memunculkan suara sunyi:** pertanyaan langsung yang aman ("apa yang paling Ibu khawatirkan?"), lalu kekhawatirannya dicatat sebagai syarat, bukan dinilai.
+
+## 5. Kesepakatan Pilot (Fase 4)
+
+**Nama pilot:** Gang Lega Dua Minggu
+**Durasi:** Senin, 16 November – Minggu, 29 November 2026
+
+| Peran/Pihak | Tindakan Nyata | Tenggat | Definisi Selesai & Indikator |
+| :--- | :--- | :--- | :--- |
+| **Penghuni kos (koordinator: Naufal)** | Menata ulang garasi agar muat 6 motor; maksimal 1 motor di gang, rapat dinding kos | Garasi: Selasa, 17 Nov | Sisa lebar gang ≥1,8 m saat dicek pukul 07.00 dan 19.00 |
+| **Semua** | Zona steril ±5 m depan rumah Pak Hasan, ditandai cat kapur | Senin, 16 Nov | Zona tetap kosong sepanjang pilot |
+| **Pak Joko** | Mengumumkan pilot di grup RT dan menempel pengumuman di pos ronda | Senin, 16 Nov | Pengumuman terkirim dan tertempel |
+| **Bu Siti** | *(Sukarela)* mencoba menggeser gerobak 1 m ke teras warung kosong | Mulai Rabu, 18 Nov, kalau ia mau | Bu Siti menyatakan sendiri setuju atau tidak |
+| **Saya** | Mencatat lebar gang dua kali sehari dan merekap keluhan | Setiap hari selama pilot | Rekap dikirim ke Pak Joko tiap Minggu |
+
+**Perlindungan risiko:**
+- *Risiko terbesar:* mobil darurat tetap tidak bisa masuk saat Pak Hasan butuh.
+- *Tombol darurat:* nomor HP Naufal dan saya ditempel di pintu Pak Hasan. Kalau ada kendaraan darurat, motor di gang dipindahkan **maksimal 10 menit** setelah ditelepon. Kalau terjadi lebih dari sekali, pilot dihentikan dan forum dipanggil ulang.
+
+**Jadwal evaluasi bersama:** Minggu, 29 November 2026, pukul 19.30 WIB, di pos ronda.
+
+**Bukti action sampai 22 November (hari ke-7):**
+
+| Indikator | Hasil |
+| :--- | :--- |
+| Garasi ditata ulang | Selesai Selasa, 17 Nov; muat 6 motor (kerja bakti 5 penghuni, izin Bu Ratna lewat WA) |
+| Lebar gang pukul 07.00 dan 19.00 | ≥1,8 m di 13 dari 14 pengecekan; 1 kali 1,4 m (motor tamu penghuni) |
+| Zona steril depan rumah Pak Hasan | Tetap kosong |
+| Panggilan tombol darurat | 1 kali (Kamis, 19 Nov, mobil antar galon); motor dipindahkan dalam 7 menit |
+| Bu Siti | Mencoba geser sejak Rabu; menurutnya "malah lebih adem di teras" |
+
+## 6. Evaluasi Jalur Ganda (Fase 5)
+
+**Jalur tugas, skor 4/5:** Indikator utama (lebar ≥1,8 m, zona steril) terpenuhi hampir sepanjang minggu pertama, dan tombol darurat berfungsi dalam batas waktu. Belum 5 karena masih ada satu pelanggaran dari tamu penghuni, dan pilot belum selesai dievaluasi bersama.
+
+**Jalur relasi, skor 5/5:** Pak Hasan yang awalnya marah menutup forum dengan *"Terima kasih ya, Nak, sudah dengerin orang tua."* Bu Siti mendapat ruang bicara dan memutuskan sendiri soal gerobaknya. Pak Joko mendapat keputusan tanpa harus memihak. Di grup kos, nada membela diri berubah menjadi koordinasi ("yang punya tamu, motornya masuk garasi ya").
+
+## 7. Analisis Komunikasi
+
+| Elemen | Evidence dan Analisis |
+| :--- | :--- |
+| **Person & Character** | Komunitas dipetakan sebagai person, bukan kubu "warga vs anak kos". Pak Hasan dibaca dari martabatnya ("malu didorong-dorong"), bukan sekadar sebagai pengeluh. |
+| **Objective & State** | Fakta dipisahkan dari interpretasi dan nilai. Forum bergerak dari Attention (marah) ke Desire bersama (bingkai masalah bersama) ke Action (pilot). |
+| **Repertoire & Language** | Tiga bingkai alternatif, parafrasa netral, intervensi suara sunyi, dan lima opsi sebelum memilih. |
+| **Response & Adaptation** | Kebutuhan Pak Joko akan netralitas mengubah bentuk keputusan dari aturan permanen menjadi pilot. Kekhawatiran Bu Siti membuat opsi geser gerobak bersifat sukarela. |
+| **Agreement/Action** | *Sufficient agreement*: pilot dengan pemilik tugas, indikator terukur, tombol darurat, dan evaluasi bertanggal. Action sudah berjalan 7 hari dengan data. |
+| **Relationship outcome** | Pihak yang paling rentan (Pak Hasan) dilindungi lewat zona steril; suara minoritas (Bu Siti) tidak hilang; relasi kos–warga membaik. |
+
+## 8. Pernyataan Penggunaan AI
+
+Membantu menguji tiga draf kalimat reframing masalah bersama dan memastikan tabel empat lapisan konflik (Fakta, Interpretasi, Nilai, Posisi) terisi seimbang tanpa nada menyalahkan penghuni kos maupun warga.
+
+## 9. Feedback dan Tindak Lanjut
+
+**Feedback yang diterima:** Pak Joko menyampaikan di grup RT, *"Cara diskusinya enak, nggak ada yang merasa disalahkan."* Naufal memberi masukan bahwa saya sempat terlalu lama di bagian fakta sehingga Pak Hasan memotong dua kali.
+**Adaptation/Replay:** Saat Pak Hasan memotong, saya berhenti membacakan tabel dan langsung memparafrasa kebutuhannya. Setelah itu nadanya turun dan diskusi bisa berlanjut. Untuk forum evaluasi 29 November, saya akan membuka dengan **satu angka** saja, lalu langsung menanyakan pengalaman masing-masing pihak selama pilot.
+**Next practice:** Membuka forum komunitas dengan pertanyaan tentang pengalaman pihak yang paling terdampak sebelum menyajikan data, supaya data terdengar sebagai bantuan, bukan pembelaan.
+
+## 10. Self-Assessment
+
+| Dimensi | Skor | Evidence Singkat |
+| :--- | :---: | :--- |
+| **Person & Character** | 4 | Empat pihak dipetakan sampai nilai dasar dan ketimpangan *power* (warga lama vs pendatang). |
+| **Objective & State** | 4 | Fakta/interpretasi/nilai/posisi dipisahkan; perpindahan state forum terbaca dari respons. |
+| **Repertoire, Language & AI** | 4 | Tiga bingkai, lima+ opsi, parafrasa netral, intervensi suara sunyi. |
+| **Response & Adaptation** | 4 | Respons Pak Joko dan Bu Siti mengubah bentuk dan sifat kesepakatan. |
+| **Agreement, Action & Relationship** | 4 | Pilot dengan pengaman, indikator, review terjadwal, dan data action minggu pertama. |
+| **Total** | **20/20** | |

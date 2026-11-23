@@ -1,8 +1,8 @@
 ---
 title: "Public Contribution Challenge"
 week: 13
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "20/20"
 assessor_score: "—"
 description: "Public artifact, evidence, context, response, dan reputation."
 categories: [Public, Contribution]
@@ -22,4 +22,158 @@ Mengomunikasikan core meaning kepada public secara sederhana, benar, dan bertang
 [Buka contoh fiktif Minggu 13](../examples/week-13.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+Nama Lengkap: Muhammad Rafi Fadillah
+NIM: 18225115
+Program Studi: Sistem dan Teknologi Informasi
+Tanggal Pengisian: 22 November 2026
+
+## 1. Konteks Performance
+
+**Kelompok:** Saya (penyusun utama naskah, data, dan desain visual), Fajar (membantu pengukuran ulang speed test), Naufal (penguji "publik awam" pertama).
+**Tanggal dan setting:** Draf disusun Sabtu, 21 November 2026, setelah access point di kos terpasang (lanjutan W11). Uji coba ke "publik umum" dilakukan Sabtu malam dengan teman kos non-STI. Artefak dipublikasikan Minggu, 22 November 2026, pukul 08.00 WIB sebagai carousel Instagram di akun pribadi saya dan dibagikan ke grup angkatan STI.
+**Public character:** **Citizen-scientist**: penghuni kos yang berbagi hasil pengukuran sendiri, beserta batasnya, bukan "ahli jaringan".
+**Objective dan initial state:** Di grup-grup kos dan angkatan, "Wi-Fi lemot" hampir selalu dijawab "upgrade paket" atau "provider-nya jelek". *Objective:* **understanding + satu aksi kecil**, yaitu publik mengukur dua titik sebelum memutuskan patungan upgrade. *Bukan* menjual alat atau menyalahkan provider.
+
+## 2. Target Public & TAIDA Map
+
+| Tingkat | Siapa | Konteks berbeda | TAIDA awal | Primary action yang diharapkan |
+| :--- | :--- | :--- | :--- | :--- |
+| **General public** | Pengikut Instagram saya (teman SMA, keluarga, mahasiswa lain) | Banyak yang tidak tinggal di kos | Target | Paham bahwa "internet" dan "Wi-Fi" berbeda |
+| **Character 1** | Anak kos yang sering mengeluh di grup | Patungan terasa berat (seperti Yusuf di W11) | Attention | Mengukur dua titik sebelum patungan |
+| **Character 2** | Pemilik/penjaga kos | Tidak paham istilah teknis; takut biaya kontrak | Target | Mau mendengar data dari penghuni |
+| **Individual person** | Teman angkatan yang membalas dan bertanya | Kondisi kos masing-masing berbeda | Interest | Mendapat jawaban yang sesuai kondisinya |
+
+## 3. Pemetaan Gagasan Inti (LK Fase 1)
+
+**1. Gagasan teknis:** Kecepatan Wi-Fi yang dirasakan di perangkat dibatasi oleh mata rantai terlemah antara paket ISP, router, dan kualitas sinyal radio di lokasi pengguna.
+
+**2. Penjelasan asli (bahasa teknis):** *"Throughput aktual pada klien Wi-Fi ditentukan oleh bottleneck end-to-end. Pada band 2,4/5 GHz, atenuasi sinyal akibat jarak dan material dinding menurunkan RSSI dan SNR, sehingga modulation coding scheme turun dan throughput jauh di bawah bandwidth WAN. Penambahan access point memperluas cakupan, tetapi tidak menambah kapasitas WAN."*
+
+**3. Makna inti yang tidak boleh berubah:** *Wi-Fi lemot di kamar belum tentu karena paket internetnya kecil; sering kali karena sinyal melemah di perjalanan. Cara mengetahuinya: bandingkan kecepatan di samping router dan di kamar.*
+
+## 4. Detoks Jargon (LK Fase 2)
+
+| No | Jargon | Terjemahan Bahasa Publik |
+| :-- | :--- | :--- |
+| 1 | *Bandwidth/WAN* | Keran air di depan rumah (paket dari provider) |
+| 2 | *Atenuasi sinyal/RSSI* | Sinyal melemah setiap menembus dinding dan lantai, seperti selang yang bocor |
+| 3 | *Throughput* | Kecepatan yang benar-benar sampai di HP atau laptopmu |
+| 4 | *Access point* | Keran kedua yang dipasang lebih dekat ke kamar |
+
+## 5. Empat Bahasa Publik (LK Fase 3)
+
+### Format A — Pitch 30 detik (pembuka video/slide pertama)
+
+> "Wi-Fi kos lemot padahal paketnya 50 Mbps? Di kos kami, dekat router 46 Mbps, di kamar lantai 2 cuma 3. Bisa jadi yang lemah jangkauannya, bukan paketnya. Sebelum patungan upgrade, mau coba cek dua titik ini dulu?"
+
+**Jumlah kata: 37 kata** ✓ *(Observasi → Kemungkinan → Periksa)*
+
+### Format B — Penjelasan 3 menit (naskah video *explainer*, ±297 kata, ±2,5–3 menit dibacakan)
+
+> Bayangin Wi-Fi itu kayak selang air. Paket internet dari provider itu keran di depan rumah. Router itu ujung selangnya. Nah, kalau air di kamar mandi lantai dua cuma netes, belum tentu kerannya yang kecil. Bisa jadi selangnya kepanjangan, tertekuk, atau bocor di jalan.
+>
+> Di kos kami kejadiannya persis begitu. Semua orang ngeluh Wi-Fi lantai dua lemot, dan usulan pertama adalah upgrade paket dari 50 ke 100 Mbps, patungan tiap bulan. Sebelum rapat, saya coba ukur pakai aplikasi speed test di dua titik. Di samping router hasilnya 46 Mbps, artinya paket 50 itu hampir penuh sampai ke router. Di kamar saya di ujung lantai dua, hasilnya cuma 3 Mbps.
+>
+> Jadi yang bocor bukan kerannya, tapi perjalanan sinyal dari router ke kamar. Sinyal Wi-Fi melemah setiap menembus dinding bata dan lantai cor, dan makin jauh makin lemah. Kalau kerannya diganti lebih besar tapi selangnya tetap bocor, air di lantai dua tetap netes, sementara kita bayar lebih mahal tiap bulan.
+>
+> Yang kami lakukan: memasang satu access point, semacam keran kedua, di lorong lantai dua, dan memindahkan router ke dekat tangga. Biayanya sekali bayar sekitar 360 ribu, dibagi sembilan orang. Seminggu kemudian, di kamar yang sama, speed test menunjukkan 28 Mbps.
+>
+> Tapi saya perlu jujur soal batasnya. Ini data dari satu kos, sembilan orang, dan diukur sekali sebelum dan sekali sesudah. Kalau kosmu besar, misalnya dua puluh kamar yang streaming bareng tiap malam, bisa jadi paketnya memang kekecilan. Access point juga bukan sulap: ia memperluas jangkauan, bukan menambah kapasitas paket.
+>
+> Jadi sarannya cuma satu langkah kecil sebelum patungan apa pun. Ukur di samping router, lalu ukur di kamar yang lemot. Kalau dua-duanya rendah, kemungkinan masalahnya di paket atau jam sibuk. Kalau cuma kamar yang rendah, kemungkinan besar masalahnya jangkauan. Dua angka itu bisa menghemat uang dan debat panjang di grup kos.
+
+### Format C — Ringkasan tulisan profesional (caption dan pesan ke pemilik kos, 170 kata)
+
+> Banyak penghuni kos langsung mengusulkan upgrade paket internet ketika Wi-Fi terasa lemot. Pengalaman kos kami menunjukkan bahwa langkah itu belum tentu tepat. Pada 16 November 2026, kami mengukur kecepatan di dua titik: 46 Mbps di samping router dan 3 Mbps di kamar lantai 2. Paket 50 Mbps sudah hampir penuh sampai router; yang melemah adalah sinyal ketika menembus dinding dan lantai. Setelah satu access point dipasang di lorong lantai 2 dengan biaya sekali bayar Rp360 ribu, kecepatan di kamar yang sama naik menjadi 28 Mbps. Penjelasan ini sejalan dengan panduan produsen perangkat jaringan yang menyebut jarak dan penghalang sebagai faktor utama kecepatan Wi-Fi. Namun, hasil ini berasal dari satu kos dengan sembilan penghuni dan hanya satu kali pengukuran. Pada kos besar dengan banyak pengguna bersamaan, paket yang terlalu kecil tetap bisa menjadi penyebab. Karena itu kami menyarankan satu langkah sederhana sebelum memutuskan apa pun: ukur kecepatan di samping router dan di kamar yang lemot. Jika keduanya sama-sama rendah, masalahnya mungkin di paket; jika hanya kamar yang rendah, masalahnya kemungkinan jangkauan.
+
+### Format D — Struktur visual (carousel Instagram, 6 slide)
+
+```
++---------------------------------------------------------------+
+| SLIDE 1  Judul: "Wi-Fi Kos Lemot? Cek Dua Titik Dulu"          |
+|          Ikon router — panah — ikon kamar                     |
++---------------------------------------------------------------+
+| SLIDE 2  Analogi: KERAN (paket) → SELANG (sinyal) → KAMAR     |
++---------------------------------------------------------------+
+| SLIDE 3  Data kos kami: [Router 46 Mbps] vs [Kamar 3 Mbps]    |
+|          Grafik batang sederhana, tanggal 16 Nov 2026         |
++---------------------------------------------------------------+
+| SLIDE 4  Yang kami lakukan: 1 access point + pindah router    |
+|          Sesudah: kamar 28 Mbps (21 Nov 2026)                 |
++---------------------------------------------------------------+
+| SLIDE 5  BATASNYA: 1 kos, 9 orang, 1x ukur sebelum-sesudah.   |
+|          Kos besar & jam sibuk → paket bisa jadi penyebabnya  |
++---------------------------------------------------------------+
+| SLIDE 6  AKSI: Ukur di samping router + di kamar.             |
+|          Dua-duanya rendah → cek paket. Kamar saja → jangkauan|
++---------------------------------------------------------------+
+```
+
+**Judul visual (tanpa clickbait):** *Wi-Fi Kos Lemot? Cek Dua Titik Dulu*
+**Alt text:** *"Carousel enam slide tentang Wi-Fi kos. Grafik batang membandingkan kecepatan 46 Mbps di samping router dan 3 Mbps di kamar lantai dua, lalu 28 Mbps setelah access point dipasang. Slide terakhir berisi langkah mengukur di dua titik."*
+
+**Sumber evidence yang dicantumkan di caption:**
+- Pengukuran sendiri (aplikasi speed test, 16 dan 21 November 2026, satu kali per titik). *Kualitas: data primer, sampel sangat kecil.*
+- Linksys Support, *"What affects your WiFi speed?"* — menjelaskan bahwa kecepatan Wi-Fi dipengaruhi lebih dari paket internet, termasuk tata letak rumah dan jarak. <https://support.linksys.com/kb/article/8111>
+- Panduan ISP (Bell Aliant) — jarak dari modem, penghalang, interferensi tetangga di hunian padat, dan penurunan di jam sibuk. <https://bellaliant.bell.ca/support/optimize-my-wi-fi-speed/4644>
+- Panduan Vfast — mesh/penempatan router memperbaiki **jangkauan**, bukan kecepatan paket. <https://vfastinternet.freshdesk.com/support/solutions/articles/203000064695>
+
+## 6. Context-Collapse & Reputation Check
+
+**Screenshot test pada draf pertama (Sabtu malam):** Draf awal slide 4 berjudul *"Upgrade Paket = Buang Duit"*. Saat saya bayangkan slide itu di-*screenshot* sendirian dan beredar di grup lain, pesannya menjadi **salah dan merugikan**: bisa membuat kos besar yang memang butuh paket lebih besar menunda perbaikan, dan bisa terbaca sebagai menyerang provider. **Revisi:** judul diganti menjadi *"Sebelum Upgrade, Cek Dua Titik"*, dan batas data dipindah ke slide tersendiri (slide 5) agar tidak tenggelam di caption.
+
+**Uji jargon dan distorsi ke publik awam (Sabtu, 21 Nov, 21.30):** Naufal (STI) dan Kevin (Aktuaria, non-teknis) membaca draf.
+
+| Dimensi (LK Fase 4) | Skor 1–3 | Bukti perilaku dan masukan |
+| :--- | :---: | :--- |
+| Kejernihan esensi | 3 | Kevin bisa mengulang makna inti dengan kalimatnya sendiri: "Jadi cek dulu di sebelah router sama di kamar ya." |
+| Kemerdekaan audiens | 3 | "Nggak maksa beli alat, cuma nyuruh ngukur." (Kevin) |
+| Kelenturan analogi | 2 → 3 | Kevin awalnya bingung dengan "access point". Setelah ditambah "keran kedua", ia langsung paham. |
+| Kejujuran batas | 3 | Naufal: "Slide 5 bikin gua percaya, karena lo ngaku datanya cuma satu kos." |
+
+**Rekomendasi perbaikan putaran kedua (sudah diterapkan):** menambahkan analogi "keran kedua" di slide 4 dan memisahkan batas data ke slide khusus.
+
+## 7. Response Publik & Koreksi
+
+**Respons dalam 12 jam pertama (Minggu, 22 Nov, 08.00–20.00):** 64 *likes*, 11 komentar, 9 kali dibagikan ke *story*, dan 3 pesan langsung.
+
+*   **Komentar Dimas (teman angkatan):** "Tapi kos gue 22 kamar, Raf. Di samping router pun cuma 8 Mbps jam 9 malam. Itu berarti paketnya kan?"
+*   **Saya (membalas, mengakui batas):** "Betul, Dim. Kalau di samping router aja udah rendah, apalagi jam sibuk, kemungkinan besar paketnya atau kepadatan pemakainya yang jadi masalah. Itu persis kasus yang di slide 5. Makasih udah nambahin contoh kos besar."
+*   **Komentar Salma (teman SMA, bukan anak kos):** "Jadi intinya nggak usah upgrade ya?"
+*   **Saya (mengoreksi salah tangkap):** "Bukan gitu, Sal. Intinya ukur dulu di dua titik, baru putuskan. Kadang memang perlu upgrade, kadang cukup perbaiki jangkauan."
+
+**Koreksi yang saya publikasikan:** Komentar Salma menunjukkan bahwa makna inti masih bisa disalahpahami sebagai "anti-upgrade". Pukul 19.30 saya **menyematkan (pin) komentar koreksi** dan memperbarui caption baris pertama menjadi: *"Ini bukan ajakan anti-upgrade. Ini ajakan ukur dulu sebelum patungan."* Tidak ada slide yang dihapus. Revisi dicatat di caption ("Diperbarui 22/11, 19.30: memperjelas maksud").
+
+**Dampak yang teramati (aksi utama):** Tiga orang membalas *story* dengan hasil ukur dua titik dari kos mereka. Salah satunya (Arya, teman kos) menemukan kamar sepupunya juga drop dari 40 ke 5 Mbps di lantai atas.
+
+## 8. Analisis Komunikasi
+
+| Elemen | Evidence dan Analisis |
+| :--- | :--- |
+| **Person & Character** | Publik dipecah menjadi tiga tingkat (umum, karakter anak kos/pemilik kos, individu yang membalas), masing-masing dengan konteks dan aksi berbeda. Saya hadir sebagai *citizen-scientist* yang sesuai otoritas saya (penghuni yang mengukur), bukan ahli. |
+| **Objective & State** | Objective dibatasi pada pemahaman dan satu aksi kecil. Satu artefak tidak memaksa semua orang sampai Action. |
+| **Repertoire & Language** | Satu makna inti dikemas dalam empat format (37 kata, ±297 kata, 170 kata, carousel 6 slide). Jargon diterjemahkan lewat analogi keran–selang. Batas data mendapat slide tersendiri. |
+| **Response & Adaptation** | Screenshot test mengubah judul yang berpotensi menyesatkan sebelum terbit. Respons Dimas diakui sebagai batas yang benar. Salah tangkap Salma ditangani dengan koreksi yang disematkan dan caption yang diperbarui secara terbuka. |
+| **Agreement/Action** | Aksi utama ("ukur dua titik") dilakukan oleh tiga orang yang membagikan hasilnya. |
+| **Relationship outcome** | Tidak ada pihak yang diserang (provider, pemilik kos). Koreksi dilakukan terbuka sehingga reputasi dibangun lewat akuntabilitas, bukan kesempurnaan. |
+
+## 9. Penggunaan AI
+
+Pengukuran speed test, pembuatan desain visual carousel, publikasi di Instagram, serta interaksi balasan komentar dilakukan secara mandiri. AI (Claude) digunakan sebagai penguji keterbacaan (jargon checker) untuk memeriksa draf penjelasan 3 menit dan ringkasan 170 kata, serta membantu mensimulasikan kemungkinan salah tafsir (screenshot test) sebelum konten dipublikasikan. Kalimat koreksi yang disematkan pada kolom komentar ditulis sendiri setelah membaca tanggapan nyata dari pengikut.
+
+## 10. Feedback dan Tindak Lanjut
+
+**Feedback yang diterima:** Komentar Dimas tentang kos 22 kamar dan salah tangkap Salma ("jadi nggak usah upgrade?").
+**Adaptation/Replay:** Caption baris pertama diperbarui dan komentar koreksi disematkan. Untuk artefak berikutnya, kalimat batas akan saya taruh di slide **kedua**, bukan kelima, karena banyak orang tidak menggeser sampai akhir.
+**Next practice:** Menjalankan screenshot test pada **setiap** slide sebelum publikasi, dan menyiapkan satu kalimat koreksi standar ("Ini bukan…, ini…") untuk salah tangkap yang paling mungkin terjadi.
+
+## 11. Self-Assessment
+
+| Dimensi | Skor | Evidence Singkat |
+| :--- | :---: | :--- |
+| **Person & Character** | 4 | Publik dipetakan tiga tingkat; public character sesuai otoritas nyata. |
+| **Objective & State** | 4 | TAIDA per tingkat publik; objective dibatasi pada pemahaman dan satu aksi. |
+| **Repertoire, Language & AI** | 4 | Empat format dengan makna inti yang sama, jargon diterjemahkan, sumber dicantumkan. |
+| **Response & Adaptation** | 4 | Screenshot test sebelum terbit dan koreksi terbuka setelah terbit. |
+| **Agreement, Action & Relationship** | 4 | Aksi utama teramati; akuntabilitas lewat koreksi yang dicatat. |
+| **Total** | **20/20** | |
